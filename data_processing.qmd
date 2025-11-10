@@ -1,0 +1,79 @@
+---
+title: "data processing"
+format: pdf
+---
+
+```{r echo=FASLE}
+library(tidyverse)
+library(readr)
+```
+
+```{r include=FALSE}
+#Reading in data set that has cy young award
+cy_votes <- read_csv("raw_data/AwardsSharePlayers.csv") %>%
+  #filter out years older than 2000 and choose only Cy Young award
+    filter(yearID >= 2000,
+           awardID == "Cy Young Award") %>% 
+  #create a rowID for ease of use. Observations are players in a year
+    mutate(rowID = paste0(playerID, "_", yearID)) %>% 
+    arrange(yearID)
+#Reading in data from the pitching dataset
+pitching_stats <- read_csv("raw_data/Pitching.csv") %>%
+  #filter out years older than 2000
+    filter(yearID >= 2000) %>%
+  #Create a rowID for ease of use
+    mutate(rowID = paste0(playerID, "_", yearID),
+           #IPouts is defined as innings times 3
+           innings_pitched = IPouts / 3) %>%
+    filter(innings_pitched >= 50) %>% 
+    arrange(yearID)
+```
+
+```{r}
+length(unique(cy_votes$playerID)) # 229 cy young pitchers
+length(unique(pitching_stats$playerID)) # total number of pitcher pitched 50 innings or more
+unique(cy_votes$awardID) #veryfiying only award is Cy Young
+length(unique(cy_votes$rowID)) #445 observations in awards
+```
+
+```{r}
+processed <- pitching_stats %>%
+  #joing the data sets together
+  left_join(cy_votes, by = "rowID") %>%
+  #Fixing the mess that join makes
+  select(!ends_with(".y")) %>%
+  rename_with(~ sub("\\.x$", "", .x)) %>% 
+  #Removing players that more than one stint for ease and data clarity
+  group_by(rowID) %>% 
+  filter(n() == 1) %>% 
+  ungroup() %>% 
+  #identifying elite pitchers
+  mutate(elite = replace_na(pointsWon > 0, FALSE))
+nrow(processed)
+# 12 cy young pitchers had more than 2 stints. We are okay with losing them
+sum(processed$elite)
+```
+
+```{r}
+#training data is years less than 2024
+training_data <- processed %>%
+  filter(yearID < max(yearID)) %>% 
+  arrange(desc(yearID))
+#training data is 2024
+test_data <- processed %>%
+  filter(yearID == max(yearID))
+```
+
+```{r}
+#write the csv
+write_csv(training_data, "processed_data/training_data.csv")
+write_csv(test_data, "processed_data/test_data.csv")
+```
+
+
+```{r}
+glimpse(training_data)
+glimpse(test_data)
+```
+
+
