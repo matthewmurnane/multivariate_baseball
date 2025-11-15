@@ -1,0 +1,168 @@
+---
+title: "Data_Wrangling"
+output: html_document
+date: "2025-11-14"
+---
+
+```{r setup, include=FALSE}
+library(readr)
+library(dplyr)
+library(tidyr)
+library(stringr)
+
+# Helper function
+normalize_name <- function(x) {
+  x %>%
+    str_to_lower() %>%                 # lowercase
+    str_squish() %>%                  # trim whitespace
+    str_replace_all("\\.", "") %>%    # remove periods (A.J. -> aj)
+    iconv(from = "", to = "ASCII//TRANSLIT") %>%  # remove accents (Márquez -> Marquez)
+    str_replace_all("['`]", "") %>%   # remove stray apostrophes from transliteration
+    str_squish()
+}
+
+# Read data
+pitch_vel <- read_csv("pitch_velocity_master.csv")
+people    <- read_csv("people.csv")
+
+# Clean pitch velocity data
+pitch_vel_clean <- pitch_vel %>%
+  separate(
+    col  = "last_name, first_name",     
+    into = c("nameLast_raw", "nameFirst_raw"),
+    sep  = ",\\s*",                      
+    remove = FALSE
+  ) %>%
+  mutate(
+    nameLast  = normalize_name(nameLast_raw),
+    nameFirst = normalize_name(nameFirst_raw)
+  )
+
+# Clean People dataset
+people_clean <- people %>%
+  mutate(
+    nameLast  = normalize_name(nameLast),
+    nameFirst = normalize_name(nameFirst)
+  ) %>%
+  select(playerID, nameFirst, nameLast, birthYear)
+
+# Keep only unique name combinations
+people_unique <- people_clean %>%
+  add_count(nameFirst, nameLast, name = "n_name") %>%
+  filter(n_name == 1) %>%             # keep only names mapping to a single player
+  select(-n_name)
+
+# Join pitch velocity data with playerID
+pitch_vel_with_id <- pitch_vel_clean %>%
+  left_join(
+    people_unique,
+    by = c("nameFirst", "nameLast")
+  )
+
+# Check unmatched rows
+unmatched_names <- pitch_vel_with_id %>%
+  filter(is.na(playerID)) %>%
+  distinct(nameFirst, nameLast)
+
+unmatched_names
+
+# Remove players that did not have an ID match 
+pitch_vel_final <- pitch_vel_with_id %>%
+  filter(!is.na(playerID))
+
+
+
+
+# Keep only 4 pitch types and pivot to wide
+#    (one row per playerID-year with 4 velocity columns)
+
+pitch_vel_wide <- pitch_vel_final %>%
+  # only the 4 pitches we care about
+  filter(pitch_type %in% c("FF", "SL", "CH", "CU")) %>%
+  # create velocity column names
+  mutate(pitch_type = recode(pitch_type,
+                             FF = "FF_vel",
+                             SL = "SL_vel",
+                             CH = "CH_vel",
+                             CU = "CU_vel")) %>%
+  select(year, playerID, pitch_type, avg_speed) %>%
+  # in case there are duplicates for a player/pitch_type/year, average them
+  group_by(year, playerID, pitch_type) %>%
+  summarise(avg_speed = mean(avg_speed, na.rm = TRUE), .groups = "drop") %>%
+  # pivot wider: columns = FF_vel, SL_vel, CH_vel, CU_vel
+  pivot_wider(
+    names_from  = pitch_type,
+    values_from = avg_speed
+  ) %>%
+  rename(yearID = year)   # match Lahman naming
+
+# Read Lahman Pitching and AwardsSharePlayers
+
+pitching <- read_csv("Pitching.csv")
+awards   <- read_csv("AwardsSharePlayers.csv")
+
+# years to keep (2017-2023, excluding 2020)
+keep_years <- c(2017, 2018, 2019, 2021, 2022, 2023)
+
+# 3. Prep Pitching: filter years, remove team-changers,
+#    keep qualified pitchers (>= 50 IP)
+pitching_clean <- pitching %>%
+  filter(yearID %in% keep_years) %>%
+  # compute innings pitched from IPouts (3 outs per inning)
+  mutate(IP = IPouts / 3) %>%
+  # remove players who changed teams midseason
+  group_by(playerID, yearID) %>%
+  filter(n_distinct(teamID) == 1) %>%   # only 1 team for that year
+  ungroup() %>%
+  # keep one row per player-year (there should now be exactly 1)
+  select(playerID, yearID, teamID, IP, W, L, ERA, SO, BB, HR) %>%
+  # filter for qualified pitchers: at least 50 IP
+  filter(IP >= 50)
+
+# 4. Prep Cy Young awards data
+awards_cy <- awards %>%
+  filter(awardID == "Cy Young Award",
+         yearID %in% keep_years) %>%
+  group_by(playerID, yearID) %>%
+  summarise(
+    pointsWon = sum(pointsWon, na.rm = TRUE),
+    .groups   = "drop"
+  )
+
+
+# 5. Merge Pitching + Velocity + Awards
+master_data <- pitching_clean %>%
+  inner_join(pitch_vel_wide,
+             by = c("playerID", "yearID")) %>%
+  left_join(awards_cy,
+            by = c("playerID", "yearID")) %>%
+  mutate(
+    pointsWon = if_else(is.na(pointsWon), 0, pointsWon),
+    Vote_Flag = if_else(pointsWon > 0, 1, 0)
+  ) %>%
+  filter(
+    !is.na(FF_vel),
+    !is.na(SL_vel),
+    !is.na(CH_vel),
+    !is.na(CU_vel)
+  )
+
+master_data <- master_data %>%
+  select(playerID, yearID, CH_vel, CU_vel, FF_vel, SL_vel, pointsWon, Vote_Flag)
+
+
+# checks
+
+dim(master_data)          # how many pitchers x vars?
+table(master_data$yearID) # counts by season
+table(master_data$Vote_Flag)  # how many got votes vs not
+
+
+# Save master_data as excel file 
+install.packages("writexl")  
+library(writexl)
+
+write_xlsx(master_data, "master_data.xlsx")
+
+```
+
