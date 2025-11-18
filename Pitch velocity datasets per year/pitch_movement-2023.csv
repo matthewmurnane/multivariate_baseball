@@ -1,1835 +1,1835 @@
-﻿year,"last_name, first_name",avg_speed,pitch_type,pitch_type_name
-2023,"Strider, Spencer",97.2,FF,4-Seam Fastball
-2023,"Cole, Gerrit",96.7,FF,4-Seam Fastball
-2023,"Burnes, Corbin",94.4,FC,Cutter
-2023,"Steele, Justin",91.8,FF,4-Seam Fastball
-2023,"Javier, Cristian",92.8,FF,4-Seam Fastball
-2023,"Gallen, Zac",93.5,FF,4-Seam Fastball
-2023,"Gausman, Kevin",94.7,FF,4-Seam Fastball
-2023,"Snell, Blake",95.5,FF,4-Seam Fastball
-2023,"Ryan, Joe",92.3,FF,4-Seam Fastball
-2023,"Heaney, Andrew",92.5,FF,4-Seam Fastball
-2023,"Kopech, Michael",95.2,FF,4-Seam Fastball
-2023,"Gore, MacKenzie",95,FF,4-Seam Fastball
-2023,"Peralta, Freddy",94.4,FF,4-Seam Fastball
-2023,"Sears, JP",93.1,FF,4-Seam Fastball
-2023,"Castillo, Luis",96.3,FF,4-Seam Fastball
-2023,"Cease, Dylan",95.6,FF,4-Seam Fastball
-2023,"Waldichuk, Ken",93.3,FF,4-Seam Fastball
-2023,"Lynn, Lance",92.4,FF,4-Seam Fastball
-2023,"Valdez, Framber",95.3,SI,Sinker
-2023,"Wheeler, Zack",95.8,FF,4-Seam Fastball
-2023,"Giolito, Lucas",93.1,FF,4-Seam Fastball
-2023,"Webb, Logan",87.5,CH,Changeup
-2023,"Verlander, Justin",94.3,FF,4-Seam Fastball
-2023,"Singer, Brady",92.1,SI,Sinker
-2023,"Nelson, Ryne",94.4,FF,4-Seam Fastball
-2023,"Kikuchi, Yusei",95.1,FF,4-Seam Fastball
-2023,"Cease, Dylan",86.3,SL,Slider
-2023,"Brown, Hunter",95.7,FF,4-Seam Fastball
-2023,"Montgomery, Jordan",93.3,SI,Sinker
-2023,"Megill, Tylor",94.9,FF,4-Seam Fastball
-2023,"Luzardo, Jesús",96.7,FF,4-Seam Fastball
-2023,"Bassitt, Chris",91.9,SI,Sinker
-2023,"Ashcraft, Graham",95.8,FC,Cutter
-2023,"Morton, Charlie",82.3,CU,Curveball
-2023,"Gilbert, Logan",95.7,FF,4-Seam Fastball
-2023,"Miller, Bryce",95.1,FF,4-Seam Fastball
-2023,"Corbin, Patrick",92.1,SI,Sinker
-2023,"Pivetta, Nick",94.6,FF,4-Seam Fastball
-2023,"Smyly, Drew",78.6,CU,Curveball
-2023,"Gausman, Kevin",86.3,FS,Split-Finger
-2023,"Oviedo, Johan",95.8,FF,4-Seam Fastball
-2023,"Scherzer, Max",93.7,FF,4-Seam Fastball
-2023,"Greene, Hunter",98.3,FF,4-Seam Fastball
-2023,"Williams, Trevor",89.7,FF,4-Seam Fastball
-2023,"Kirby, George",96.1,FF,4-Seam Fastball
-2023,"Singer, Brady",84,SL,Slider
-2023,"Bibee, Tanner",94.9,FF,4-Seam Fastball
-2023,"Oviedo, Johan",88.2,SL,Slider
-2023,"Elder, Bryce",89.5,SI,Sinker
-2023,"Flaherty, Jack",93.2,FF,4-Seam Fastball
-2023,"Rodriguez, Eduardo",92.2,FF,4-Seam Fastball
-2023,"Kremer, Dean",94.6,FF,4-Seam Fastball
-2023,"Ober, Bailey",91.3,FF,4-Seam Fastball
-2023,"Webb, Logan",92.3,SI,Sinker
-2023,"Strider, Spencer",85.6,SL,Slider
-2023,"Matz, Steven",94.1,SI,Sinker
-2023,"Rodriguez, Grayson",97.4,FF,4-Seam Fastball
-2023,"López, Pablo",94.9,FF,4-Seam Fastball
-2023,"Senga, Kodai",95.7,FF,4-Seam Fastball
-2023,"Corbin, Patrick",80.5,SL,Slider
-2023,"Stroman, Marcus",91.4,SI,Sinker
-2023,"Gray, Jon",95.7,FF,4-Seam Fastball
-2023,"Elder, Bryce",82.7,SL,Slider
-2023,"Detmers, Reid",94.4,FF,4-Seam Fastball
-2023,"Clevinger, Mike",94.3,FF,4-Seam Fastball
-2023,"Cobb, Alex",94.5,SI,Sinker
-2023,"Nola, Aaron",79.4,CU,Curveball
-2023,"Cobb, Alex",89.5,FS,Split-Finger
-2023,"Gomber, Austin",90.6,FF,4-Seam Fastball
-2023,"Allen, Logan",91.4,FF,4-Seam Fastball
-2023,"Bello, Brayan",95,SI,Sinker
-2023,"Abbott, Andrew",92.7,FF,4-Seam Fastball
-2023,"France, J.P.",93.1,FF,4-Seam Fastball
-2023,"Walker, Taijuan",87.9,FS,Split-Finger
-2023,"Weaver, Luke",94,FF,4-Seam Fastball
-2023,"Pérez, Martín",91.6,SI,Sinker
-2023,"Berríos, José",93.8,SI,Sinker
-2023,"Smyly, Drew",91.9,SI,Sinker
-2023,"Morton, Charlie",94.9,FF,4-Seam Fastball
-2023,"Nola, Aaron",92.7,FF,4-Seam Fastball
-2023,"Dunning, Dane",90.9,SI,Sinker
-2023,"Hill, Rich",71.8,CU,Curveball
-2023,"Anderson, Tyler",90.1,FF,4-Seam Fastball
-2023,"Paxton, James",95.3,FF,4-Seam Fastball
-2023,"Steele, Justin",83.3,SL,Slider
-2023,"Giolito, Lucas",80.9,CH,Changeup
-2023,"Giolito, Lucas",84,SL,Slider
-2023,"Taillon, Jameson",93.7,FF,4-Seam Fastball
-2023,"Manaea, Sean",93.5,SI,Sinker
-2023,"Kershaw, Clayton",86.5,SL,Slider
-2023,"Houser, Adrian",92.1,SI,Sinker
-2023,"Bickford, Phil",93.7,FF,4-Seam Fastball
-2023,"Berríos, José",82.6,SV,Slurve
-2023,"Ashcraft, Graham",88.3,SL,Slider
-2023,"Junis, Jakob",84.2,SL,Slider
-2023,"Hendricks, Kyle",80.7,CH,Changeup
-2023,"Gilbert, Logan",88.7,SL,Slider
-2023,"Luzardo, Jesús",85.1,SL,Slider
-2023,"Javier, Cristian",79.5,ST,Sweeper
-2023,"Hill, Rich",88.4,FF,4-Seam Fastball
-2023,"Lyles, Jordan",91.2,FF,4-Seam Fastball
-2023,"Greene, Hunter",87.3,SL,Slider
-2023,"Seabold, Connor",92.6,FF,4-Seam Fastball
-2023,"Kelly, Merrill",92.2,FF,4-Seam Fastball
-2023,"Urías, Julio",92.7,FF,4-Seam Fastball
-2023,"Eflin, Zach",92.2,SI,Sinker
-2023,"Mikolas, Miles",93.3,FF,4-Seam Fastball
-2023,"Eovaldi, Nathan",95.1,FF,4-Seam Fastball
-2023,"Miley, Wade",87.1,FC,Cutter
-2023,"Glasnow, Tyler",96.4,FF,4-Seam Fastball
-2023,"Bird, Jake",94.4,SI,Sinker
-2023,"Bradish, Kyle",88.1,SL,Slider
-2023,"Anderson, Tyler",80,CH,Changeup
-2023,"Crawford, Kutter",93.6,FF,4-Seam Fastball
-2023,"Lorenzen, Michael",94.3,FF,4-Seam Fastball
-2023,"Bradley, Taj",96.1,FF,4-Seam Fastball
-2023,"Keller, Mitch",95.2,FF,4-Seam Fastball
-2023,"Medina, Luis",96.1,FF,4-Seam Fastball
-2023,"Wentz, Joey",93.4,FF,4-Seam Fastball
-2023,"Detmers, Reid",88.9,SL,Slider
-2023,"Gray, Jon",88,SL,Slider
-2023,"Fujinami, Shintaro",98.4,FF,4-Seam Fastball
-2023,"Gibson, Kyle",91.9,SI,Sinker
-2023,"Garrett, Braxton",90.5,SI,Sinker
-2023,"Tonkin, Michael",93.5,FF,4-Seam Fastball
-2023,"Alcantara, Sandy",97.6,SI,Sinker
-2023,"Mikolas, Miles",92.7,SI,Sinker
-2023,"Mikolas, Miles",86.4,SL,Slider
-2023,"Irvin, Jake",94.5,FF,4-Seam Fastball
-2023,"Finnegan, Kyle",97.3,FF,4-Seam Fastball
-2023,"López, Reynaldo",98.2,FF,4-Seam Fastball
-2023,"Williams, Gavin",95.7,FF,4-Seam Fastball
-2023,"Wacha, Michael",81.6,CH,Changeup
-2023,"Hader, Josh",96.1,SI,Sinker
-2023,"McClanahan, Shane",96.8,FF,4-Seam Fastball
-2023,"Wood, Alex",91.5,SI,Sinker
-2023,"Schmidt, Clarke",91.3,FC,Cutter
-2023,"Richards, Trevor",82.5,CH,Changeup
-2023,"Keller, Mitch",89.7,FC,Cutter
-2023,"Clase, Emmanuel",99.1,FC,Cutter
-2023,"Gray, Sonny",92.9,FF,4-Seam Fastball
-2023,"Kimbrel, Craig",95.8,FF,4-Seam Fastball
-2023,"Lugo, Seth",93.4,FF,4-Seam Fastball
-2023,"Pallante, Andre",96.1,FF,4-Seam Fastball
-2023,"Muller, Kyle",93.5,FF,4-Seam Fastball
-2023,"Civale, Aaron",87.7,FC,Cutter
-2023,"Estévez, Carlos",97.1,FF,4-Seam Fastball
-2023,"Kershaw, Clayton",90.7,FF,4-Seam Fastball
-2023,"Valdez, Framber",80.2,CU,Curveball
-2023,"Schmidt, Clarke",86,ST,Sweeper
-2023,"Alcantara, Sandy",91.1,CH,Changeup
-2023,"Kikuchi, Yusei",88.7,SL,Slider
-2023,"Stratton, Chris",93.1,FF,4-Seam Fastball
-2023,"Gallen, Zac",82.5,CU,Curveball
-2023,"Ohtani, Shohei",83.7,ST,Sweeper
-2023,"Hendricks, Kyle",87.5,SI,Sinker
-2023,"Pfaadt, Brandon",93.7,FF,4-Seam Fastball
-2023,"Canning, Griffin",94.7,FF,4-Seam Fastball
-2023,"Curry, Xzavion",92.5,FF,4-Seam Fastball
-2023,"Foley, Jason",97.2,SI,Sinker
-2023,"Sale, Chris",93.9,FF,4-Seam Fastball
-2023,"Flexen, Chris",91.9,FF,4-Seam Fastball
-2023,"Williamson, Brandon",92.8,FF,4-Seam Fastball
-2023,"Lynn, Lance",88.7,FC,Cutter
-2023,"Wells, Tyler",92.5,FF,4-Seam Fastball
-2023,"Hicks, Jordan",100.1,SI,Sinker
-2023,"Severino, Luis",96.5,FF,4-Seam Fastball
-2023,"Keller, Mitch",93.8,SI,Sinker
-2023,"Abreu, Bryan",87.4,SL,Slider
-2023,"Holmes, Clay",96,SI,Sinker
-2023,"Castillo, Luis",85.7,SL,Slider
-2023,"Ferguson, Caleb",95.8,FF,4-Seam Fastball
-2023,"Senga, Kodai",90.8,FC,Cutter
-2023,"Hernández, Carlos",99.1,FF,4-Seam Fastball
-2023,"Vasquez, Andrew",80.6,SL,Slider
-2023,"Kremer, Dean",88.7,FC,Cutter
-2023,"Pérez, Eury",97.5,FF,4-Seam Fastball
-2023,"Bautista, Félix",99.5,SI,Sinker
-2023,"Lyles, Jordan",80.2,ST,Sweeper
-2023,"DeSclafani, Anthony",87.4,SL,Slider
-2023,"Waldichuk, Ken",81.1,ST,Sweeper
-2023,"Ohtani, Shohei",96.8,FF,4-Seam Fastball
-2023,"Gray, Josiah",85.8,SL,Slider
-2023,"Bieber, Shane",91.3,FF,4-Seam Fastball
-2023,"Barria, Jaime",85.9,SL,Slider
-2023,"Cole, Gerrit",89.1,SL,Slider
-2023,"Rodón, Carlos",95.3,FF,4-Seam Fastball
-2023,"Sandoval, Patrick",87,SL,Slider
-2023,"Lugo, Seth",79.5,CU,Curveball
-2023,"Henry, Tommy",90.7,FF,4-Seam Fastball
-2023,"Eflin, Zach",79.1,CU,Curveball
-2023,"Woo, Bryan",95.1,FF,4-Seam Fastball
-2023,"Freeland, Kyle",88.7,SI,Sinker
-2023,"Germán, Domingo",82.9,CU,Curveball
-2023,"Sandoval, Patrick",83,CH,Changeup
-2023,"Webb, Logan",84.3,ST,Sweeper
-2023,"Sánchez, Cristopher",92.1,SI,Sinker
-2023,"Eflin, Zach",88.5,FC,Cutter
-2023,"Kopech, Michael",84.8,SL,Slider
-2023,"Lange, Alex",87,CU,Curveball
-2023,"Montgomery, Jordan",83.5,CH,Changeup
-2023,"Flaherty, Jack",84.4,SL,Slider
-2023,"Brash, Matt",88.8,SL,Slider
-2023,"Senga, Kodai",83.2,FO,Forkball
-2023,"Ryan, Joe",84.1,FS,Split-Finger
-2023,"Smith, Drew",95,FF,4-Seam Fastball
-2023,"Sandoval, Patrick",93,FF,4-Seam Fastball
-2023,"Verlander, Justin",86.9,SL,Slider
-2023,"Glasnow, Tyler",90.1,SL,Slider
-2023,"Walker, Taijuan",92.4,SI,Sinker
-2023,"Gonsolin, Tony",92.4,FF,4-Seam Fastball
-2023,"Irvin, Jake",80.9,CU,Curveball
-2023,"Ober, Bailey",83.7,CH,Changeup
-2023,"Schmidt, Clarke",93.4,SI,Sinker
-2023,"López, Pablo",84.4,ST,Sweeper
-2023,"Heaney, Andrew",82,SL,Slider
-2023,"Brown, Hunter",82.9,CU,Curveball
-2023,"Houck, Tanner",83.9,SL,Slider
-2023,"Kelly, Merrill",88.7,CH,Changeup
-2023,"Montgomery, Jordan",80.5,CU,Curveball
-2023,"Lambert, Peter",93.2,FF,4-Seam Fastball
-2023,"Brown, Hunter",91.8,FC,Cutter
-2023,"Garrett, Braxton",82.8,SL,Slider
-2023,"Bednar, David",96.6,FF,4-Seam Fastball
-2023,"Mikolas, Miles",75.8,CU,Curveball
-2023,"Wacha, Michael",92,FF,4-Seam Fastball
-2023,"López, Pablo",88.4,CH,Changeup
-2023,"Scott, Tanner",89.4,SL,Slider
-2023,"Ragans, Cole",96.5,FF,4-Seam Fastball
-2023,"De Los Santos, Enyel",95.6,FF,4-Seam Fastball
-2023,"Chirinos, Yonny",92.4,SI,Sinker
-2023,"Dunning, Dane",82.1,SL,Slider
-2023,"Bibee, Tanner",84.7,FC,Cutter
-2023,"Scholtens, Jesse",92.8,FF,4-Seam Fastball
-2023,"Sale, Chris",77.8,SL,Slider
-2023,"Thompson, Zack",93.6,FF,4-Seam Fastball
-2023,"Snell, Blake",81,CU,Curveball
-2023,"Luzardo, Jesús",88.3,CH,Changeup
-2023,"Bello, Brayan",86.2,CH,Changeup
-2023,"Okert, Steven",81.9,SL,Slider
-2023,"McGough, Scott",93.5,FF,4-Seam Fastball
-2023,"Canning, Griffin",88.4,SL,Slider
-2023,"Moreta, Dauri",84.6,SL,Slider
-2023,"Blach, Ty",89.2,SI,Sinker
-2023,"Mayza, Tim",93.4,SI,Sinker
-2023,"Peralta, Freddy",82.4,SL,Slider
-2023,"Sheehan, Emmet",95.4,FF,4-Seam Fastball
-2023,"Strahm, Matt",93.4,FF,4-Seam Fastball
-2023,"Montero, Rafael",96.1,FF,4-Seam Fastball
-2023,"Eovaldi, Nathan",87.9,FS,Split-Finger
-2023,"Johnson, Pierce",85.4,CU,Curveball
-2023,"Lawrence, Justin",95.4,SI,Sinker
-2023,"Rea, Colin",92.6,SI,Sinker
-2023,"Irvin, Jake",93.9,SI,Sinker
-2023,"Merryweather, Julian",87.1,SL,Slider
-2023,"Poche, Colin",92.5,FF,4-Seam Fastball
-2023,"Díaz, Alexis",87.5,SL,Slider
-2023,"Bradish, Kyle",94.6,SI,Sinker
-2023,"Kirby, George",95.8,SI,Sinker
-2023,"Berríos, José",94.3,FF,4-Seam Fastball
-2023,"Greinke, Zack",89.5,FF,4-Seam Fastball
-2023,"Crawford, Kutter",88.6,FC,Cutter
-2023,"Sewald, Paul",92.2,FF,4-Seam Fastball
-2023,"Hoeing, Bryan",94.1,SI,Sinker
-2023,"Burke, Brock",94.7,FF,4-Seam Fastball
-2023,"Pivetta, Nick",79.4,CU,Curveball
-2023,"Pérez, Martín",84.1,CH,Changeup
-2023,"Nardi, Andrew",94.6,FF,4-Seam Fastball
-2023,"Alcantara, Sandy",98,FF,4-Seam Fastball
-2023,"Richards, Trevor",92.8,FF,4-Seam Fastball
-2023,"Bradish, Kyle",94.5,FF,4-Seam Fastball
-2023,"Snell, Blake",86.7,CH,Changeup
-2023,"Pagán, Emilio",95.8,FF,4-Seam Fastball
-2023,"Falter, Bailey",90.7,FF,4-Seam Fastball
-2023,"Jiménez, Joe",95.3,FF,4-Seam Fastball
-2023,"Cuas, Jose",92.7,SI,Sinker
-2023,"Vesia, Alex",94.4,FF,4-Seam Fastball
-2023,"Williamson, Brandon",89.3,FC,Cutter
-2023,"Harvey, Hunter",98.3,FF,4-Seam Fastball
-2023,"Gray, Sonny",84.3,ST,Sweeper
-2023,"Castillo, Luis",95.9,SI,Sinker
-2023,"Nola, Aaron",91.7,SI,Sinker
-2023,"Weathers, Ryan",95.1,FF,4-Seam Fastball
-2023,"Lawrence, Justin",83.8,ST,Sweeper
-2023,"Wheeler, Zack",95.2,SI,Sinker
-2023,"Clevinger, Mike",79.4,ST,Sweeper
-2023,"Scott, Tanner",96.8,FF,4-Seam Fastball
-2023,"Suárez, Ranger",92.8,SI,Sinker
-2023,"Robertson, David",93.3,FC,Cutter
-2023,"Yates, Kirby",93.6,FF,4-Seam Fastball
-2023,"Freeland, Kyle",84.1,FC,Cutter
-2023,"Whitlock, Garrett",93.9,SI,Sinker
-2023,"Neris, Héctor",93,FF,4-Seam Fastball
-2023,"Cabrera, Edward",92.9,CH,Changeup
-2023,"Rogers, Tyler",82.8,SI,Sinker
-2023,"Manning, Matt",93.4,FF,4-Seam Fastball
-2023,"Cano, Yennier",96.3,SI,Sinker
-2023,"Díaz, Alexis",94.5,FF,4-Seam Fastball
-2023,"Gibson, Kyle",81.6,ST,Sweeper
-2023,"Cortes, Nestor",91.6,FF,4-Seam Fastball
-2023,"Wainwright, Adam",86.9,SI,Sinker
-2023,"Wilson, Steven",81,ST,Sweeper
-2023,"Taillon, Jameson",88.6,FC,Cutter
-2023,"Jansen, Kenley",94.3,FC,Cutter
-2023,"Kirby, George",86.3,SL,Slider
-2023,"Urías, Julio",79.2,SV,Slurve
-2023,"Stanek, Ryne",98.2,FF,4-Seam Fastball
-2023,"King, Michael",94.1,SI,Sinker
-2023,"Jax, Griffin",86.7,ST,Sweeper
-2023,"Santos, Gregory",91.4,SL,Slider
-2023,"Baumann, Mike",96.4,FF,4-Seam Fastball
-2023,"Rogers, Tyler",72.9,SL,Slider
-2023,"Gray, Josiah",93.1,SI,Sinker
-2023,"Williams, Devin",83.8,CH,Changeup
-2023,"Wainwright, Adam",71.5,CU,Curveball
-2023,"Sears, JP",81,ST,Sweeper
-2023,"Martínez, Adrián",93.8,FF,4-Seam Fastball
-2023,"Alcantara, Sandy",89.9,SL,Slider
-2023,"Berríos, José",84.1,CH,Changeup
-2023,"Maeda, Kenta",84.1,FS,Split-Finger
-2023,"Walker, Ryan",83.2,SL,Slider
-2023,"Bello, Brayan",95.5,FF,4-Seam Fastball
-2023,"Peterson, David",92.7,FF,4-Seam Fastball
-2023,"Curry, Xzavion",85.1,SL,Slider
-2023,"Dunning, Dane",88.9,FC,Cutter
-2023,"Abreu, Albert",97.4,SI,Sinker
-2023,"Stephan, Trevor",94.9,FF,4-Seam Fastball
-2023,"Lorenzen, Michael",85.2,SL,Slider
-2023,"Anderson, Tyler",85.1,FC,Cutter
-2023,"Gibaut, Ian",95.1,FF,4-Seam Fastball
-2023,"Olson, Reese",84.8,SL,Slider
-2023,"Rea, Colin",86.7,FC,Cutter
-2023,"Kikuchi, Yusei",83.1,CU,Curveball
-2023,"Wesneski, Hayden",82,ST,Sweeper
-2023,"Hamilton, Ian",88.1,SL,Slider
-2023,"Bradford, Cody",90.4,FF,4-Seam Fastball
-2023,"Burnes, Corbin",79.9,CU,Curveball
-2023,"Scholtens, Jesse",85.4,SL,Slider
-2023,"Bieber, Shane",86.5,FC,Cutter
-2023,"Winckowski, Josh",96.2,SI,Sinker
-2023,"Farmer, Buck",93.9,FF,4-Seam Fastball
-2023,"Assad, Javier",92.7,SI,Sinker
-2023,"Walker, Ryan",94.8,SI,Sinker
-2023,"Alexander, Scott",92.8,SI,Sinker
-2023,"Harris, Hogan",92.6,FF,4-Seam Fastball
-2023,"Verlander, Justin",78.2,CU,Curveball
-2023,"Nelson, Kyle",85.4,SL,Slider
-2023,"Sims, Lucas",83.7,ST,Sweeper
-2023,"Olson, Reese",94.8,FF,4-Seam Fastball
-2023,"Kahnle, Tommy",88.8,CH,Changeup
-2023,"Schmidt, Clarke",83.7,CU,Curveball
-2023,"Gibson, Kyle",85.5,CH,Changeup
-2023,"Flexen, Chris",87.9,FC,Cutter
-2023,"Kelly, Merrill",90.8,FC,Cutter
-2023,"Flaherty, Jack",76.2,CU,Curveball
-2023,"Matz, Steven",84.1,CH,Changeup
-2023,"Lorenzen, Michael",84.5,CH,Changeup
-2023,"Kelly, Kevin",90.6,SI,Sinker
-2023,"Houck, Tanner",93.4,SI,Sinker
-2023,"Manoah, Alek",80.8,SL,Slider
-2023,"Gray, Josiah",88.8,FC,Cutter
-2023,"Stroman, Marcus",84.6,SV,Slurve
-2023,"Detmers, Reid",74.7,CU,Curveball
-2023,"Gibson, Kyle",89.8,FC,Cutter
-2023,"Carrasco, Carlos",92.7,FF,4-Seam Fastball
-2023,"Martinez, Nick",80.7,CH,Changeup
-2023,"Ramírez, Yohan",95.1,SI,Sinker
-2023,"Swanson, Erik",85.1,FS,Split-Finger
-2023,"Faedo, Alex",92.9,FF,4-Seam Fastball
-2023,"Thompson, Mason",94.7,SI,Sinker
-2023,"Merryweather, Julian",98.1,FF,4-Seam Fastball
-2023,"Keller, Mitch",82.8,ST,Sweeper
-2023,"Minter, A.J.",95.8,FF,4-Seam Fastball
-2023,"Wood, Alex",85.2,CH,Changeup
-2023,"Marsh, Alec",94.2,FF,4-Seam Fastball
-2023,"Sandlin, Nick",79.1,SL,Slider
-2023,"Castillo, Luis",88.3,CH,Changeup
-2023,"Walker, Taijuan",92.8,FF,4-Seam Fastball
-2023,"Miller, Bobby",99.1,FF,4-Seam Fastball
-2023,"Corbin, Patrick",91.7,FF,4-Seam Fastball
-2023,"Abreu, Bryan",97.6,FF,4-Seam Fastball
-2023,"Contreras, Roansy",83.6,SL,Slider
-2023,"Romano, Jordan",86.8,SL,Slider
-2023,"Cease, Dylan",80.2,CU,Curveball
-2023,"Hudson, Dakota",91.6,SI,Sinker
-2023,"Cabrera, Edward",96.2,FF,4-Seam Fastball
-2023,"King, Michael",81.8,ST,Sweeper
-2023,"Peterson, David",91.5,SI,Sinker
-2023,"Civale, Aaron",78.1,CU,Curveball
-2023,"Payamps, Joel",84.2,SL,Slider
-2023,"Manoah, Alek",92.8,FF,4-Seam Fastball
-2023,"Pérez, Martín",89.2,FC,Cutter
-2023,"McGough, Scott",85.7,FS,Split-Finger
-2023,"McHugh, Collin",79.9,ST,Sweeper
-2023,"Bummer, Aaron",94.3,SI,Sinker
-2023,"Walker, Taijuan",87.2,FC,Cutter
-2023,"Puk, A.J.",95.9,FF,4-Seam Fastball
-2023,"Wentz, Joey",86,FC,Cutter
-2023,"Ginkel, Kevin",95.7,FF,4-Seam Fastball
-2023,"Bassitt, Chris",87.8,FC,Cutter
-2023,"Hand, Brad",81,ST,Sweeper
-2023,"Hernandez, Jose E.",82.9,SL,Slider
-2023,"Bernardino, Brennan",90.9,SI,Sinker
-2023,"Morgan, Eli",92.5,FF,4-Seam Fastball
-2023,"Santos, Gregory",98.8,SI,Sinker
-2023,"Sánchez, Cristopher",81.9,CH,Changeup
-2023,"Chapman, Aroldis",99,FF,4-Seam Fastball
-2023,"Ortiz, Luis L.",85.8,SL,Slider
-2023,"Tonkin, Michael",83.1,SL,Slider
-2023,"Gray, Sonny",79.5,CU,Curveball
-2023,"Seabold, Connor",85.3,SL,Slider
-2023,"Beck, Tristan",94.7,FF,4-Seam Fastball
-2023,"Allen, Logan",78.8,ST,Sweeper
-2023,"Manoah, Alek",92.7,SI,Sinker
-2023,"Lugo, Seth",93.2,SI,Sinker
-2023,"Carrasco, Carlos",87.2,CH,Changeup
-2023,"Pérez, Eury",86.4,SL,Slider
-2023,"Brito, Jhony",95.9,SI,Sinker
-2023,"Rogers, Taylor",79.4,ST,Sweeper
-2023,"Yates, Kirby",86.1,FS,Split-Finger
-2023,"Rodriguez, Grayson",83.9,CH,Changeup
-2023,"McClanahan, Shane",86.9,CH,Changeup
-2023,"Topa, Justin",95,SI,Sinker
-2023,"McHugh, Collin",89,FC,Cutter
-2023,"Assad, Javier",89.1,FC,Cutter
-2023,"Peguero, Elvis",90.6,SL,Slider
-2023,"Varland, Louis",95.3,FF,4-Seam Fastball
-2023,"Holderman, Colin",97.9,SI,Sinker
-2023,"Megill, Tylor",84.4,SL,Slider
-2023,"Woodford, Jake",91.9,SI,Sinker
-2023,"Gore, MacKenzie",88.5,SL,Slider
-2023,"Valdez, Framber",90.1,CH,Changeup
-2023,"Miley, Wade",83.7,CH,Changeup
-2023,"Marinaccio, Ron",93.8,FF,4-Seam Fastball
-2023,"Contreras, Roansy",94.3,FF,4-Seam Fastball
-2023,"Maeda, Kenta",91,FF,4-Seam Fastball
-2023,"Boyd, Matthew",91.4,FF,4-Seam Fastball
-2023,"Toussaint, Touki",76.1,CU,Curveball
-2023,"Germán, Domingo",92.3,FF,4-Seam Fastball
-2023,"Sims, Lucas",94.2,FF,4-Seam Fastball
-2023,"Duran, Jhoan",101.8,FF,4-Seam Fastball
-2023,"Bradish, Kyle",84.8,CU,Curveball
-2023,"Loup, Aaron",92.1,SI,Sinker
-2023,"Pearson, Nate",97.9,FF,4-Seam Fastball
-2023,"Medina, Luis",85.3,SL,Slider
-2023,"Quantrill, Cal",93.7,SI,Sinker
-2023,"Gray, Josiah",82.2,CU,Curveball
-2023,"Allen, Logan",82.7,CH,Changeup
-2023,"Webb, Jacob",94.8,FF,4-Seam Fastball
-2023,"Ginkel, Kevin",86.7,SL,Slider
-2023,"Rodriguez, Eduardo",88.8,FC,Cutter
-2023,"Gallen, Zac",86.8,CH,Changeup
-2023,"Gore, MacKenzie",83.2,CU,Curveball
-2023,"Wheeler, Zack",90.8,FC,Cutter
-2023,"Gonsolin, Tony",83,FS,Split-Finger
-2023,"Weaver, Luke",86.1,CH,Changeup
-2023,"Gray, Sonny",92.8,SI,Sinker
-2023,"Bradley, Taj",88.9,FC,Cutter
-2023,"Blackburn, Paul",91.8,SI,Sinker
-2023,"Lively, Ben",90.7,FF,4-Seam Fastball
-2023,"Kaprielian, James",92.3,FF,4-Seam Fastball
-2023,"Oviedo, Johan",81,CU,Curveball
-2023,"García, Luis",97.3,SI,Sinker
-2023,"Rodriguez, Eduardo",85.9,CH,Changeup
-2023,"Alzolay, Adbert",87.6,SL,Slider
-2023,"Peguero, Elvis",96,SI,Sinker
-2023,"Grove, Michael",85.6,SL,Slider
-2023,"Williams, Trevor",83.3,CH,Changeup
-2023,"Wood, Alex",82.4,SL,Slider
-2023,"Jackson, Andre",94.9,FF,4-Seam Fastball
-2023,"Miller, Bobby",98.8,SI,Sinker
-2023,"Baker, Bryan",95.7,FF,4-Seam Fastball
-2023,"Davies, Zach",89.5,SI,Sinker
-2023,"Greinke, Zack",79.2,SL,Slider
-2023,"Sewald, Paul",83.8,ST,Sweeper
-2023,"Freeland, Kyle",88.8,FF,4-Seam Fastball
-2023,"Houser, Adrian",93.4,FF,4-Seam Fastball
-2023,"Gallegos, Giovanny",93.7,FF,4-Seam Fastball
-2023,"Canning, Griffin",90.2,CH,Changeup
-2023,"Kremer, Dean",92,SI,Sinker
-2023,"Lynn, Lance",81.9,CU,Curveball
-2023,"Weems, Jordan",96.3,FF,4-Seam Fastball
-2023,"Sears, JP",82.1,SL,Slider
-2023,"Heaney, Andrew",84,CH,Changeup
-2023,"Garrett, Braxton",87.5,FC,Cutter
-2023,"Blanco, Ronel",88,SL,Slider
-2023,"Graveman, Kendall",95.9,SI,Sinker
-2023,"Brash, Matt",98.1,FF,4-Seam Fastball
-2023,"Skubal, Tarik",95.8,FF,4-Seam Fastball
-2023,"Winckowski, Josh",89,FC,Cutter
-2023,"Cosgrove, Tom",76.2,ST,Sweeper
-2023,"Kelly, Kevin",76.3,ST,Sweeper
-2023,"Pfaadt, Brandon",83.8,ST,Sweeper
-2023,"Sears, JP",84.1,CH,Changeup
-2023,"Gomber, Austin",84.8,SL,Slider
-2023,"Smith, Will",81.1,SL,Slider
-2023,"Yarbrough, Ryan",87,FF,4-Seam Fastball
-2023,"Gilbert, Logan",85.6,FS,Split-Finger
-2023,"Alvarado, José",98.7,SI,Sinker
-2023,"Suárez, Ranger",93.4,FF,4-Seam Fastball
-2023,"Megill, Trevor",99.1,FF,4-Seam Fastball
-2023,"Hendricks, Kyle",87.8,FF,4-Seam Fastball
-2023,"Woodruff, Brandon",95.8,FF,4-Seam Fastball
-2023,"Beck, Tristan",87.7,SL,Slider
-2023,"Hudson, Dakota",85.1,SL,Slider
-2023,"Wesneski, Hayden",94.3,FF,4-Seam Fastball
-2023,"Littell, Zack",88.7,SL,Slider
-2023,"Freeland, Kyle",80.6,CU,Curveball
-2023,"Honeywell, Brent",94.8,FF,4-Seam Fastball
-2023,"Bielak, Brandon",92.1,FF,4-Seam Fastball
-2023,"Waldichuk, Ken",84.2,CH,Changeup
-2023,"Toussaint, Touki",92.8,SI,Sinker
-2023,"Bard, Daniel",87.2,SL,Slider
-2023,"Dunning, Dane",85.7,CH,Changeup
-2023,"Cabrera, Edward",84.6,CU,Curveball
-2023,"France, J.P.",86.9,FC,Cutter
-2023,"Ramírez, Erasmo",88.7,FC,Cutter
-2023,"Castro, Miguel",83.8,SL,Slider
-2023,"Maton, Phil",73.8,CU,Curveball
-2023,"Brito, Jhony",88.8,CH,Changeup
-2023,"Romano, Jordan",96.7,FF,4-Seam Fastball
-2023,"Bummer, Aaron",82.5,ST,Sweeper
-2023,"Teheran, Julio",90,SI,Sinker
-2023,"Urquidy, José",93.1,FF,4-Seam Fastball
-2023,"Hoffman, Jeff",87.8,SL,Slider
-2023,"Phillips, Evan",85.4,ST,Sweeper
-2023,"Soto, Gregory",98.1,SI,Sinker
-2023,"Snell, Blake",88.4,SL,Slider
-2023,"Peralta, Freddy",88.6,CH,Changeup
-2023,"Farmer, Buck",83.1,SL,Slider
-2023,"Minter, A.J.",89.4,FC,Cutter
-2023,"Karinchak, James",94.8,FF,4-Seam Fastball
-2023,"Darvish, Yu",94.3,SI,Sinker
-2023,"Littell, Zack",94.1,FF,4-Seam Fastball
-2023,"Scherzer, Max",84,SL,Slider
-2023,"Gray, Josiah",93.6,FF,4-Seam Fastball
-2023,"Quantrill, Cal",88.1,FC,Cutter
-2023,"Doval, Camilo",88.9,SL,Slider
-2023,"Darvish, Yu",82.4,ST,Sweeper
-2023,"Ortiz, Luis L.",95.7,SI,Sinker
-2023,"Pressly, Ryan",89.8,SL,Slider
-2023,"Gibson, Kyle",92.1,FF,4-Seam Fastball
-2023,"Gallegos, Giovanny",85,SL,Slider
-2023,"Barria, Jaime",93,FF,4-Seam Fastball
-2023,"DeSclafani, Anthony",93.1,SI,Sinker
-2023,"Bieber, Shane",84.6,SL,Slider
-2023,"Muñoz, Andrés",88.4,SL,Slider
-2023,"Cobb, Alex",83.6,CU,Curveball
-2023,"Williams, Trevor",81.7,SL,Slider
-2023,"Wainwright, Adam",82.8,FC,Cutter
-2023,"Glasnow, Tyler",83.9,CU,Curveball
-2023,"Graterol, Brusdar",98.6,SI,Sinker
-2023,"Barlow, Scott",78.6,CU,Curveball
-2023,"Lynn, Lance",91.4,SI,Sinker
-2023,"Cruz, Fernando",81.4,FS,Split-Finger
-2023,"Stripling, Ross",87.2,SL,Slider
-2023,"Vest, Will",95.3,FF,4-Seam Fastball
-2023,"Almonte, Yency",83.1,ST,Sweeper
-2023,"Wilson, Bryse",93.1,SI,Sinker
-2023,"Wilson, Bryse",89.2,FC,Cutter
-2023,"Weems, Jordan",87.6,SL,Slider
-2023,"Ober, Bailey",80.8,ST,Sweeper
-2023,"Fried, Max",94,FF,4-Seam Fastball
-2023,"Moore, Matt",94,FF,4-Seam Fastball
-2023,"Chafin, Andrew",92.3,SI,Sinker
-2023,"Puk, A.J.",84,ST,Sweeper
-2023,"Cole, Gerrit",82.9,CU,Curveball
-2023,"Bassitt, Chris",70.7,CU,Curveball
-2023,"Clarke, Taylor",88.5,SL,Slider
-2023,"Miller, Bryce",86.6,SL,Slider
-2023,"Faedo, Alex",82.3,SL,Slider
-2023,"Quintana, Jose",90.4,SI,Sinker
-2023,"Castro, Miguel",96.8,SI,Sinker
-2023,"Eovaldi, Nathan",90.6,FC,Cutter
-2023,"Elder, Bryce",85,CH,Changeup
-2023,"Okert, Steven",93.8,FF,4-Seam Fastball
-2023,"Cruz, Fernando",94.3,FF,4-Seam Fastball
-2023,"Darvish, Yu",85.7,SL,Slider
-2023,"Shaw, Bryan",93.8,FC,Cutter
-2023,"Gilbert, Logan",80.3,CU,Curveball
-2023,"King, Michael",94.7,FF,4-Seam Fastball
-2023,"Gomber, Austin",81.6,CH,Changeup
-2023,"Peterson, David",85.3,SL,Slider
-2023,"Llovera, Mauricio",94.5,SI,Sinker
-2023,"Liberatore, Matthew",94.2,FF,4-Seam Fastball
-2023,"Bard, Daniel",94.8,SI,Sinker
-2023,"Moll, Sam",81.8,ST,Sweeper
-2023,"Peralta, Wandy",89,CH,Changeup
-2023,"Wheeler, Zack",84.4,ST,Sweeper
-2023,"Williams, Trevor",88.2,SI,Sinker
-2023,"Ottavino, Adam",92.5,SI,Sinker
-2023,"Bibee, Tanner",83.8,CH,Changeup
-2023,"Doval, Camilo",99.8,FC,Cutter
-2023,"Rea, Colin",93.2,FF,4-Seam Fastball
-2023,"Nola, Aaron",85.9,CH,Changeup
-2023,"Stripling, Ross",92.4,FF,4-Seam Fastball
-2023,"Suárez, Ranger",75.8,CU,Curveball
-2023,"Martinez, Nick",92.9,SI,Sinker
-2023,"Long, Sam",94,FF,4-Seam Fastball
-2023,"Blackburn, Paul",88.9,FC,Cutter
-2023,"Miller, Shelby",93.5,FF,4-Seam Fastball
-2023,"Taillon, Jameson",80.9,ST,Sweeper
-2023,"Johnson, Pierce",95.9,FF,4-Seam Fastball
-2023,"Musgrove, Joe",93.1,FF,4-Seam Fastball
-2023,"Gott, Trevor",89.2,FC,Cutter
-2023,"Anderson, Chase",89.2,FC,Cutter
-2023,"Davies, Zach",89.4,FF,4-Seam Fastball
-2023,"Shuster, Jared",91.4,FF,4-Seam Fastball
-2023,"Morgan, Eli",78.6,CH,Changeup
-2023,"Soto, Gregory",87.9,SL,Slider
-2023,"Ragans, Cole",86.6,CH,Changeup
-2023,"Toussaint, Touki",93.6,FF,4-Seam Fastball
-2023,"Lyles, Jordan",90.5,SI,Sinker
-2023,"Maeda, Kenta",82.1,SL,Slider
-2023,"Adon, Joan",94.5,FF,4-Seam Fastball
-2023,"Davidson, Tucker",84.8,SL,Slider
-2023,"Taillon, Jameson",80.5,CU,Curveball
-2023,"López, Pablo",82.5,CU,Curveball
-2023,"Wells, Tyler",88.7,FC,Cutter
-2023,"Manning, Matt",81.9,ST,Sweeper
-2023,"Buttó, José",93.8,FF,4-Seam Fastball
-2023,"Chargois, JT",96.3,SI,Sinker
-2023,"Hill, Rich",83.3,FC,Cutter
-2023,"Peterson, David",85.3,CH,Changeup
-2023,"Cisnero, José",95.8,FF,4-Seam Fastball
-2023,"Davies, Zach",80.7,CH,Changeup
-2023,"Yarbrough, Ryan",71.9,ST,Sweeper
-2023,"Civale, Aaron",92.4,SI,Sinker
-2023,"Darvish, Yu",94.7,FF,4-Seam Fastball
-2023,"Williams, Devin",94.2,FF,4-Seam Fastball
-2023,"Jackson, Luke",87.2,SL,Slider
-2023,"Musgrove, Joe",81.3,CU,Curveball
-2023,"Lyles, Jordan",79.4,CU,Curveball
-2023,"Suárez, Ranger",82.9,CH,Changeup
-2023,"García, Yimi",96,FF,4-Seam Fastball
-2023,"Ortiz, Luis L.",96.2,FF,4-Seam Fastball
-2023,"Bernardino, Brennan",77.6,CU,Curveball
-2023,"Gray, Sonny",87.6,FC,Cutter
-2023,"Woo, Bryan",95,SI,Sinker
-2023,"Muller, Kyle",87.1,SL,Slider
-2023,"Swanson, Erik",93.7,FF,4-Seam Fastball
-2023,"Syndergaard, Noah",92.3,SI,Sinker
-2023,"Greinke, Zack",86.5,CH,Changeup
-2023,"Middleton, Keynan",87.7,CH,Changeup
-2023,"Fairbanks, Pete",86.8,SL,Slider
-2023,"Grove, Michael",94.8,FF,4-Seam Fastball
-2023,"Junis, Jakob",93.7,SI,Sinker
-2023,"Brebbia, John",82.8,SL,Slider
-2023,"Blanco, Ronel",94.5,FF,4-Seam Fastball
-2023,"Miley, Wade",90.4,FF,4-Seam Fastball
-2023,"Lauer, Eric",90.8,FF,4-Seam Fastball
-2023,"Fairbanks, Pete",98.9,FF,4-Seam Fastball
-2023,"Nardi, Andrew",82.7,SL,Slider
-2023,"Miller, Bobby",80.6,CU,Curveball
-2023,"Gomber, Austin",77.6,CU,Curveball
-2023,"García, Yimi",83.6,CU,Curveball
-2023,"Cordero, Jimmy",97.3,SI,Sinker
-2023,"Edwards Jr., Carl",93.6,FF,4-Seam Fastball
-2023,"Wheeler, Zack",81.4,CU,Curveball
-2023,"Elder, Bryce",90.8,FF,4-Seam Fastball
-2023,"Strahm, Matt",83.2,SL,Slider
-2023,"Speier, Gabe",94.4,SI,Sinker
-2023,"Leiter Jr., Mark",84.7,FS,Split-Finger
-2023,"Moll, Sam",93.4,SI,Sinker
-2023,"Clase, Emmanuel",91.1,SL,Slider
-2023,"Soriano, George",94.6,FF,4-Seam Fastball
-2023,"Coulombe, Danny",85.9,FC,Cutter
-2023,"Hoeing, Bryan",83.2,SL,Slider
-2023,"Kimbrel, Craig",86.2,CU,Curveball
-2023,"Raley, Brooks",81.5,ST,Sweeper
-2023,"Harrison, Kyle",93.5,FF,4-Seam Fastball
-2023,"Anderson, Chase",93.3,FF,4-Seam Fastball
-2023,"Banks, Tanner",92.6,FF,4-Seam Fastball
-2023,"Stripling, Ross",83.7,CH,Changeup
-2023,"Kershaw, Clayton",73.4,CU,Curveball
-2023,"López, Reynaldo",87.9,SL,Slider
-2023,"Kremer, Dean",85.3,CH,Changeup
-2023,"Morán, Jovani",83.2,CH,Changeup
-2023,"Wells, Tyler",85.4,CH,Changeup
-2023,"Peralta, Freddy",77,CU,Curveball
-2023,"Yarbrough, Ryan",84.2,FC,Cutter
-2023,"Leclerc, José",95.1,FF,4-Seam Fastball
-2023,"Devenski, Chris",83.3,CH,Changeup
-2023,"Manaea, Sean",86.6,CH,Changeup
-2023,"Varland, Louis",89.3,SL,Slider
-2023,"Scherzer, Max",83.8,CH,Changeup
-2023,"Marte, Yunior",97.6,SI,Sinker
-2023,"Greinke, Zack",89.8,SI,Sinker
-2023,"Kelly, Merrill",92.4,SI,Sinker
-2023,"Lucchesi, Joey",90,SI,Sinker
-2023,"Burnes, Corbin",89.3,CH,Changeup
-2023,"Chirinos, Yonny",88.8,SL,Slider
-2023,"Suter, Brent",86,FF,4-Seam Fastball
-2023,"Law, Derek",92.1,FC,Cutter
-2023,"García, Luis",81.3,ST,Sweeper
-2023,"Bielak, Brandon",87,CH,Changeup
-2023,"Chirinos, Yonny",85,FS,Split-Finger
-2023,"Lynch IV, Daniel",92.6,FF,4-Seam Fastball
-2023,"Suter, Brent",88.1,SI,Sinker
-2023,"Miller, Mason",98.3,FF,4-Seam Fastball
-2023,"Bido, Osvaldo",84.5,SL,Slider
-2023,"Morán, Jovani",93.3,FF,4-Seam Fastball
-2023,"Englert, Mason",84.4,SL,Slider
-2023,"Helsley, Ryan",99.7,FF,4-Seam Fastball
-2023,"Wilson, Steven",94.4,FF,4-Seam Fastball
-2023,"Rogers, Taylor",93.6,SI,Sinker
-2023,"Milner, Hoby",79.6,ST,Sweeper
-2023,"Germán, Domingo",85.7,CH,Changeup
-2023,"Blackburn, Paul",80.8,ST,Sweeper
-2023,"Cabrera, Génesis",95.9,FF,4-Seam Fastball
-2023,"Peralta, Wandy",95.8,SI,Sinker
-2023,"Doval, Camilo",97.9,SI,Sinker
-2023,"Wentz, Joey",85,CH,Changeup
-2023,"Hill, Tim",90.6,FF,4-Seam Fastball
-2023,"Murphy, Chris",93.9,FF,4-Seam Fastball
-2023,"Smith, Will",92.4,FF,4-Seam Fastball
-2023,"Fleming, Josh",90.2,SI,Sinker
-2023,"Martinez, Nick",81.8,CU,Curveball
-2023,"Soriano, George",83.3,SL,Slider
-2023,"Assad, Javier",93.1,FF,4-Seam Fastball
-2023,"Maton, Phil",89,FC,Cutter
-2023,"Holton, Tyler",91.5,FF,4-Seam Fastball
-2023,"France, J.P.",81.8,CH,Changeup
-2023,"Boyd, Matthew",79.6,SL,Slider
-2023,"Paxton, James",81.4,CU,Curveball
-2023,"Anderson, Chase",83.9,CH,Changeup
-2023,"Marinaccio, Ron",82.9,CH,Changeup
-2023,"Abbott, Cory",84.7,CU,Curveball
-2023,"López, Jorge",96.8,SI,Sinker
-2023,"Leone, Dominic",95.6,FF,4-Seam Fastball
-2023,"Kuhl, Chad",85.4,SL,Slider
-2023,"Erceg, Lucas",98,SI,Sinker
-2023,"Brazobán, Huascar",87.4,FC,Cutter
-2023,"Pepiot, Ryan",94,FF,4-Seam Fastball
-2023,"Bickford, Phil",83.9,SL,Slider
-2023,"Kaprielian, James",80.8,SL,Slider
-2023,"Domínguez, Seranthony",97.5,FF,4-Seam Fastball
-2023,"Ryan, Joe",79.3,ST,Sweeper
-2023,"May, Trevor",94.7,FF,4-Seam Fastball
-2023,"Winn, Keaton",88.7,FS,Split-Finger
-2023,"Irvin, Cole",92.2,FF,4-Seam Fastball
-2023,"Gibaut, Ian",91.6,FC,Cutter
-2023,"Miller, Bobby",89.9,SL,Slider
-2023,"Rodón, Carlos",85.4,SL,Slider
-2023,"Olson, Reese",94.7,SI,Sinker
-2023,"González, Victor",94.6,SI,Sinker
-2023,"Pérez, Cionel",96.3,SI,Sinker
-2023,"Brasier, Ryan",95.7,FF,4-Seam Fastball
-2023,"Poche, Colin",84.5,SL,Slider
-2023,"Beeks, Jalen",89.6,CH,Changeup
-2023,"Kirby, George",81.8,CU,Curveball
-2023,"Abbott, Andrew",80.9,CU,Curveball
-2023,"VerHagen, Drew",81.3,ST,Sweeper
-2023,"Chafin, Andrew",83.5,SL,Slider
-2023,"Abbott, Cory",92.3,FF,4-Seam Fastball
-2023,"Uribe, Abner",99.4,SI,Sinker
-2023,"Diekman, Jake",95.2,SI,Sinker
-2023,"Ferguson, Caleb",86.6,FC,Cutter
-2023,"López, Pablo",94.5,SI,Sinker
-2023,"Floro, Dylan",92.7,SI,Sinker
-2023,"Williamson, Brandon",84,CH,Changeup
-2023,"Jackson, Andre",86.9,CH,Changeup
-2023,"Brasier, Ryan",85,SL,Slider
-2023,"Lively, Ben",80,ST,Sweeper
-2023,"Thompson, Zack",75.4,CU,Curveball
-2023,"Pagán, Emilio",87.7,FC,Cutter
-2023,"Karinchak, James",82.8,CU,Curveball
-2023,"De Los Santos, Enyel",84.1,SL,Slider
-2023,"Adam, Jason",89.6,CH,Changeup
-2023,"Suter, Brent",76.2,CH,Changeup
-2023,"Milner, Hoby",88.2,SI,Sinker
-2023,"Montgomery, Jordan",93.2,FF,4-Seam Fastball
-2023,"Beeks, Jalen",94.3,FF,4-Seam Fastball
-2023,"Young, Alex",90.5,SI,Sinker
-2023,"Stephan, Trevor",86.5,FS,Split-Finger
-2023,"Sborz, Josh",88.6,SL,Slider
-2023,"Palencia, Daniel",98.3,FF,4-Seam Fastball
-2023,"Musgrove, Joe",90.1,FC,Cutter
-2023,"Silseth, Chase",95,FF,4-Seam Fastball
-2023,"Stephenson, Robert",88.7,FC,Cutter
-2023,"Young, Alex",85.7,CH,Changeup
-2023,"Miller, Bobby",88.2,CH,Changeup
-2023,"Saucedo, Tayler",92.3,SI,Sinker
-2023,"Neris, Héctor",82.9,FS,Split-Finger
-2023,"Hand, Brad",92.6,FF,4-Seam Fastball
-2023,"Megill, Tylor",87.8,CH,Changeup
-2023,"Topa, Justin",82.8,ST,Sweeper
-2023,"Diekman, Jake",95.7,FF,4-Seam Fastball
-2023,"Gausman, Kevin",84,SL,Slider
-2023,"Floro, Dylan",92.3,FF,4-Seam Fastball
-2023,"Nelson, Ryne",83.3,CH,Changeup
-2023,"Greinke, Zack",72.4,CU,Curveball
-2023,"Abbott, Andrew",82.9,ST,Sweeper
-2023,"Wells, Tyler",84,SL,Slider
-2023,"Barlow, Scott",83.1,SL,Slider
-2023,"Syndergaard, Noah",87.3,CH,Changeup
-2023,"Hill, Tim",88.6,SI,Sinker
-2023,"Abbott, Andrew",86.6,CH,Changeup
-2023,"Teheran, Julio",86.4,FC,Cutter
-2023,"McClanahan, Shane",83.5,CU,Curveball
-2023,"Brebbia, John",94.5,FF,4-Seam Fastball
-2023,"Clarke, Taylor",94.8,FF,4-Seam Fastball
-2023,"Leclerc, José",82.8,SL,Slider
-2023,"Houser, Adrian",82.3,SL,Slider
-2023,"Cortes, Nestor",86.6,FC,Cutter
-2023,"Schreiber, John",80.9,ST,Sweeper
-2023,"Mlodzinski, Carmen",95.7,FF,4-Seam Fastball
-2023,"Sánchez, Cristopher",82.7,SL,Slider
-2023,"Marte, Yunior",86.9,SL,Slider
-2023,"Kelly, Merrill",82.1,CU,Curveball
-2023,"Bello, Brayan",85,SL,Slider
-2023,"Lyles, Jordan",85.5,CH,Changeup
-2023,"Lambert, Peter",88.1,SL,Slider
-2023,"Iglesias, Raisel",89.4,CH,Changeup
-2023,"Hentges, Sam",79.9,CU,Curveball
-2023,"Nogosek, Stephen",94.2,FF,4-Seam Fastball
-2023,"Shreve, Chasen",82,FS,Split-Finger
-2023,"Lange, Alex",95.7,SI,Sinker
-2023,"Banks, Tanner",86.3,SL,Slider
-2023,"Martinez, Seth",91.1,FF,4-Seam Fastball
-2023,"Scherzer, Max",75.4,CU,Curveball
-2023,"Williams, Gavin",84.9,SL,Slider
-2023,"Alvarado, José",93.1,FC,Cutter
-2023,"Nelson, Ryne",85.7,FC,Cutter
-2023,"Wentz, Joey",77.5,CU,Curveball
-2023,"Bradley, Taj",79,CU,Curveball
-2023,"Gonsolin, Tony",86.8,SL,Slider
-2023,"Cabrera, Génesis",89.6,FC,Cutter
-2023,"Covey, Dylan",95.1,SI,Sinker
-2023,"Rodriguez, Grayson",82.3,ST,Sweeper
-2023,"Adam, Jason",94.6,FF,4-Seam Fastball
-2023,"France, J.P.",76,CU,Curveball
-2023,"Davis, Noah",93.5,SI,Sinker
-2023,"Severino, Luis",86.7,CH,Changeup
-2023,"Sborz, Josh",96.9,FF,4-Seam Fastball
-2023,"Morgan, Eli",85.5,SL,Slider
-2023,"Perdomo, Angel",94,FF,4-Seam Fastball
-2023,"Iglesias, Raisel",95.1,FF,4-Seam Fastball
-2023,"Quintana, Jose",90.2,FF,4-Seam Fastball
-2023,"Eovaldi, Nathan",76,CU,Curveball
-2023,"Bielak, Brandon",92.1,SI,Sinker
-2023,"Armstrong, Shawn",91.4,FC,Cutter
-2023,"Toussaint, Touki",87.5,FS,Split-Finger
-2023,"Estévez, Carlos",88.5,SL,Slider
-2023,"Lauer, Eric",86.7,FC,Cutter
-2023,"Hartwig, Grant",94.7,SI,Sinker
-2023,"Freeland, Kyle",84.3,CH,Changeup
-2023,"Davidson, Tucker",91.4,FF,4-Seam Fastball
-2023,"Lively, Ben",91.5,SI,Sinker
-2023,"Gallen, Zac",90.2,FC,Cutter
-2023,"Sandoval, Patrick",93.3,SI,Sinker
-2023,"Graveman, Kendall",87.1,SL,Slider
-2023,"Anderson, Grant",85.3,SL,Slider
-2023,"Rom, Drew",90.6,FF,4-Seam Fastball
-2023,"Cueto, Johnny",92.2,FF,4-Seam Fastball
-2023,"Hernández, Carlos",88.6,SL,Slider
-2023,"Wacha, Michael",91.9,SI,Sinker
-2023,"Lambert, Jimmy",94,FF,4-Seam Fastball
-2023,"Chavez, Jesse",88.5,FC,Cutter
-2023,"Priester, Quinn",93.6,SI,Sinker
-2023,"Skubal, Tarik",84.3,CH,Changeup
-2023,"Hudson, Dakota",91.1,FF,4-Seam Fastball
-2023,"Abreu, Albert",87.7,SL,Slider
-2023,"Bassitt, Chris",92.4,FF,4-Seam Fastball
-2023,"Morton, Charlie",86,CH,Changeup
-2023,"Chapman, Aroldis",88.1,SL,Slider
-2023,"Carrasco, Carlos",84.1,SL,Slider
-2023,"Leiter Jr., Mark",91.3,SI,Sinker
-2023,"Falter, Bailey",76.5,CU,Curveball
-2023,"Chargois, JT",86.3,SL,Slider
-2023,"Nelson, Kyle",92,FF,4-Seam Fastball
-2023,"Voth, Austin",93.2,FF,4-Seam Fastball
-2023,"Irvin, Cole",92,SI,Sinker
-2023,"Severino, Luis",84.7,SL,Slider
-2023,"Velasquez, Vince",83.2,SL,Slider
-2023,"Wesneski, Hayden",92.9,SI,Sinker
-2023,"Lambert, Peter",86.2,CH,Changeup
-2023,"Urías, Julio",86.1,CH,Changeup
-2023,"Englert, Mason",91.1,FF,4-Seam Fastball
-2023,"Fulmer, Michael",83.2,ST,Sweeper
-2023,"Borucki, Ryan",87.8,SL,Slider
-2023,"Lorenzen, Michael",93.6,SI,Sinker
-2023,"Whitlock, Garrett",82.7,CH,Changeup
-2023,"Jiménez, Joe",84.3,SL,Slider
-2023,"Brazobán, Huascar",89.3,CH,Changeup
-2023,"Fried, Max",74.2,CU,Curveball
-2023,"Erceg, Lucas",98,FF,4-Seam Fastball
-2023,"Brigham, Jeff",82.4,ST,Sweeper
-2023,"Martinez, Nick",89.5,FC,Cutter
-2023,"Manaea, Sean",93.8,FF,4-Seam Fastball
-2023,"Hernandez, Jose E.",94.6,FF,4-Seam Fastball
-2023,"Smyly, Drew",88.6,FC,Cutter
-2023,"Manaea, Sean",84.4,SL,Slider
-2023,"King, John",93.7,SI,Sinker
-2023,"Beck, Tristan",82.2,ST,Sweeper
-2023,"Pruitt, Austin",87.7,SL,Slider
-2023,"Ruiz, José",85.7,CU,Curveball
-2023,"Shuster, Jared",84.9,SL,Slider
-2023,"Ottavino, Adam",79.6,ST,Sweeper
-2023,"VerHagen, Drew",93.4,FF,4-Seam Fastball
-2023,"Cano, Yennier",90.9,CH,Changeup
-2023,"Rucker, Michael",94.6,FF,4-Seam Fastball
-2023,"Bassitt, Chris",73.2,ST,Sweeper
-2023,"Ramírez, Erasmo",91.5,SI,Sinker
-2023,"Duran, Jhoan",87.7,CU,Curveball
-2023,"Farmer, Buck",87.8,CH,Changeup
-2023,"Cox, Austin",91.5,FF,4-Seam Fastball
-2023,"Bednar, David",77.9,CU,Curveball
-2023,"Flexen, Chris",81,CH,Changeup
-2023,"Medina, Luis",95.5,SI,Sinker
-2023,"McClanahan, Shane",89.3,SL,Slider
-2023,"Blach, Ty",79.9,CH,Changeup
-2023,"Canning, Griffin",81.8,CU,Curveball
-2023,"Kluber, Corey",80.5,CU,Curveball
-2023,"Leone, Dominic",92,FC,Cutter
-2023,"Bird, Jake",81.7,CU,Curveball
-2023,"Francis, Bowden",94.4,FF,4-Seam Fastball
-2023,"Headrick, Brent",91.7,FF,4-Seam Fastball
-2023,"Fujinami, Shintaro",92.8,FS,Split-Finger
-2023,"Dodd, Dylan",92.1,FF,4-Seam Fastball
-2023,"Duran, Jhoan",98.4,FS,Split-Finger
-2023,"Winckowski, Josh",85.9,SL,Slider
-2023,"Gray, Jon",88.8,CH,Changeup
-2023,"Lamet, Dinelson",85.9,SL,Slider
-2023,"Finnegan, Kyle",89.6,FS,Split-Finger
-2023,"Ureña, José",95,SI,Sinker
-2023,"Montero, Rafael",91.5,CH,Changeup
-2023,"Matz, Steven",78.5,CU,Curveball
-2023,"Koch, Matt",89.6,FC,Cutter
-2023,"Murphy, Chris",88,SL,Slider
-2023,"Soriano, José",86.8,CU,Curveball
-2023,"Holderman, Colin",84.5,ST,Sweeper
-2023,"Paxton, James",85.8,FC,Cutter
-2023,"Quantrill, Cal",93.7,FF,4-Seam Fastball
-2023,"Anderson, Nick",80.7,CU,Curveball
-2023,"Keller, Brad",93.3,FF,4-Seam Fastball
-2023,"Whitlock, Garrett",79.6,ST,Sweeper
-2023,"Gaddis, Hunter",93.4,FF,4-Seam Fastball
-2023,"Blackburn, Paul",91.9,FF,4-Seam Fastball
-2023,"Armstrong, Shawn",94.7,SI,Sinker
-2023,"Baumann, Mike",87.4,CU,Curveball
-2023,"Avila, Pedro",94.1,FF,4-Seam Fastball
-2023,"Wright, Kyle",84,CU,Curveball
-2023,"Adam, Jason",79,ST,Sweeper
-2023,"Pressly, Ryan",82.1,CU,Curveball
-2023,"Stephan, Trevor",85.4,SL,Slider
-2023,"Hjelle, Sean",94.8,SI,Sinker
-2023,"Kluber, Corey",86.1,FC,Cutter
-2023,"Fulmer, Michael",94.3,FF,4-Seam Fastball
-2023,"Gott, Trevor",93.8,SI,Sinker
-2023,"Muñoz, Andrés",99.2,FF,4-Seam Fastball
-2023,"Wacha, Michael",87,FC,Cutter
-2023,"Velasquez, Vince",93.2,FF,4-Seam Fastball
-2023,"Bradford, Cody",82.1,CH,Changeup
-2023,"Irvin, Cole",84.2,CH,Changeup
-2023,"Holton, Tyler",82.9,CH,Changeup
-2023,"Payamps, Joel",95.3,SI,Sinker
-2023,"Shreve, Chasen",90.5,FF,4-Seam Fastball
-2023,"Clevinger, Mike",86.1,CH,Changeup
-2023,"Robertson, David",84.4,CU,Curveball
-2023,"Cruz, Fernando",87.9,FC,Cutter
-2023,"Henry, Tommy",84,CH,Changeup
-2023,"Weaver, Luke",81.7,CU,Curveball
-2023,"Ramirez, Nick",89.1,SI,Sinker
-2023,"Kuhl, Chad",93.8,FF,4-Seam Fastball
-2023,"Sandlin, Nick",92.1,FF,4-Seam Fastball
-2023,"Bieber, Shane",82.5,CU,Curveball
-2023,"Hentges, Sam",95.7,FF,4-Seam Fastball
-2023,"Brigham, Jeff",93.5,FF,4-Seam Fastball
-2023,"La Sorsa, Joe",88.1,SI,Sinker
-2023,"Leone, Dominic",85.3,SL,Slider
-2023,"Henry, Tommy",79.1,CU,Curveball
-2023,"Moll, Sam",94.1,FF,4-Seam Fastball
-2023,"Middleton, Keynan",85.8,SL,Slider
-2023,"Pivetta, Nick",86.6,SL,Slider
-2023,"Olson, Reese",87.8,CH,Changeup
-2023,"Kluber, Corey",88.2,SI,Sinker
-2023,"Pérez, Cionel",83.9,SV,Slurve
-2023,"Stratton, Chris",86.9,SL,Slider
-2023,"Kremer, Dean",78.1,CU,Curveball
-2023,"Bido, Osvaldo",94.7,FF,4-Seam Fastball
-2023,"Vest, Will",86.1,SL,Slider
-2023,"Vesia, Alex",85.9,SL,Slider
-2023,"Moore, Matt",84.2,CH,Changeup
-2023,"Nelson, Ryne",81.9,SL,Slider
-2023,"Yarbrough, Ryan",78.5,CH,Changeup
-2023,"Darvish, Yu",76.3,CU,Curveball
-2023,"Koch, Matt",93.8,FF,4-Seam Fastball
-2023,"Ruiz, José",96.5,FF,4-Seam Fastball
-2023,"Suárez, Ranger",87.5,FC,Cutter
-2023,"Kikuchi, Yusei",88.6,CH,Changeup
-2023,"Valdez, Framber",84.7,SL,Slider
-2023,"Hernández, Jonathan",97.5,SI,Sinker
-2023,"Frías, Luis",90.5,FC,Cutter
-2023,"Scherzer, Max",88.4,FC,Cutter
-2023,"Domínguez, Seranthony",98,SI,Sinker
-2023,"Strahm, Matt",93.2,SI,Sinker
-2023,"Englert, Mason",83.6,CH,Changeup
-2023,"Webb, Jacob",85.9,CH,Changeup
-2023,"Littell, Zack",84.3,FS,Split-Finger
-2023,"Ohtani, Shohei",89.5,FC,Cutter
-2023,"Gibson, Kyle",79.5,CU,Curveball
-2023,"Barlow, Scott",93,FF,4-Seam Fastball
-2023,"Ward, Thaddeus",93.2,SI,Sinker
-2023,"Thompson, Mason",84.7,SL,Slider
-2023,"Wantz, Andrew",94,FF,4-Seam Fastball
-2023,"Moreta, Dauri",95.2,FF,4-Seam Fastball
-2023,"Garcia, Robert",94.3,FF,4-Seam Fastball
-2023,"Syndergaard, Noah",92.2,FF,4-Seam Fastball
-2023,"Gibaut, Ian",84.2,ST,Sweeper
-2023,"Stratton, Chris",80.8,CU,Curveball
-2023,"Luzardo, Jesús",96.5,SI,Sinker
-2023,"Skubal, Tarik",87.6,SL,Slider
-2023,"Weathers, Ryan",86.8,CH,Changeup
-2023,"Ferrer, Jose A.",95.3,SI,Sinker
-2023,"Gonsolin, Tony",80.9,CU,Curveball
-2023,"Quintana, Jose",77.1,CU,Curveball
-2023,"Crawford, Kutter",79.4,CU,Curveball
-2023,"Graveman, Kendall",95.9,FF,4-Seam Fastball
-2023,"Honeywell, Brent",87.3,CH,Changeup
-2023,"Keller, Mitch",78,CU,Curveball
-2023,"Speier, Gabe",84.4,SL,Slider
-2023,"Martin, Chris",92.3,FC,Cutter
-2023,"Martin, Chris",95.7,FF,4-Seam Fastball
-2023,"Weaver, Luke",90.3,FC,Cutter
-2023,"Civale, Aaron",91.8,FF,4-Seam Fastball
-2023,"Bradley, Taj",89.3,FS,Split-Finger
-2023,"Manaea, Sean",79.8,ST,Sweeper
-2023,"Brieske, Beau",96.7,FF,4-Seam Fastball
-2023,"Ward, Thaddeus",81,ST,Sweeper
-2023,"Battenfield, Peyton",90.8,FF,4-Seam Fastball
-2023,"Raley, Brooks",89.9,SI,Sinker
-2023,"Falter, Bailey",84.5,SL,Slider
-2023,"Wacha, Michael",74,CU,Curveball
-2023,"Gonzales, Marco",79.9,CH,Changeup
-2023,"Bautista, Félix",88.6,FS,Split-Finger
-2023,"May, Dustin",96.6,SI,Sinker
-2023,"Severino, Luis",90.8,FC,Cutter
-2023,"King, Michael",87.2,CH,Changeup
-2023,"Lodolo, Nick",93.2,FF,4-Seam Fastball
-2023,"Maton, Phil",79.7,ST,Sweeper
-2023,"Rasmussen, Drew",88.1,FC,Cutter
-2023,"Hernández, Jonathan",87.3,SL,Slider
-2023,"Hader, Josh",85.7,SL,Slider
-2023,"Taillon, Jameson",94,SI,Sinker
-2023,"Alexander, Tyler",86.3,FC,Cutter
-2023,"Suárez, Andrew",92.3,FF,4-Seam Fastball
-2023,"Feltner, Ryan",88.6,SL,Slider
-2023,"Scholtens, Jesse",74,CU,Curveball
-2023,"Brito, Jhony",95.8,FF,4-Seam Fastball
-2023,"Zerpa, Angel",94.5,FF,4-Seam Fastball
-2023,"Weaver, Luke",86.5,SL,Slider
-2023,"Hoffman, Jeff",97.2,FF,4-Seam Fastball
-2023,"Domínguez, Seranthony",90,SL,Slider
-2023,"Long, Sam",77.4,CU,Curveball
-2023,"Martinez, Nick",93.3,FF,4-Seam Fastball
-2023,"Pressly, Ryan",94.7,FF,4-Seam Fastball
-2023,"Liberatore, Matthew",76.5,CU,Curveball
-2023,"Urquidy, José",86.1,CH,Changeup
-2023,"Sandoval, Patrick",76.5,CU,Curveball
-2023,"Suarez, José",92.3,FF,4-Seam Fastball
-2023,"Machado, Andrés",96.6,FF,4-Seam Fastball
-2023,"Jax, Griffin",96.5,FF,4-Seam Fastball
-2023,"Burnes, Corbin",95.3,SI,Sinker
-2023,"Medina, Luis",79.7,CU,Curveball
-2023,"Schreiber, John",93.2,FF,4-Seam Fastball
-2023,"Williams, Gavin",76.3,CU,Curveball
-2023,"Cuas, Jose",92.3,FF,4-Seam Fastball
-2023,"Strzelecki, Peter",92,FF,4-Seam Fastball
-2023,"Rosenberg, Kenny",90.7,FF,4-Seam Fastball
-2023,"Brogdon, Connor",83.2,CH,Changeup
-2023,"Erceg, Lucas",90.3,CH,Changeup
-2023,"Cole, Gerrit",89.1,CH,Changeup
-2023,"Holton, Tyler",88,FC,Cutter
-2023,"Pérez, Cionel",96.8,FF,4-Seam Fastball
-2023,"Cuas, Jose",82.4,SL,Slider
-2023,"Hamilton, Ian",95.6,SI,Sinker
-2023,"Lodolo, Nick",79.6,CU,Curveball
-2023,"Cole, Gerrit",92.7,FC,Cutter
-2023,"Mantiply, Joe",89.5,SI,Sinker
-2023,"Nola, Aaron",86.3,FC,Cutter
-2023,"Anderson, Nick",94.1,FF,4-Seam Fastball
-2023,"Avila, Pedro",83.8,CH,Changeup
-2023,"Keuchel, Dallas",87.4,SI,Sinker
-2023,"Gonzales, Marco",89.2,FF,4-Seam Fastball
-2023,"Ryu, Hyun Jin",88.7,FF,4-Seam Fastball
-2023,"Pepiot, Ryan",86.3,CH,Changeup
-2023,"Woodruff, Brandon",94.9,SI,Sinker
-2023,"Fujinami, Shintaro",88.3,FC,Cutter
-2023,"Morton, Charlie",89.1,FC,Cutter
-2023,"Turnbull, Spencer",92.9,FF,4-Seam Fastball
-2023,"Raley, Brooks",86.8,FC,Cutter
-2023,"Battenfield, Peyton",87.3,FC,Cutter
-2023,"Graterol, Brusdar",88.7,SL,Slider
-2023,"Brazobán, Huascar",96,SI,Sinker
-2023,"Rodriguez, Eduardo",92.3,SI,Sinker
-2023,"Baker, Bryan",86.1,SL,Slider
-2023,"Lynch IV, Daniel",84.1,CH,Changeup
-2023,"Smith, Drew",84.3,SL,Slider
-2023,"Harris, Hogan",80.1,CH,Changeup
-2023,"Middleton, Keynan",95.5,FF,4-Seam Fastball
-2023,"Strider, Spencer",87,CH,Changeup
-2023,"Payamps, Joel",95.4,FF,4-Seam Fastball
-2023,"Kelly, Joe",98.9,SI,Sinker
-2023,"Musgrove, Joe",82.2,SL,Slider
-2023,"Quintana, Jose",85.8,CH,Changeup
-2023,"Baumann, Mike",91.7,SL,Slider
-2023,"Machado, Andrés",96,SI,Sinker
-2023,"Helsley, Ryan",89,SL,Slider
-2023,"Ashcraft, Graham",96.5,SI,Sinker
-2023,"Hjelle, Sean",85.6,CU,Curveball
-2023,"Bido, Osvaldo",94.6,SI,Sinker
-2023,"Hicks, Jordan",86.8,ST,Sweeper
-2023,"Rea, Colin",83.2,ST,Sweeper
-2023,"Martínez, Adrián",82.7,CH,Changeup
-2023,"Boyd, Matthew",80.2,CH,Changeup
-2023,"Lynn, Lance",84.9,CH,Changeup
-2023,"Fleming, Josh",82.9,CH,Changeup
-2023,"Woo, Bryan",87.6,SL,Slider
-2023,"Blackburn, Paul",79.1,CU,Curveball
-2023,"Phillips, Evan",93.1,FC,Cutter
-2023,"Sale, Chris",86.1,CH,Changeup
-2023,"Flaherty, Jack",88.7,FC,Cutter
-2023,"Garrett, Braxton",84.1,CH,Changeup
-2023,"Weathers, Ryan",80.8,ST,Sweeper
-2023,"Webb, Jacob",84,ST,Sweeper
-2023,"Manoah, Alek",86.3,CH,Changeup
-2023,"Leiter Jr., Mark",88.7,FC,Cutter
-2023,"Gaddis, Hunter",85.3,SL,Slider
-2023,"Hamilton, Ian",96.2,FF,4-Seam Fastball
-2023,"DeSclafani, Anthony",93.2,FF,4-Seam Fastball
-2023,"Javier, Cristian",76.6,CU,Curveball
-2023,"Kowar, Jackson",96.9,FF,4-Seam Fastball
-2023,"Gott, Trevor",93.3,FF,4-Seam Fastball
-2023,"Muller, Kyle",81.2,CU,Curveball
-2023,"Bibee, Tanner",78.4,CU,Curveball
-2023,"Sborz, Josh",85.2,CU,Curveball
-2023,"Lyles, Jordan",86.8,FC,Cutter
-2023,"Marsh, Alec",85.4,ST,Sweeper
-2023,"Holmes, Clay",87.5,SL,Slider
-2023,"Pérez, Eury",81.2,CU,Curveball
-2023,"Robertson, David",85.1,SL,Slider
-2023,"Young, Alex",81.5,CU,Curveball
-2023,"Schreiber, John",92.7,SI,Sinker
-2023,"Machado, Andrés",89.7,CH,Changeup
-2023,"Almonte, Yency",95.8,SI,Sinker
-2023,"Floro, Dylan",84.1,SL,Slider
-2023,"Ragans, Cole",91.8,FC,Cutter
-2023,"Stroman, Marcus",89.7,FC,Cutter
-2023,"López, Jorge",84.1,CU,Curveball
-2023,"White, Brendan",94.4,FF,4-Seam Fastball
-2023,"Liberatore, Matthew",94.3,SI,Sinker
-2023,"Llovera, Mauricio",82.7,SL,Slider
-2023,"Herrin, Tim",96.6,FF,4-Seam Fastball
-2023,"Quantrill, Cal",86.8,FS,Split-Finger
-2023,"Harris, Hogan",90.5,FC,Cutter
-2023,"Keller, Brad",84.3,SL,Slider
-2023,"Hollowell, Gavin",93.4,FF,4-Seam Fastball
-2023,"Blach, Ty",83.7,FC,Cutter
-2023,"Garrett, Braxton",77.7,CU,Curveball
-2023,"Blackburn, Paul",86,CH,Changeup
-2023,"Fulmer, Michael",89.6,FC,Cutter
-2023,"Lugo, Seth",85.9,SL,Slider
-2023,"Feltner, Ryan",94.8,FF,4-Seam Fastball
-2023,"Seabold, Connor",80.6,CH,Changeup
-2023,"Avila, Pedro",93.3,SI,Sinker
-2023,"Lambert, Jimmy",85.6,SL,Slider
-2023,"La Sorsa, Joe",74.8,ST,Sweeper
-2023,"Fried, Max",86.2,CH,Changeup
-2023,"Woodruff, Brandon",85.8,CH,Changeup
-2023,"Martinez, Seth",79.3,ST,Sweeper
-2023,"Urquidy, José",80.6,ST,Sweeper
-2023,"Cueto, Johnny",86.1,SL,Slider
-2023,"Bassitt, Chris",84.1,CH,Changeup
-2023,"Frías, Luis",96.1,FF,4-Seam Fastball
-2023,"Rosenberg, Kenny",80.6,CH,Changeup
-2023,"Herrin, Tim",88.1,SL,Slider
-2023,"Manning, Matt",79.5,CU,Curveball
-2023,"Saucedo, Tayler",86,CH,Changeup
-2023,"Irvin, Cole",85.5,FC,Cutter
-2023,"White, Brendan",86.7,SL,Slider
-2023,"Cisnero, José",95.6,SI,Sinker
-2023,"Jameson, Drey",95,SI,Sinker
-2023,"Priester, Quinn",85.3,SL,Slider
-2023,"Kowar, Jackson",86.6,CH,Changeup
-2023,"May, Dustin",97.3,FF,4-Seam Fastball
-2023,"Woodford, Jake",81.7,ST,Sweeper
-2023,"Graterol, Brusdar",95.6,FC,Cutter
-2023,"Anderson, Chase",92.9,SI,Sinker
-2023,"Hartwig, Grant",82.5,ST,Sweeper
-2023,"Cosgrove, Tom",92,FF,4-Seam Fastball
-2023,"May, Trevor",84.4,SL,Slider
-2023,"Marsh, Alec",81.1,CU,Curveball
-2023,"France, J.P.",80.1,ST,Sweeper
-2023,"Marsh, Alec",87,CH,Changeup
-2023,"Pallante, Andre",87.6,SL,Slider
-2023,"Ortiz, Luis L.",89.7,CH,Changeup
-2023,"Clarke, Taylor",83.9,ST,Sweeper
-2023,"Hollowell, Gavin",82.4,ST,Sweeper
-2023,"Shuster, Jared",82.2,CH,Changeup
-2023,"Darvish, Yu",90.9,FC,Cutter
-2023,"Devenski, Chris",94,FF,4-Seam Fastball
-2023,"Houck, Tanner",87.7,FS,Split-Finger
-2023,"Rasmussen, Drew",95.7,FF,4-Seam Fastball
-2023,"Syndergaard, Noah",77.9,CU,Curveball
-2023,"Thompson, Zack",85.7,SL,Slider
-2023,"Ragans, Cole",81.8,CU,Curveball
-2023,"Covey, Dylan",92.4,FC,Cutter
-2023,"Kauffmann, Karl",90.1,SI,Sinker
-2023,"Herget, Jimmy",77.2,CU,Curveball
-2023,"Gonzales, Marco",79.3,CU,Curveball
-2023,"King, John",84.1,CH,Changeup
-2023,"Sandlin, Nick",92.4,SI,Sinker
-2023,"Cosgrove, Tom",91.1,SI,Sinker
-2023,"Pfaadt, Brandon",86.7,CH,Changeup
-2023,"Grove, Michael",78.3,CU,Curveball
-2023,"Ureña, José",86.2,SL,Slider
-2023,"Sheehan, Emmet",87.1,SL,Slider
-2023,"Cisnero, José",84.7,SL,Slider
-2023,"Topa, Justin",92.4,FC,Cutter
-2023,"Alzolay, Adbert",95.3,SI,Sinker
-2023,"Chafin, Andrew",92.1,FF,4-Seam Fastball
-2023,"Wilson, Bryse",93.6,FF,4-Seam Fastball
-2023,"Houck, Tanner",91.2,FC,Cutter
-2023,"Alzolay, Adbert",95.3,FF,4-Seam Fastball
-2023,"Megill, Tylor",77.2,CU,Curveball
-2023,"Allen, Logan",86.4,FC,Cutter
-2023,"Soriano, George",88.9,CH,Changeup
-2023,"Milner, Hoby",89,FF,4-Seam Fastball
-2023,"Rucker, Michael",89.5,FC,Cutter
-2023,"Barria, Jaime",84.6,CH,Changeup
-2023,"Alexander, Tyler",89.9,FF,4-Seam Fastball
-2023,"Mayza, Tim",86.2,SL,Slider
-2023,"Headrick, Brent",80,SL,Slider
-2023,"Adon, Joan",80.8,CU,Curveball
-2023,"Swanson, Erik",86.6,SL,Slider
-2023,"Criswell, Cooper",88.4,SI,Sinker
-2023,"Holderman, Colin",92.3,FC,Cutter
-2023,"Ryu, Hyun Jin",78.1,CH,Changeup
-2023,"Gray, Sonny",87.9,CH,Changeup
-2023,"Wantz, Andrew",89.4,FC,Cutter
-2023,"Quantrill, Cal",82,CU,Curveball
-2023,"Stone, Gavin",85.8,CH,Changeup
-2023,"Ureña, José",87.4,CH,Changeup
-2023,"Corbin, Patrick",81.1,CH,Changeup
-2023,"Loup, Aaron",83.5,FC,Cutter
-2023,"Law, Derek",95.5,FF,4-Seam Fastball
-2023,"Pivetta, Nick",88.4,FC,Cutter
-2023,"VerHagen, Drew",92.6,SI,Sinker
-2023,"Ramírez, Yohan",82.8,ST,Sweeper
-2023,"Pruitt, Austin",91.8,FF,4-Seam Fastball
-2023,"Winder, Josh",85.1,SL,Slider
-2023,"Stephenson, Robert",84.8,SL,Slider
-2023,"Ramirez, Nick",79.1,CH,Changeup
-2023,"Kelly, Joe",91.6,SL,Slider
-2023,"Montero, Rafael",95.4,SI,Sinker
-2023,"Bird, Jake",89.7,FC,Cutter
-2023,"White, Brendan",83.1,ST,Sweeper
-2023,"Voth, Austin",77.3,CU,Curveball
-2023,"Francis, Bowden",74.3,CU,Curveball
-2023,"Hollowell, Gavin",94.1,SI,Sinker
-2023,"Romero, JoJo",94.7,SI,Sinker
-2023,"Bednar, David",91.6,FS,Split-Finger
-2023,"Garrett, Braxton",90.8,FF,4-Seam Fastball
-2023,"Foley, Jason",88.9,SL,Slider
-2023,"Phillips, Evan",96.3,FF,4-Seam Fastball
-2023,"Williamson, Brandon",81.6,ST,Sweeper
-2023,"Jameson, Drey",97,FF,4-Seam Fastball
-2023,"Stroman, Marcus",91.9,FF,4-Seam Fastball
-2023,"Irvin, Cole",77.2,CU,Curveball
-2023,"Avila, Pedro",77.4,CU,Curveball
-2023,"Assad, Javier",80.2,ST,Sweeper
-2023,"Ramirez, Nick",79.2,ST,Sweeper
-2023,"Waldron, Matt",76.6,KN,Knuckleball
-2023,"Stephenson, Robert",96.8,FF,4-Seam Fastball
-2023,"Williams, Trevor",76.7,CU,Curveball
-2023,"Harvey, Hunter",89.5,FS,Split-Finger
-2023,"Germán, Domingo",92.3,SI,Sinker
-2023,"Milner, Hoby",81.1,CH,Changeup
-2023,"Keuchel, Dallas",80.3,CH,Changeup
-2023,"Wainwright, Adam",85.7,FF,4-Seam Fastball
-2023,"Diekman, Jake",83.7,ST,Sweeper
-2023,"Silseth, Chase",81.6,ST,Sweeper
-2023,"Miller, Bryce",81.2,ST,Sweeper
-2023,"Houck, Tanner",93.9,FF,4-Seam Fastball
-2023,"Henry, Tommy",83.1,SL,Slider
-2023,"Vásquez, Randy",94.4,FF,4-Seam Fastball
-2023,"Sheehan, Emmet",82.9,CH,Changeup
-2023,"Brogdon, Connor",94.7,FF,4-Seam Fastball
-2023,"Syndergaard, Noah",89.5,FC,Cutter
-2023,"Musgrove, Joe",87.1,CH,Changeup
-2023,"Cabrera, Edward",96.1,SI,Sinker
-2023,"Pearson, Nate",87.4,SL,Slider
-2023,"Montero, Rafael",88.3,SL,Slider
-2023,"Jameson, Drey",85.4,SL,Slider
-2023,"Morton, Charlie",94.2,SI,Sinker
-2023,"Hill, Rich",69.4,ST,Sweeper
-2023,"Miller, Shelby",85.6,FS,Split-Finger
-2023,"Keller, Brad",85.1,CU,Curveball
-2023,"Curry, Xzavion",75.1,CU,Curveball
-2023,"Quantrill, Cal",86.1,CH,Changeup
-2023,"May, Trevor",87.8,CH,Changeup
-2023,"Bradish, Kyle",90.8,CH,Changeup
-2023,"Soroka, Michael",93.2,FF,4-Seam Fastball
-2023,"Wicks, Jordan",81.3,CH,Changeup
-2023,"Wantz, Andrew",83.8,ST,Sweeper
-2023,"Peterson, David",78.6,CU,Curveball
-2023,"Clevinger, Mike",84.9,FC,Cutter
-2023,"Hand, Brad",92.7,SI,Sinker
-2023,"Lucchesi, Joey",77.9,CU,Curveball
-2023,"Mikolas, Miles",84.4,CH,Changeup
-2023,"Burke, Brock",87.3,SL,Slider
-2023,"Chavez, Jesse",90.9,SI,Sinker
-2023,"Moore, Matt",84.3,CU,Curveball
-2023,"Soto, Gregory",98.8,FF,4-Seam Fastball
-2023,"Rodriguez, Eduardo",84.5,SL,Slider
-2023,"Kirby, George",84.9,FS,Split-Finger
-2023,"Urías, Julio",87.1,FC,Cutter
-2023,"Rodriguez, Grayson",79.9,CU,Curveball
-2023,"Holton, Tyler",81.8,ST,Sweeper
-2023,"Law, Derek",86.6,SL,Slider
-2023,"Jackson, Andre",87.1,SL,Slider
-2023,"Medina, Luis",87.3,CH,Changeup
-2023,"Darvish, Yu",89.2,FS,Split-Finger
-2023,"Wright, Kyle",92.7,SI,Sinker
-2023,"García, Yimi",95.4,SI,Sinker
-2023,"Zerpa, Angel",86.2,SL,Slider
-2023,"Cueto, Johnny",92.2,SI,Sinker
-2023,"Davies, Zach",87.5,FC,Cutter
-2023,"Stroman, Marcus",86.6,FS,Split-Finger
-2023,"Carrasco, Carlos",91.5,SI,Sinker
-2023,"Brazobán, Huascar",96.6,FF,4-Seam Fastball
-2023,"Neris, Héctor",92.9,SI,Sinker
-2023,"Buttó, José",85.5,CH,Changeup
-2023,"Strzelecki, Peter",80.8,ST,Sweeper
-2023,"Lucchesi, Joey",90.4,FF,4-Seam Fastball
-2023,"Fleming, Josh",76.5,CU,Curveball
-2023,"Megill, Trevor",85.8,CU,Curveball
-2023,"Anderson, Grant",92.9,SI,Sinker
-2023,"Keuchel, Dallas",84.8,FC,Cutter
-2023,"Uribe, Abner",89.4,SL,Slider
-2023,"Kopech, Michael",88.7,CH,Changeup
-2023,"Honeywell, Brent",81.5,ST,Sweeper
-2023,"Suarez, José",82,CH,Changeup
-2023,"Cueto, Johnny",84.1,CH,Changeup
-2023,"Wicks, Jordan",92.1,FF,4-Seam Fastball
-2023,"Lamet, Dinelson",94.9,SI,Sinker
-2023,"Chapman, Aroldis",101.1,SI,Sinker
-2023,"Banks, Tanner",86.3,CH,Changeup
-2023,"Ragans, Cole",86.6,SL,Slider
-2023,"Bielak, Brandon",82,ST,Sweeper
-2023,"Ruiz, José",96.2,SI,Sinker
-2023,"Soriano, José",98.9,FF,4-Seam Fastball
-2023,"Singer, Brady",87.7,CH,Changeup
-2023,"Senga, Kodai",80.8,ST,Sweeper
-2023,"Duarte, Daniel",94.2,SI,Sinker
-2023,"Armstrong, Shawn",94.5,FF,4-Seam Fastball
-2023,"Clarke, Taylor",89.1,CH,Changeup
-2023,"Priester, Quinn",92.7,FF,4-Seam Fastball
-2023,"Martínez, Adrián",83.2,SL,Slider
-2023,"Ryan, Joe",83.3,SL,Slider
-2023,"Zerpa, Angel",94.6,SI,Sinker
-2023,"Dodd, Dylan",81.8,SL,Slider
-2023,"Walker, Taijuan",74.8,CU,Curveball
-2023,"Rom, Drew",87.4,SI,Sinker
-2023,"Faucher, Calvin",91.1,FC,Cutter
-2023,"Crawford, Kutter",82.4,FS,Split-Finger
-2023,"Lambert, Peter",82.6,ST,Sweeper
-2023,"Senga, Kodai",84.6,SL,Slider
-2023,"Speier, Gabe",95.1,FF,4-Seam Fastball
-2023,"Muñoz, Andrés",98.4,SI,Sinker
-2023,"Fried, Max",93.5,SI,Sinker
-2023,"Pfaadt, Brandon",93.1,SI,Sinker
-2023,"Covey, Dylan",87.7,SL,Slider
-2023,"Miller, Bryce",95.1,SI,Sinker
-2023,"Mantiply, Joe",80.3,CU,Curveball
-2023,"Rea, Colin",78.8,CU,Curveball
-2023,"Murphy, Chris",75.8,CU,Curveball
-2023,"Rom, Drew",79.4,ST,Sweeper
-2023,"Castro, Miguel",91.4,CH,Changeup
-2023,"Stanek, Ryne",89.2,FS,Split-Finger
-2023,"Houser, Adrian",79.4,CU,Curveball
-2023,"Kluber, Corey",82.1,CH,Changeup
-2023,"Shreve, Chasen",83,ST,Sweeper
-2023,"Herget, Jimmy",85.2,SL,Slider
-2023,"Winn, Keaton",96,FF,4-Seam Fastball
-2023,"Ryu, Hyun Jin",85.1,FC,Cutter
-2023,"López, Jorge",88.5,SL,Slider
-2023,"Harrison, Kyle",82.2,SV,Slurve
-2023,"Shaw, Bryan",83.5,ST,Sweeper
-2023,"Oviedo, Johan",95.7,SI,Sinker
-2023,"Gray, Josiah",81.9,ST,Sweeper
-2023,"Greinke, Zack",85.2,FC,Cutter
-2023,"Ober, Bailey",77.5,CU,Curveball
-2023,"Leclerc, José",90.2,FC,Cutter
-2023,"Bello, Brayan",85.9,ST,Sweeper
-2023,"Criswell, Cooper",76.2,ST,Sweeper
-2023,"Kelly, Merrill",85.4,SL,Slider
-2023,"Wilson, Bryse",79.6,CU,Curveball
-2023,"Erceg, Lucas",86.2,SL,Slider
-2023,"Waldron, Matt",91.3,SI,Sinker
-2023,"Hoffman, Jeff",90.5,FS,Split-Finger
-2023,"Bielak, Brandon",79.5,CU,Curveball
-2023,"López, Jorge",96.9,FF,4-Seam Fastball
-2023,"Hentges, Sam",95.3,SI,Sinker
-2023,"Kaprielian, James",91.9,SI,Sinker
-2023,"Ottavino, Adam",87.8,FC,Cutter
-2023,"Perdomo, Angel",83.9,SL,Slider
-2023,"Romero, JoJo",85.9,CH,Changeup
-2023,"Pallante, Andre",76.9,CU,Curveball
-2023,"Wesneski, Hayden",88.6,FC,Cutter
-2023,"Gray, Jon",83.3,ST,Sweeper
-2023,"González, Victor",86.1,SL,Slider
-2023,"Faucher, Calvin",87.2,ST,Sweeper
-2023,"DeSclafani, Anthony",86.4,CH,Changeup
-2023,"Stanek, Ryne",88.6,SL,Slider
-2023,"Lynch IV, Daniel",87.6,SL,Slider
-2023,"Brito, Jhony",80.4,CU,Curveball
-2023,"Lorenzen, Michael",83,ST,Sweeper
-2023,"Banks, Tanner",80.9,ST,Sweeper
-2023,"Duarte, Daniel",95.6,FF,4-Seam Fastball
-2023,"Stone, Gavin",94,FF,4-Seam Fastball
-2023,"Coulombe, Danny",91.1,SI,Sinker
-2023,"Brieske, Beau",88.8,CH,Changeup
-2023,"Ferrer, Jose A.",95.8,FF,4-Seam Fastball
-2023,"Abreu, Albert",88.3,CH,Changeup
-2023,"Eflin, Zach",93.1,FF,4-Seam Fastball
-2023,"Pérez, Eury",89.7,CH,Changeup
-2023,"Miller, Mason",86,SL,Slider
-2023,"Kowar, Jackson",86,SL,Slider
-2023,"Gray, Jon",78.2,CU,Curveball
-2023,"Faucher, Calvin",95,FF,4-Seam Fastball
-2023,"Wells, Tyler",74.1,CU,Curveball
-2023,"Raley, Brooks",84.8,CH,Changeup
-2023,"Silseth, Chase",87.2,FS,Split-Finger
-2023,"Cortes, Nestor",76.2,ST,Sweeper
-2023,"Minter, A.J.",86.7,CH,Changeup
-2023,"Skubal, Tarik",95.8,SI,Sinker
-2023,"Holton, Tyler",91.2,SI,Sinker
-2023,"Vásquez, Randy",94.2,SI,Sinker
-2023,"Winans, Allan",82.9,CH,Changeup
-2023,"Coulombe, Danny",82,ST,Sweeper
-2023,"Loup, Aaron",79.7,CH,Changeup
-2023,"Diekman, Jake",87.9,CH,Changeup
-2023,"Cabrera, Edward",88.2,SL,Slider
-2023,"Maeda, Kenta",80.3,ST,Sweeper
-2023,"Lamet, Dinelson",94.8,FF,4-Seam Fastball
-2023,"Stripling, Ross",75.9,CU,Curveball
-2023,"Cordero, Jimmy",86.8,SL,Slider
-2023,"Varland, Louis",83.8,ST,Sweeper
-2023,"Feltner, Ryan",94.3,SI,Sinker
-2023,"Jackson, Luke",94.4,FF,4-Seam Fastball
-2023,"Ryu, Hyun Jin",68.9,CU,Curveball
-2023,"Ottavino, Adam",87.6,CH,Changeup
-2023,"Garcia, Robert",88.1,CH,Changeup
-2023,"Waldron, Matt",91.3,FF,4-Seam Fastball
-2023,"Detmers, Reid",84.8,CH,Changeup
-2023,"Crawford, Kutter",82.2,ST,Sweeper
-2023,"Lively, Ben",84.4,CH,Changeup
-2023,"Soroka, Michael",83.2,SL,Slider
-2023,"Hernández, Carlos",89,FS,Split-Finger
-2023,"Foley, Jason",91.6,CH,Changeup
-2023,"Adon, Joan",88.1,CH,Changeup
-2023,"Brito, Jhony",82.4,ST,Sweeper
-2023,"Winder, Josh",89,CH,Changeup
-2023,"Cabrera, Génesis",95.3,SI,Sinker
-2023,"Carrasco, Carlos",80,CU,Curveball
-2023,"Mantiply, Joe",81.9,CH,Changeup
-2023,"Junis, Jakob",87.1,CH,Changeup
-2023,"Faedo, Alex",85.9,CH,Changeup
-2023,"Ohtani, Shohei",94.4,SI,Sinker
-2023,"Palencia, Daniel",89.6,SL,Slider
-2023,"Winder, Josh",94.5,FF,4-Seam Fastball
-2023,"Payamps, Joel",89.1,CH,Changeup
-2023,"Cano, Yennier",87.5,SL,Slider
-2023,"Zerpa, Angel",86.9,CH,Changeup
-2023,"Brasier, Ryan",96.1,SI,Sinker
-2023,"Ward, Thaddeus",87.6,FC,Cutter
-2023,"Mlodzinski, Carmen",84,ST,Sweeper
-2023,"Liberatore, Matthew",86.7,SL,Slider
-2023,"Littell, Zack",92.9,SI,Sinker
-2023,"Jax, Griffin",96.5,SI,Sinker
-2023,"Anderson, Tyler",88.5,SI,Sinker
-2023,"Winans, Allan",89.6,SI,Sinker
-2023,"Iglesias, Raisel",84.6,SL,Slider
-2023,"Harvey, Hunter",86.6,SL,Slider
-2023,"Barlow, Scott",82.7,ST,Sweeper
-2023,"Brogdon, Connor",87.5,FC,Cutter
-2023,"Crawford, Kutter",82.9,SL,Slider
-2023,"Contreras, Roansy",76.8,CU,Curveball
-2023,"Edwards Jr., Carl",89.9,CH,Changeup
-2023,"Ferrer, Jose A.",85.4,CH,Changeup
-2023,"Marsh, Alec",87.3,SL,Slider
-2023,"Winans, Allan",78.8,ST,Sweeper
-2023,"Lugo, Seth",86.3,CH,Changeup
-2023,"Pagán, Emilio",85.9,FS,Split-Finger
-2023,"Eflin, Zach",86.4,CH,Changeup
-2023,"VerHagen, Drew",88.2,FC,Cutter
-2023,"Bradford, Cody",86.6,FC,Cutter
-2023,"Martinez, Seth",90.2,SI,Sinker
-2023,"García, Luis",96.9,FF,4-Seam Fastball
-2023,"Stripling, Ross",90.4,SI,Sinker
-2023,"Leclerc, José",88.3,CH,Changeup
-2023,"Pivetta, Nick",84.2,ST,Sweeper
-2023,"Almonte, Yency",96,FF,4-Seam Fastball
-2023,"Woo, Bryan",83.2,ST,Sweeper
-2023,"Cobb, Alex",86.2,SL,Slider
-2023,"Teheran, Julio",83.4,CH,Changeup
-2023,"Strzelecki, Peter",91.1,SI,Sinker
-2023,"Iglesias, Raisel",94.7,SI,Sinker
-2023,"Urquidy, José",79.6,CU,Curveball
-2023,"Strahm, Matt",87.7,FC,Cutter
-2023,"Brigham, Jeff",89.9,FC,Cutter
-2023,"Cabrera, Génesis",79.5,CU,Curveball
-2023,"Garcia, Robert",83.9,SL,Slider
-2023,"Silseth, Chase",94.3,SI,Sinker
-2023,"Hentges, Sam",87.8,SL,Slider
-2023,"Romero, JoJo",84.3,SL,Slider
-2023,"Gaddis, Hunter",81.2,CH,Changeup
-2023,"Brieske, Beau",95.9,SI,Sinker
-2023,"Rucker, Michael",85.9,SL,Slider
-2023,"Teheran, Julio",77.4,CU,Curveball
-2023,"Turnbull, Spencer",83.8,SL,Slider
-2023,"Nelson, Ryne",76.4,CU,Curveball
-2023,"Williamson, Brandon",73.1,CU,Curveball
-2023,"Varland, Louis",85.9,CH,Changeup
-2023,"Soroka, Michael",92.4,SI,Sinker
-2023,"Martinez, Seth",86.2,CH,Changeup
-2023,"Suter, Brent",76.7,SL,Slider
-2023,"Pruitt, Austin",81.2,CU,Curveball
-2023,"Brasier, Ryan",92,FC,Cutter
-2023,"Kelly, Joe",89.4,CU,Curveball
-2023,"Cisnero, José",89,FC,Cutter
-2023,"Muller, Kyle",88,CH,Changeup
-2023,"Ohtani, Shohei",88.2,FS,Split-Finger
-2023,"Hicks, Jordan",100.3,FF,4-Seam Fastball
-2023,"Winans, Allan",90,FF,4-Seam Fastball
-2023,"Kahnle, Tommy",95.3,FF,4-Seam Fastball
-2023,"Suárez, Andrew",84.5,SL,Slider
-2023,"Flexen, Chris",81.5,SL,Slider
-2023,"Harris, Hogan",77,ST,Sweeper
-2023,"Pruitt, Austin",91.3,SI,Sinker
-2023,"VerHagen, Drew",88.5,CH,Changeup
-2023,"Kauffmann, Karl",85,CH,Changeup
-2023,"Ginkel, Kevin",94.8,SI,Sinker
-2023,"Adon, Joan",94.2,SI,Sinker
-2023,"Alexander, Tyler",82.7,CH,Changeup
-2023,"Lange, Alex",89.5,CH,Changeup
-2023,"Maeda, Kenta",90.3,SI,Sinker
-2023,"Strzelecki, Peter",83.8,CH,Changeup
-2023,"García, Yimi",89.9,SL,Slider
-2023,"Bummer, Aaron",87.2,FC,Cutter
-2023,"Civale, Aaron",82.5,SL,Slider
-2023,"Hernández, Carlos",84.1,CU,Curveball
-2023,"Feltner, Ryan",84.1,CH,Changeup
-2023,"Peralta, Wandy",88.7,SL,Slider
-2023,"Floro, Dylan",85.6,CH,Changeup
-2023,"Paxton, James",84.4,CH,Changeup
-2023,"Wicks, Jordan",91.3,SI,Sinker
-2023,"McGough, Scott",86.7,SL,Slider
-2023,"Ryu, Hyun Jin",87.7,SI,Sinker
-2023,"Voth, Austin",82.7,ST,Sweeper
-2023,"Baker, Bryan",79.8,CH,Changeup
-2023,"Duarte, Daniel",91.4,FC,Cutter
-2023,"Priester, Quinn",80.6,CU,Curveball
-2023,"Anderson, Chase",80.5,ST,Sweeper
-2023,"Stroman, Marcus",86.1,SL,Slider
-2023,"López, Jorge",88.9,CH,Changeup
-2023,"Hartwig, Grant",93.3,FC,Cutter
-2023,"Law, Derek",95.1,SI,Sinker
-2023,"Rea, Colin",86,FS,Split-Finger
-2023,"Pérez, Martín",91.6,FF,4-Seam Fastball
-2023,"Cox, Austin",86.7,FC,Cutter
-2023,"Ureña, José",95.6,FF,4-Seam Fastball
-2023,"Alexander, Scott",83,SL,Slider
-2023,"Buttó, José",86.2,SL,Slider
-2023,"Vásquez, Randy",87.7,FC,Cutter
-2023,"Irvin, Jake",87.8,CH,Changeup
-2023,"Miller, Bryce",85,CH,Changeup
-2023,"Saucedo, Tayler",82.6,SL,Slider
-2023,"Martin, Chris",94.9,SI,Sinker
-2023,"Brash, Matt",85.8,CU,Curveball
-2023,"Urquidy, José",93.7,SI,Sinker
-2023,"Shaw, Bryan",81.7,CU,Curveball
-2023,"Waldron, Matt",79.8,ST,Sweeper
-2023,"Keller, Brad",90.8,CH,Changeup
-2023,"Lambert, Jimmy",76.1,CU,Curveball
-2023,"Kelly, Joe",99,FF,4-Seam Fastball
-2023,"Ruiz, José",89.6,CH,Changeup
-2023,"May, Dustin",92.9,FC,Cutter
-2023,"Borucki, Ryan",94,SI,Sinker
-2023,"Miller, Shelby",82.1,ST,Sweeper
-2023,"Fulmer, Michael",94.9,SI,Sinker
-2023,"Turnbull, Spencer",93.4,SI,Sinker
-2023,"Kauffmann, Karl",90.3,FF,4-Seam Fastball
-2023,"Pearson, Nate",80.4,CU,Curveball
-2023,"Kelly, Kevin",86.9,FC,Cutter
-2023,"Lauer, Eric",75.3,CU,Curveball
-2023,"Anderson, Grant",93,FF,4-Seam Fastball
-2023,"Duarte, Daniel",83.5,SL,Slider
-2023,"Adon, Joan",87.3,SL,Slider
-2023,"Beck, Tristan",79.2,CU,Curveball
-2023,"Sale, Chris",93.2,SI,Sinker
-2023,"Hoeing, Bryan",93.9,FF,4-Seam Fastball
-2023,"Machado, Andrés",88.4,SL,Slider
-2023,"Woodruff, Brandon",86.8,SL,Slider
-2023,"Brieske, Beau",87.3,SL,Slider
-2023,"Burke, Brock",88.2,CH,Changeup
-2023,"Rasmussen, Drew",84.5,ST,Sweeper
-2023,"Smith, Drew",85.4,CH,Changeup
-2023,"Dodd, Dylan",82.9,CH,Changeup
-2023,"Olson, Reese",78.8,CU,Curveball
-2023,"Graveman, Kendall",88.4,CH,Changeup
-2023,"Teheran, Julio",89.2,FF,4-Seam Fastball
-2023,"Marinaccio, Ron",81.4,ST,Sweeper
-2023,"Law, Derek",78.7,CU,Curveball
-2023,"Davis, Noah",88.4,FC,Cutter
-2023,"Herget, Jimmy",91.7,SI,Sinker
-2023,"Littell, Zack",80.5,ST,Sweeper
-2023,"Criswell, Cooper",84,FC,Cutter
-2023,"Bird, Jake",86.3,SL,Slider
-2023,"Soriano, José",95.6,FS,Split-Finger
-2023,"Kauffmann, Karl",83.8,SL,Slider
-2023,"Phillips, Evan",95.6,SI,Sinker
-2023,"Holmes, Clay",83.9,ST,Sweeper
-2023,"Soroka, Michael",82,CH,Changeup
-2023,"Graterol, Brusdar",98.3,FF,4-Seam Fastball
-2023,"Gibaut, Ian",86,CH,Changeup
-2023,"Shaw, Bryan",93.9,SI,Sinker
-2023,"Cisnero, José",88.8,CH,Changeup
-2023,"Saucedo, Tayler",82.6,ST,Sweeper
-2023,"Soriano, José",97.7,SI,Sinker
-2023,"Vest, Will",87.3,CH,Changeup
-2023,"Pepiot, Ryan",88.8,SL,Slider
-2023,"Long, Sam",84.8,SL,Slider
-2023,"Marsh, Alec",94.1,SI,Sinker
-2023,"Leiter Jr., Mark",73.4,CU,Curveball
-2023,"Stratton, Chris",86.8,CH,Changeup
-2023,"Syndergaard, Noah",85,SL,Slider
-2023,"De Los Santos, Enyel",87.8,CH,Changeup
-2023,"Barlow, Scott",93.2,SI,Sinker
-2023,"Suárez, Andrew",83.6,CH,Changeup
-2023,"May, Dustin",86.8,SL,Slider
-2023,"Hernandez, Jose E.",88.7,CH,Changeup
-2023,"Davidson, Tucker",79.6,ST,Sweeper
-2023,"Davies, Zach",77.1,CU,Curveball
-2023,"Jax, Griffin",91.1,CH,Changeup
-2023,"Bido, Osvaldo",89.1,CH,Changeup
-2023,"Merryweather, Julian",81.5,CH,Changeup
-2023,"Woodford, Jake",76.3,CU,Curveball
-2023,"Smith, Drew",76.7,CU,Curveball
-2023,"Stone, Gavin",90.5,FC,Cutter
-2023,"Priester, Quinn",89.2,CH,Changeup
-2023,"Pressly, Ryan",89.9,CH,Changeup
-2023,"Leiter Jr., Mark",91.1,FF,4-Seam Fastball
-2023,"Lodolo, Nick",93.4,SI,Sinker
-2023,"Lively, Ben",76.3,CU,Curveball
-2023,"Mlodzinski, Carmen",89.4,CH,Changeup
-2023,"Keller, Brad",92.5,SI,Sinker
-2023,"Jameson, Drey",89.1,CH,Changeup
-2023,"Bard, Daniel",94.6,FF,4-Seam Fastball
-2023,"Pfaadt, Brandon",78.8,CU,Curveball
-2023,"Coulombe, Danny",80.1,CU,Curveball
-2023,"Wright, Kyle",93.2,FF,4-Seam Fastball
-2023,"Cox, Austin",82.9,CH,Changeup
-2023,"Cox, Austin",77.8,CU,Curveball
-2023,"Waldron, Matt",86.7,FC,Cutter
-2023,"Davis, Noah",83.8,SL,Slider
-2023,"Kaprielian, James",83.2,CH,Changeup
-2023,"Johnson, Pierce",88.1,SL,Slider
-2023,"Winn, Keaton",95.5,SI,Sinker
-2023,"Boyd, Matthew",73.8,CU,Curveball
-2023,"Falter, Bailey",90.7,SI,Sinker
-2023,"Assad, Javier",76.5,CU,Curveball
-2023,"Liberatore, Matthew",87.2,CH,Changeup
-2023,"Romero, JoJo",95.1,FF,4-Seam Fastball
-2023,"Jansen, Kenley",84.1,SL,Slider
-2023,"Fujinami, Shintaro",84.3,ST,Sweeper
-2023,"Keuchel, Dallas",78.3,SL,Slider
-2023,"Devenski, Chris",81.8,SL,Slider
-2023,"Vásquez, Randy",80.9,ST,Sweeper
-2023,"Moreta, Dauri",85.8,CH,Changeup
-2023,"Suarez, José",78,ST,Sweeper
-2023,"Skubal, Tarik",76.4,CU,Curveball
-2023,"Nogosek, Stephen",78.8,ST,Sweeper
-2023,"Rasmussen, Drew",95.1,SI,Sinker
-2023,"Musgrove, Joe",92.8,SI,Sinker
-2023,"García, Luis",88.2,FS,Split-Finger
-2023,"Suarez, José",85.1,SL,Slider
-2023,"Cuas, Jose",82.8,ST,Sweeper
-2023,"Lodolo, Nick",87.3,CH,Changeup
-2023,"Alzolay, Adbert",91.2,FC,Cutter
-2023,"Blanco, Ronel",85.5,CH,Changeup
-2023,"Stephenson, Robert",88.8,FS,Split-Finger
-2023,"Blach, Ty",78.9,CU,Curveball
-2023,"Mlodzinski, Carmen",91.9,FC,Cutter
-2023,"Velasquez, Vince",88.6,CH,Changeup
-2023,"García, Yimi",88.5,CH,Changeup
-2023,"Stone, Gavin",94.6,SI,Sinker
-2023,"Beeks, Jalen",85.6,FC,Cutter
-2023,"Vásquez, Randy",87.8,CH,Changeup
-2023,"DeSclafani, Anthony",82.2,CU,Curveball
-2023,"Fried, Max",85,SL,Slider
-2023,"Chavez, Jesse",84.8,CH,Changeup
-2023,"Woodruff, Brandon",82.9,CU,Curveball
-2023,"Jansen, Kenley",95.2,SI,Sinker
-2023,"Boyd, Matthew",90.7,SI,Sinker
-2023,"Ramírez, Erasmo",80,CU,Curveball
-2023,"Grove, Michael",89.3,FC,Cutter
-2023,"Martin, Chris",88.2,FS,Split-Finger
-2023,"Williams, Gavin",88.4,CH,Changeup
-2023,"Francis, Bowden",85,SL,Slider
-2023,"Kelly, Joe",89.2,CH,Changeup
-2023,"Thompson, Mason",80.5,CU,Curveball
-2023,"Silseth, Chase",90.3,FC,Cutter
-2023,"Alexander, Tyler",89.8,SI,Sinker
-2023,"Honeywell, Brent",80.2,SC,Screwball
-2023,"Ramírez, Erasmo",84.3,CH,Changeup
-2023,"Miller, Mason",94.4,FC,Cutter
-2023,"Blach, Ty",90.2,FF,4-Seam Fastball
-2023,"Rucker, Michael",80.8,CU,Curveball
-2023,"Voth, Austin",89,FC,Cutter
-2023,"Rodón, Carlos",79.7,CU,Curveball
-2023,"Weems, Jordan",89.2,FS,Split-Finger
-2023,"Fulmer, Michael",89.9,CH,Changeup
-2023,"Borucki, Ryan",82.4,ST,Sweeper
-2023,"May, Trevor",81.5,ST,Sweeper
-2023,"Criswell, Cooper",83.5,CH,Changeup
-2023,"Bummer, Aaron",94.6,FF,4-Seam Fastball
-2023,"Chapman, Aroldis",90.5,FS,Split-Finger
-2023,"Topa, Justin",86.8,CH,Changeup
-2023,"Gonzales, Marco",88.7,SI,Sinker
-2023,"Nogosek, Stephen",88.3,FC,Cutter
-2023,"Coulombe, Danny",91.4,FF,4-Seam Fastball
-2023,"Gonzales, Marco",85.9,FC,Cutter
-2023,"Winckowski, Josh",92.7,CH,Changeup
-2023,"Harvey, Hunter",83.1,CU,Curveball
-2023,"Winckowski, Josh",96,FF,4-Seam Fastball
-2023,"Edwards Jr., Carl",79.5,CU,Curveball
-2023,"Vásquez, Randy",79.7,CU,Curveball
-2023,"Estévez, Carlos",89.5,CH,Changeup
-2023,"Hudson, Dakota",81.3,CU,Curveball
-2023,"Smith, Will",77,CU,Curveball
-2023,"Feltner, Ryan",79.7,CU,Curveball
-2023,"Gott, Trevor",80.7,CU,Curveball
-2023,"Lauer, Eric",82.6,SL,Slider
-2023,"Lynch IV, Daniel",80.7,CU,Curveball
-2023,"Lambert, Jimmy",85.5,CH,Changeup
-2023,"Barria, Jaime",92.3,SI,Sinker
-2023,"Kuhl, Chad",78.8,CU,Curveball
-2023,"Nelson, Kyle",88.1,FC,Cutter
-2023,"Kaprielian, James",75.9,CU,Curveball
-2023,"Jiménez, Joe",89.8,CH,Changeup
-2023,"Herrin, Tim",83.6,CU,Curveball
-2023,"Jackson, Andre",81.5,CU,Curveball
-2023,"López, Reynaldo",88.5,CH,Changeup
-2023,"Englert, Mason",81,SV,Slurve
-2023,"Kauffmann, Karl",88.2,FC,Cutter
-2023,"Schreiber, John",88.1,CH,Changeup
-2023,"Whitlock, Garrett",94.1,FF,4-Seam Fastball
-2023,"Harrison, Kyle",86.6,CH,Changeup
-2023,"Davidson, Tucker",82.6,FS,Split-Finger
-2023,"Abreu, Albert",96.8,FF,4-Seam Fastball
-2023,"Frías, Luis",83.8,SL,Slider
-2023,"Thompson, Mason",94.6,FF,4-Seam Fastball
-2023,"Sims, Lucas",78.1,CU,Curveball
-2023,"Vasquez, Andrew",89.1,FF,4-Seam Fastball
-2023,"Turnbull, Spencer",87.5,CH,Changeup
-2023,"Rosenberg, Kenny",83.7,FC,Cutter
-2023,"Hoffman, Jeff",96.9,SI,Sinker
-2023,"Kuhl, Chad",93.2,SI,Sinker
-2023,"Armstrong, Shawn",85.2,SV,Slurve
-2023,"Borucki, Ryan",84.6,CH,Changeup
-2023,"Battenfield, Peyton",79.7,CU,Curveball
-2023,"Alexander, Scott",85.9,CH,Changeup
-2023,"Wicks, Jordan",89,FC,Cutter
-2023,"Alexander, Tyler",81.3,SL,Slider
-2023,"Pérez, Cionel",83.4,CU,Curveball
-2023,"Ottavino, Adam",93.2,FF,4-Seam Fastball
-2023,"Suárez, Andrew",74.5,CU,Curveball
-2023,"Woodford, Jake",92.5,FF,4-Seam Fastball
-2023,"Murphy, Chris",84.9,CH,Changeup
-2023,"Davis, Noah",84.7,CH,Changeup
-2023,"Morán, Jovani",81.8,SL,Slider
-2023,"Hernández, Jonathan",90,CH,Changeup
-2023,"May, Dustin",85.3,ST,Sweeper
-2023,"Winder, Josh",80,CU,Curveball
-2023,"Rom, Drew",83.6,FS,Split-Finger
-2023,"Ramírez, Erasmo",81.3,SL,Slider
-2023,"Almonte, Yency",88.9,CH,Changeup
-2023,"Faucher, Calvin",84.6,CU,Curveball
-2023,"Burke, Brock",92.9,SI,Sinker
-2023,"Woodford, Jake",89.8,FC,Cutter
-2023,"Koch, Matt",82.4,SL,Slider
-2023,"Wicks, Jordan",78.2,CU,Curveball
-2023,"Rasmussen, Drew",80,CU,Curveball
-2023,"White, Brendan",93,SI,Sinker
-2023,"Abbott, Cory",87,SL,Slider
-2023,"Devenski, Chris",79.1,ST,Sweeper
-2023,"Pruitt, Austin",87.1,CH,Changeup
-2023,"Gaddis, Hunter",75.5,CU,Curveball
-2023,"Anderson, Nick",94.8,SI,Sinker
-2023,"Saucedo, Tayler",77.1,CU,Curveball
-2023,"Davis, Noah",78.4,CU,Curveball
-2023,"Marte, Yunior",98.4,FF,4-Seam Fastball
-2023,"Miller, Mason",91.3,CH,Changeup
-2023,"Helsley, Ryan",82.1,CU,Curveball
-2023,"King, John",85.1,SL,Slider
-2023,"Mantiply, Joe",89.9,FF,4-Seam Fastball
-2023,"Vasquez, Andrew",76.1,CU,Curveball
-2023,"Suarez, José",91.1,SI,Sinker
-2023,"Long, Sam",87,FS,Split-Finger
-2023,"Buttó, José",92.7,SI,Sinker
-2023,"Wantz, Andrew",87.7,CH,Changeup
-2023,"Buttó, José",80,CU,Curveball
-2023,"Chargois, JT",95.5,FF,4-Seam Fastball
-2023,"Duarte, Daniel",90,CH,Changeup
-2023,"Criswell, Cooper",82,SL,Slider
-2023,"La Sorsa, Joe",75.5,FC,Cutter
-2023,"Turnbull, Spencer",78.6,CU,Curveball
-2023,"Hill, Tim",83.3,SL,Slider
-2023,"Covey, Dylan",86.7,FS,Split-Finger
-2023,"Rosenberg, Kenny",77.5,CU,Curveball
-2023,"Wright, Kyle",88.3,CH,Changeup
-2023,"Stone, Gavin",85.8,SL,Slider
-2023,"Perdomo, Angel",90.6,CH,Changeup
-2023,"González, Victor",87.1,CH,Changeup
-2023,"Winder, Josh",94.8,SI,Sinker
-2023,"Chavez, Jesse",75.9,CU,Curveball
-2023,"Herget, Jimmy",85.7,CH,Changeup
-2023,"Herrin, Tim",96.2,SI,Sinker
-2023,"Uribe, Abner",100.9,FF,4-Seam Fastball
-2023,"Herget, Jimmy",92.6,FF,4-Seam Fastball
-2023,"Headrick, Brent",82,FS,Split-Finger
+﻿year,"last_name, first_name",avg_speed,pitch_type,pitch_type_name,pitcher_break_z_induced,pitcher_break_x
+2023,"Strider, Spencer",97.2,FF,4-Seam Fastball,18.4,6
+2023,"Cole, Gerrit",96.7,FF,4-Seam Fastball,17.4,8.4
+2023,"Burnes, Corbin",94.4,FC,Cutter,11.2,3.1
+2023,"Steele, Justin",91.8,FF,4-Seam Fastball,10.8,1.3
+2023,"Javier, Cristian",92.8,FF,4-Seam Fastball,18.6,5.6
+2023,"Gallen, Zac",93.5,FF,4-Seam Fastball,17,3
+2023,"Gausman, Kevin",94.7,FF,4-Seam Fastball,16.9,10.6
+2023,"Snell, Blake",95.5,FF,4-Seam Fastball,18.8,4.6
+2023,"Ryan, Joe",92.3,FF,4-Seam Fastball,14.6,10.3
+2023,"Heaney, Andrew",92.5,FF,4-Seam Fastball,13.9,15.9
+2023,"Kopech, Michael",95.2,FF,4-Seam Fastball,17.2,9
+2023,"Gore, MacKenzie",95,FF,4-Seam Fastball,17.4,4.2
+2023,"Peralta, Freddy",94.4,FF,4-Seam Fastball,15.5,6.9
+2023,"Sears, JP",93.1,FF,4-Seam Fastball,14.7,11.2
+2023,"Castillo, Luis",96.3,FF,4-Seam Fastball,13.6,12
+2023,"Cease, Dylan",95.6,FF,4-Seam Fastball,18.8,3.2
+2023,"Waldichuk, Ken",93.3,FF,4-Seam Fastball,15.2,10.2
+2023,"Lynn, Lance",92.4,FF,4-Seam Fastball,13.5,3.2
+2023,"Valdez, Framber",95.3,SI,Sinker,9.9,15.8
+2023,"Wheeler, Zack",95.8,FF,4-Seam Fastball,15.3,6.3
+2023,"Giolito, Lucas",93.1,FF,4-Seam Fastball,18.1,5.5
+2023,"Webb, Logan",87.5,CH,Changeup,-4.4,11.3
+2023,"Verlander, Justin",94.3,FF,4-Seam Fastball,18.8,8
+2023,"Singer, Brady",92.1,SI,Sinker,9.4,13.1
+2023,"Nelson, Ryne",94.4,FF,4-Seam Fastball,18.1,4.1
+2023,"Kikuchi, Yusei",95.1,FF,4-Seam Fastball,16.1,9.8
+2023,"Cease, Dylan",86.3,SL,Slider,1.9,2.5
+2023,"Brown, Hunter",95.7,FF,4-Seam Fastball,16.9,6.1
+2023,"Montgomery, Jordan",93.3,SI,Sinker,10.5,15.4
+2023,"Megill, Tylor",94.9,FF,4-Seam Fastball,14.7,7.7
+2023,"Luzardo, Jesús",96.7,FF,4-Seam Fastball,14.1,13.9
+2023,"Bassitt, Chris",91.9,SI,Sinker,8.7,15.9
+2023,"Ashcraft, Graham",95.8,FC,Cutter,6.8,2.1
+2023,"Morton, Charlie",82.3,CU,Curveball,-7.8,13.6
+2023,"Gilbert, Logan",95.7,FF,4-Seam Fastball,17,6.1
+2023,"Miller, Bryce",95.1,FF,4-Seam Fastball,18.4,3.5
+2023,"Corbin, Patrick",92.1,SI,Sinker,10.4,14.5
+2023,"Pivetta, Nick",94.6,FF,4-Seam Fastball,20,4
+2023,"Smyly, Drew",78.6,CU,Curveball,-2.2,3.2
+2023,"Gausman, Kevin",86.3,FS,Split-Finger,4.7,16.3
+2023,"Oviedo, Johan",95.8,FF,4-Seam Fastball,10.2,9.8
+2023,"Scherzer, Max",93.7,FF,4-Seam Fastball,15.8,10.8
+2023,"Greene, Hunter",98.3,FF,4-Seam Fastball,15.4,11.6
+2023,"Williams, Trevor",89.7,FF,4-Seam Fastball,11.3,6.4
+2023,"Kirby, George",96.1,FF,4-Seam Fastball,15.2,8.4
+2023,"Singer, Brady",84,SL,Slider,0.9,3.4
+2023,"Bibee, Tanner",94.9,FF,4-Seam Fastball,16.5,4.5
+2023,"Oviedo, Johan",88.2,SL,Slider,3.3,5.1
+2023,"Elder, Bryce",89.5,SI,Sinker,8.4,13.1
+2023,"Flaherty, Jack",93.2,FF,4-Seam Fastball,13.5,2.2
+2023,"Rodriguez, Eduardo",92.2,FF,4-Seam Fastball,14.7,5.8
+2023,"Kremer, Dean",94.6,FF,4-Seam Fastball,16.8,9.6
+2023,"Ober, Bailey",91.3,FF,4-Seam Fastball,16.5,7.5
+2023,"Webb, Logan",92.3,SI,Sinker,0.9,16
+2023,"Strider, Spencer",85.6,SL,Slider,1.3,5.6
+2023,"Matz, Steven",94.1,SI,Sinker,11.5,14.6
+2023,"Rodriguez, Grayson",97.4,FF,4-Seam Fastball,15.9,11.4
+2023,"López, Pablo",94.9,FF,4-Seam Fastball,14.3,5
+2023,"Senga, Kodai",95.7,FF,4-Seam Fastball,16.6,8
+2023,"Corbin, Patrick",80.5,SL,Slider,0.1,2.6
+2023,"Stroman, Marcus",91.4,SI,Sinker,2.7,10.9
+2023,"Gray, Jon",95.7,FF,4-Seam Fastball,13,10
+2023,"Detmers, Reid",94.4,FF,4-Seam Fastball,16,10.6
+2023,"Elder, Bryce",82.7,SL,Slider,-1.7,0.1
+2023,"Clevinger, Mike",94.3,FF,4-Seam Fastball,17.4,7.2
+2023,"Cobb, Alex",94.5,SI,Sinker,6.9,16.1
+2023,"Nola, Aaron",79.4,CU,Curveball,-11,12.5
+2023,"Cobb, Alex",89.5,FS,Split-Finger,1.9,13.1
+2023,"Gomber, Austin",90.6,FF,4-Seam Fastball,17.2,7.2
+2023,"Allen, Logan",91.4,FF,4-Seam Fastball,16.1,4.1
+2023,"Bello, Brayan",95,SI,Sinker,2.5,18
+2023,"Abbott, Andrew",92.7,FF,4-Seam Fastball,16.3,7.8
+2023,"France, J.P.",93.1,FF,4-Seam Fastball,15.5,1.5
+2023,"Walker, Taijuan",87.9,FS,Split-Finger,2.4,11.8
+2023,"Weaver, Luke",94,FF,4-Seam Fastball,16.1,7.3
+2023,"Pérez, Martín",91.6,SI,Sinker,9.6,16.5
+2023,"Berríos, José",93.8,SI,Sinker,11.9,15.6
+2023,"Smyly, Drew",91.9,SI,Sinker,16.4,8.2
+2023,"Morton, Charlie",94.9,FF,4-Seam Fastball,10.9,13.4
+2023,"Nola, Aaron",92.7,FF,4-Seam Fastball,15.1,12.3
+2023,"Dunning, Dane",90.9,SI,Sinker,7.8,13.9
+2023,"Hill, Rich",71.8,CU,Curveball,-12.6,16.8
+2023,"Anderson, Tyler",90.1,FF,4-Seam Fastball,18.6,4.9
+2023,"Paxton, James",95.3,FF,4-Seam Fastball,14.9,11.7
+2023,"Steele, Justin",83.3,SL,Slider,-0.4,14
+2023,"Giolito, Lucas",80.9,CH,Changeup,11,12.8
+2023,"Giolito, Lucas",84,SL,Slider,0.6,1.6
+2023,"Taillon, Jameson",93.7,FF,4-Seam Fastball,16.9,7.7
+2023,"Manaea, Sean",93.5,SI,Sinker,10.5,15.6
+2023,"Kershaw, Clayton",86.5,SL,Slider,6.7,5.4
+2023,"Houser, Adrian",92.1,SI,Sinker,6.9,16.8
+2023,"Bickford, Phil",93.7,FF,4-Seam Fastball,15.8,5.7
+2023,"Berríos, José",82.6,SV,Slurve,-5.1,15.6
+2023,"Ashcraft, Graham",88.3,SL,Slider,-0.4,13.2
+2023,"Junis, Jakob",84.2,SL,Slider,0.3,13.1
+2023,"Gilbert, Logan",88.7,SL,Slider,0.3,0.8
+2023,"Hendricks, Kyle",80.7,CH,Changeup,8.4,10.4
+2023,"Luzardo, Jesús",85.1,SL,Slider,1.5,0.1
+2023,"Javier, Cristian",79.5,ST,Sweeper,2.3,14.1
+2023,"Hill, Rich",88.4,FF,4-Seam Fastball,17.4,6.3
+2023,"Lyles, Jordan",91.2,FF,4-Seam Fastball,16.3,6.1
+2023,"Greene, Hunter",87.3,SL,Slider,2.8,4.5
+2023,"Seabold, Connor",92.6,FF,4-Seam Fastball,13.1,9.3
+2023,"Kelly, Merrill",92.2,FF,4-Seam Fastball,14.7,7.4
+2023,"Eflin, Zach",92.2,SI,Sinker,6,16.6
+2023,"Urías, Julio",92.7,FF,4-Seam Fastball,16.8,3.9
+2023,"Eovaldi, Nathan",95.1,FF,4-Seam Fastball,13.7,12.5
+2023,"Mikolas, Miles",93.3,FF,4-Seam Fastball,15.1,5.7
+2023,"Miley, Wade",87.1,FC,Cutter,7.9,3
+2023,"Glasnow, Tyler",96.4,FF,4-Seam Fastball,16.8,1
+2023,"Bradish, Kyle",88.1,SL,Slider,-0.1,12.5
+2023,"Bird, Jake",94.4,SI,Sinker,0.8,8.8
+2023,"Anderson, Tyler",80,CH,Changeup,11.5,13
+2023,"Crawford, Kutter",93.6,FF,4-Seam Fastball,19,9.4
+2023,"Lorenzen, Michael",94.3,FF,4-Seam Fastball,16,11.8
+2023,"Bradley, Taj",96.1,FF,4-Seam Fastball,18.9,4.9
+2023,"Keller, Mitch",95.2,FF,4-Seam Fastball,15,9
+2023,"Medina, Luis",96.1,FF,4-Seam Fastball,16.4,5.9
+2023,"Wentz, Joey",93.4,FF,4-Seam Fastball,15.4,12.1
+2023,"Detmers, Reid",88.9,SL,Slider,2.9,1.3
+2023,"Gray, Jon",88,SL,Slider,3.1,3.5
+2023,"Fujinami, Shintaro",98.4,FF,4-Seam Fastball,14,11.1
+2023,"Gibson, Kyle",91.9,SI,Sinker,8.1,14.3
+2023,"Garrett, Braxton",90.5,SI,Sinker,7.4,15.7
+2023,"Tonkin, Michael",93.5,FF,4-Seam Fastball,10.9,12.4
+2023,"Alcantara, Sandy",97.6,SI,Sinker,7.3,17.6
+2023,"Mikolas, Miles",92.7,SI,Sinker,11.3,14.1
+2023,"Mikolas, Miles",86.4,SL,Slider,3,3.7
+2023,"Irvin, Jake",94.5,FF,4-Seam Fastball,15,10.6
+2023,"Finnegan, Kyle",97.3,FF,4-Seam Fastball,15,11.1
+2023,"López, Reynaldo",98.2,FF,4-Seam Fastball,16.6,8.9
+2023,"Williams, Gavin",95.7,FF,4-Seam Fastball,16,9.8
+2023,"Wacha, Michael",81.6,CH,Changeup,9.5,14
+2023,"Hader, Josh",96.1,SI,Sinker,18.8,7.5
+2023,"McClanahan, Shane",96.8,FF,4-Seam Fastball,17.6,9.9
+2023,"Wood, Alex",91.5,SI,Sinker,10.1,16.4
+2023,"Schmidt, Clarke",91.3,FC,Cutter,7.6,3.1
+2023,"Richards, Trevor",82.5,CH,Changeup,3.2,15.5
+2023,"Keller, Mitch",89.7,FC,Cutter,5.5,3.6
+2023,"Gray, Sonny",92.9,FF,4-Seam Fastball,12.5,0.5
+2023,"Clase, Emmanuel",99.1,FC,Cutter,9.8,3.8
+2023,"Kimbrel, Craig",95.8,FF,4-Seam Fastball,15.2,10.5
+2023,"Pallante, Andre",96.1,FF,4-Seam Fastball,8.9,2.8
+2023,"Lugo, Seth",93.4,FF,4-Seam Fastball,16.9,6.6
+2023,"Muller, Kyle",93.5,FF,4-Seam Fastball,13.2,5.6
+2023,"Estévez, Carlos",97.1,FF,4-Seam Fastball,17,8.7
+2023,"Civale, Aaron",87.7,FC,Cutter,7.7,3.7
+2023,"Kershaw, Clayton",90.7,FF,4-Seam Fastball,18.1,0.1
+2023,"Valdez, Framber",80.2,CU,Curveball,-14.3,8.7
+2023,"Schmidt, Clarke",86,ST,Sweeper,4.4,9
+2023,"Alcantara, Sandy",91.1,CH,Changeup,3.7,16.3
+2023,"Kikuchi, Yusei",88.7,SL,Slider,3.2,2.5
+2023,"Stratton, Chris",93.1,FF,4-Seam Fastball,15.4,3.4
+2023,"Ohtani, Shohei",83.7,ST,Sweeper,3.5,15.9
+2023,"Hendricks, Kyle",87.5,SI,Sinker,6.6,12.2
+2023,"Gallen, Zac",82.5,CU,Curveball,-10.7,4
+2023,"Pfaadt, Brandon",93.7,FF,4-Seam Fastball,15.4,6.3
+2023,"Canning, Griffin",94.7,FF,4-Seam Fastball,15.7,7.4
+2023,"Curry, Xzavion",92.5,FF,4-Seam Fastball,18.3,2.7
+2023,"Foley, Jason",97.2,SI,Sinker,6,17.3
+2023,"Sale, Chris",93.9,FF,4-Seam Fastball,10.9,14.6
+2023,"Flexen, Chris",91.9,FF,4-Seam Fastball,16.5,0.2
+2023,"Williamson, Brandon",92.8,FF,4-Seam Fastball,16.5,9
+2023,"Lynn, Lance",88.7,FC,Cutter,5.9,2.6
+2023,"Wells, Tyler",92.5,FF,4-Seam Fastball,19,4.2
+2023,"Hicks, Jordan",100.1,SI,Sinker,8.5,15.8
+2023,"Keller, Mitch",93.8,SI,Sinker,9.2,15.6
+2023,"Severino, Luis",96.5,FF,4-Seam Fastball,16.1,7.3
+2023,"Abreu, Bryan",87.4,SL,Slider,-3.5,9.1
+2023,"Castillo, Luis",85.7,SL,Slider,0.2,1.1
+2023,"Holmes, Clay",96,SI,Sinker,3.3,15.3
+2023,"Ferguson, Caleb",95.8,FF,4-Seam Fastball,14.9,6.6
+2023,"Hernández, Carlos",99.1,FF,4-Seam Fastball,16.9,9.9
+2023,"Senga, Kodai",90.8,FC,Cutter,9.8,0.6
+2023,"Vasquez, Andrew",80.6,SL,Slider,-3.9,18.2
+2023,"Kremer, Dean",88.7,FC,Cutter,8.6,3.8
+2023,"Pérez, Eury",97.5,FF,4-Seam Fastball,18.1,9
+2023,"Bautista, Félix",99.5,SI,Sinker,20.5,6.8
+2023,"Lyles, Jordan",80.2,ST,Sweeper,1.2,14.1
+2023,"DeSclafani, Anthony",87.4,SL,Slider,6.4,4
+2023,"Waldichuk, Ken",81.1,ST,Sweeper,0.6,12.9
+2023,"Ohtani, Shohei",96.8,FF,4-Seam Fastball,14.1,4.1
+2023,"Gray, Josiah",85.8,SL,Slider,6,1.1
+2023,"Bieber, Shane",91.3,FF,4-Seam Fastball,17.1,9.6
+2023,"Barria, Jaime",85.9,SL,Slider,5.1,3.9
+2023,"Sandoval, Patrick",87,SL,Slider,3.6,6.2
+2023,"Rodón, Carlos",95.3,FF,4-Seam Fastball,17.5,6.3
+2023,"Cole, Gerrit",89.1,SL,Slider,1.7,4.7
+2023,"Lugo, Seth",79.5,CU,Curveball,-16.2,12.3
+2023,"Henry, Tommy",90.7,FF,4-Seam Fastball,14.7,6.1
+2023,"Woo, Bryan",95.1,FF,4-Seam Fastball,14.8,7.6
+2023,"Eflin, Zach",79.1,CU,Curveball,-7.4,11.5
+2023,"Freeland, Kyle",88.7,SI,Sinker,6.8,13.4
+2023,"Germán, Domingo",82.9,CU,Curveball,1.9,0.7
+2023,"Sandoval, Patrick",83,CH,Changeup,10.3,14.2
+2023,"Webb, Logan",84.3,ST,Sweeper,0.5,12.3
+2023,"Kopech, Michael",84.8,SL,Slider,0.1,5.2
+2023,"Sánchez, Cristopher",92.1,SI,Sinker,4.9,17.9
+2023,"Eflin, Zach",88.5,FC,Cutter,8.5,2.4
+2023,"Lange, Alex",87,CU,Curveball,-3.7,0.6
+2023,"Montgomery, Jordan",83.5,CH,Changeup,12.8,9.2
+2023,"Flaherty, Jack",84.4,SL,Slider,1.2,7.2
+2023,"Brash, Matt",88.8,SL,Slider,3.3,11.8
+2023,"Senga, Kodai",83.2,FO,Forkball,1.9,7.2
+2023,"Ryan, Joe",84.1,FS,Split-Finger,2.2,12.3
+2023,"Smith, Drew",95,FF,4-Seam Fastball,18.1,7.5
+2023,"Sandoval, Patrick",93,FF,4-Seam Fastball,16.8,4.4
+2023,"Glasnow, Tyler",90.1,SL,Slider,1.6,2.3
+2023,"Verlander, Justin",86.9,SL,Slider,3.8,4.4
+2023,"Walker, Taijuan",92.4,SI,Sinker,11.4,15.4
+2023,"Gonsolin, Tony",92.4,FF,4-Seam Fastball,16,11.1
+2023,"Irvin, Jake",80.9,CU,Curveball,-5.2,12.5
+2023,"Ober, Bailey",83.7,CH,Changeup,5.4,17.2
+2023,"Schmidt, Clarke",93.4,SI,Sinker,6.9,9.2
+2023,"López, Pablo",84.4,ST,Sweeper,-0.2,13.2
+2023,"Heaney, Andrew",82,SL,Slider,0.1,5.7
+2023,"Brown, Hunter",82.9,CU,Curveball,-14.5,5.3
+2023,"Houck, Tanner",83.9,SL,Slider,-2.5,11.2
+2023,"Kelly, Merrill",88.7,CH,Changeup,0.9,15.7
+2023,"Montgomery, Jordan",80.5,CU,Curveball,-6.6,3
+2023,"Lambert, Peter",93.2,FF,4-Seam Fastball,15.6,8.3
+2023,"Brown, Hunter",91.8,FC,Cutter,5.9,3.2
+2023,"Bednar, David",96.6,FF,4-Seam Fastball,17.7,8.3
+2023,"Garrett, Braxton",82.8,SL,Slider,-3.1,10.3
+2023,"Mikolas, Miles",75.8,CU,Curveball,-14.9,7.8
+2023,"López, Pablo",88.4,CH,Changeup,5.8,16.5
+2023,"Wacha, Michael",92,FF,4-Seam Fastball,18.7,7.4
+2023,"Scott, Tanner",89.4,SL,Slider,-0.7,6.5
+2023,"Ragans, Cole",96.5,FF,4-Seam Fastball,16.1,12.4
+2023,"De Los Santos, Enyel",95.6,FF,4-Seam Fastball,13.1,11.5
+2023,"Chirinos, Yonny",92.4,SI,Sinker,7.2,17.1
+2023,"Dunning, Dane",82.1,SL,Slider,-1.4,3
+2023,"Bibee, Tanner",84.7,FC,Cutter,-0.9,10.4
+2023,"Scholtens, Jesse",92.8,FF,4-Seam Fastball,16.6,2.7
+2023,"Sale, Chris",77.8,SL,Slider,-4.4,11.2
+2023,"Thompson, Zack",93.6,FF,4-Seam Fastball,14.9,7.1
+2023,"Snell, Blake",81,CU,Curveball,-10.4,12.6
+2023,"Bello, Brayan",86.2,CH,Changeup,3,16.4
+2023,"Luzardo, Jesús",88.3,CH,Changeup,6.8,16.2
+2023,"Okert, Steven",81.9,SL,Slider,5.3,10.2
+2023,"Canning, Griffin",88.4,SL,Slider,-3.4,0.1
+2023,"McGough, Scott",93.5,FF,4-Seam Fastball,18.2,8.6
+2023,"Moreta, Dauri",84.6,SL,Slider,0.2,8.3
+2023,"Blach, Ty",89.2,SI,Sinker,8.2,16.3
+2023,"Mayza, Tim",93.4,SI,Sinker,8.2,16.1
+2023,"Peralta, Freddy",82.4,SL,Slider,2.9,7.4
+2023,"Sheehan, Emmet",95.4,FF,4-Seam Fastball,15.6,11.1
+2023,"Strahm, Matt",93.4,FF,4-Seam Fastball,16.1,13.6
+2023,"Montero, Rafael",96.1,FF,4-Seam Fastball,15.6,9.1
+2023,"Eovaldi, Nathan",87.9,FS,Split-Finger,1.6,13.5
+2023,"Johnson, Pierce",85.4,CU,Curveball,-4.3,8.9
+2023,"Lawrence, Justin",95.4,SI,Sinker,-0.9,15.3
+2023,"Rea, Colin",92.6,SI,Sinker,9.5,15
+2023,"Irvin, Jake",93.9,SI,Sinker,8.1,16.5
+2023,"Merryweather, Julian",87.1,SL,Slider,-2.9,0.7
+2023,"Poche, Colin",92.5,FF,4-Seam Fastball,20.1,1.7
+2023,"Díaz, Alexis",87.5,SL,Slider,2.4,4
+2023,"Bradish, Kyle",94.6,SI,Sinker,11.2,11
+2023,"Kirby, George",95.8,SI,Sinker,10.3,15.8
+2023,"Berríos, José",94.3,FF,4-Seam Fastball,15.9,8.9
+2023,"Greinke, Zack",89.5,FF,4-Seam Fastball,15.7,2.9
+2023,"Crawford, Kutter",88.6,FC,Cutter,9.1,4.4
+2023,"Sewald, Paul",92.2,FF,4-Seam Fastball,13.7,10.5
+2023,"Hoeing, Bryan",94.1,SI,Sinker,6.8,17.5
+2023,"Burke, Brock",94.7,FF,4-Seam Fastball,15.9,7.5
+2023,"Pivetta, Nick",79.4,CU,Curveball,-17.3,8
+2023,"Pérez, Martín",84.1,CH,Changeup,8.5,14.7
+2023,"Nardi, Andrew",94.6,FF,4-Seam Fastball,16.6,4.6
+2023,"Richards, Trevor",92.8,FF,4-Seam Fastball,20.1,7.7
+2023,"Alcantara, Sandy",98,FF,4-Seam Fastball,13.5,11.9
+2023,"Bradish, Kyle",94.5,FF,4-Seam Fastball,12.6,2.9
+2023,"Snell, Blake",86.7,CH,Changeup,11,12.8
+2023,"Pagán, Emilio",95.8,FF,4-Seam Fastball,17.9,7.2
+2023,"Falter, Bailey",90.7,FF,4-Seam Fastball,18.1,1.5
+2023,"Jiménez, Joe",95.3,FF,4-Seam Fastball,18,9
+2023,"Cuas, Jose",92.7,SI,Sinker,0.9,17.3
+2023,"Vesia, Alex",94.4,FF,4-Seam Fastball,19.4,6.1
+2023,"Harvey, Hunter",98.3,FF,4-Seam Fastball,16.9,7.6
+2023,"Gray, Sonny",84.3,ST,Sweeper,-6.2,15.6
+2023,"Williamson, Brandon",89.3,FC,Cutter,8.1,2.6
+2023,"Castillo, Luis",95.9,SI,Sinker,4.9,18.5
+2023,"Nola, Aaron",91.7,SI,Sinker,9,17.4
+2023,"Weathers, Ryan",95.1,FF,4-Seam Fastball,14.9,11.5
+2023,"Lawrence, Justin",83.8,ST,Sweeper,4.6,14.4
+2023,"Wheeler, Zack",95.2,SI,Sinker,8.3,15.6
+2023,"Suárez, Ranger",92.8,SI,Sinker,6,15.9
+2023,"Clevinger, Mike",79.4,ST,Sweeper,-2.8,15.2
+2023,"Scott, Tanner",96.8,FF,4-Seam Fastball,15.6,4
+2023,"Robertson, David",93.3,FC,Cutter,16.3,1.7
+2023,"Yates, Kirby",93.6,FF,4-Seam Fastball,13.8,13.6
+2023,"Freeland, Kyle",84.1,FC,Cutter,4.8,1.4
+2023,"Whitlock, Garrett",93.9,SI,Sinker,12.8,15.4
+2023,"Neris, Héctor",93,FF,4-Seam Fastball,17.7,8.3
+2023,"Cabrera, Edward",92.9,CH,Changeup,7.8,16.6
+2023,"Rogers, Tyler",82.8,SI,Sinker,-11.7,0.1
+2023,"Manning, Matt",93.4,FF,4-Seam Fastball,16.5,3.5
+2023,"Cano, Yennier",96.3,SI,Sinker,-2.5,17.9
+2023,"Díaz, Alexis",94.5,FF,4-Seam Fastball,13.3,9.5
+2023,"Cortes, Nestor",91.6,FF,4-Seam Fastball,19.4,4.1
+2023,"Wainwright, Adam",86.9,SI,Sinker,11.2,13.2
+2023,"Gibson, Kyle",81.6,ST,Sweeper,1.2,10.6
+2023,"Wilson, Steven",81,ST,Sweeper,7.9,13
+2023,"Taillon, Jameson",88.6,FC,Cutter,11.2,4
+2023,"Jansen, Kenley",94.3,FC,Cutter,18.1,1.6
+2023,"Kirby, George",86.3,SL,Slider,-2.4,11
+2023,"Urías, Julio",79.2,SV,Slurve,-1.9,17.4
+2023,"Stanek, Ryne",98.2,FF,4-Seam Fastball,18.1,9.5
+2023,"King, Michael",94.1,SI,Sinker,5.8,16.5
+2023,"Jax, Griffin",86.7,ST,Sweeper,-4.5,13.5
+2023,"Santos, Gregory",91.4,SL,Slider,1.6,5.7
+2023,"Baumann, Mike",96.4,FF,4-Seam Fastball,17.4,8.1
+2023,"Sears, JP",81,ST,Sweeper,5.7,10.6
+2023,"Williams, Devin",83.8,CH,Changeup,-2,19.8
+2023,"Wainwright, Adam",71.5,CU,Curveball,-13.5,16.5
+2023,"Rogers, Tyler",72.9,SL,Slider,15.9,10.2
+2023,"Gray, Josiah",93.1,SI,Sinker,13.2,14.4
+2023,"Martínez, Adrián",93.8,FF,4-Seam Fastball,7.6,17.3
+2023,"Alcantara, Sandy",89.9,SL,Slider,4.1,0.5
+2023,"Berríos, José",84.1,CH,Changeup,4.4,14.2
+2023,"Walker, Ryan",83.2,SL,Slider,1.5,14.6
+2023,"Maeda, Kenta",84.1,FS,Split-Finger,0.3,10.8
+2023,"Peterson, David",92.7,FF,4-Seam Fastball,14.2,6.5
+2023,"Bello, Brayan",95.5,FF,4-Seam Fastball,13.1,10
+2023,"Curry, Xzavion",85.1,SL,Slider,1.6,5.9
+2023,"Dunning, Dane",88.9,FC,Cutter,10.1,1.1
+2023,"Abreu, Albert",97.4,SI,Sinker,14.5,13.4
+2023,"Anderson, Tyler",85.1,FC,Cutter,11.1,3.3
+2023,"Lorenzen, Michael",85.2,SL,Slider,-0.2,2.5
+2023,"Stephan, Trevor",94.9,FF,4-Seam Fastball,14.9,8.4
+2023,"Gibaut, Ian",95.1,FF,4-Seam Fastball,17.2,5.1
+2023,"Olson, Reese",84.8,SL,Slider,-2.9,7.8
+2023,"Kikuchi, Yusei",83.1,CU,Curveball,-3.7,6.1
+2023,"Rea, Colin",86.7,FC,Cutter,5.7,3.2
+2023,"Wesneski, Hayden",82,ST,Sweeper,0.3,17.5
+2023,"Bradford, Cody",90.4,FF,4-Seam Fastball,18.8,7.7
+2023,"Hamilton, Ian",88.1,SL,Slider,3.4,1.1
+2023,"Burnes, Corbin",79.9,CU,Curveball,-10.9,10.4
+2023,"Scholtens, Jesse",85.4,SL,Slider,2,5.7
+2023,"Winckowski, Josh",96.2,SI,Sinker,9.9,14.3
+2023,"Bieber, Shane",86.5,FC,Cutter,7,2.5
+2023,"Farmer, Buck",93.9,FF,4-Seam Fastball,14.2,11.4
+2023,"Walker, Ryan",94.8,SI,Sinker,2.5,14.5
+2023,"Assad, Javier",92.7,SI,Sinker,10.7,13.8
+2023,"Alexander, Scott",92.8,SI,Sinker,3.9,13.7
+2023,"Verlander, Justin",78.2,CU,Curveball,-13.2,7
+2023,"Nelson, Kyle",85.4,SL,Slider,1.2,5.1
+2023,"Harris, Hogan",92.6,FF,4-Seam Fastball,16.5,10.1
+2023,"Kahnle, Tommy",88.8,CH,Changeup,2.3,12.7
+2023,"Sims, Lucas",83.7,ST,Sweeper,4.7,15.8
+2023,"Olson, Reese",94.8,FF,4-Seam Fastball,14.6,9.7
+2023,"Schmidt, Clarke",83.7,CU,Curveball,-7.3,16
+2023,"Gibson, Kyle",85.5,CH,Changeup,4.2,14
+2023,"Flexen, Chris",87.9,FC,Cutter,6.2,7
+2023,"Kelly, Merrill",90.8,FC,Cutter,12.4,1.3
+2023,"Flaherty, Jack",76.2,CU,Curveball,-9.2,14.2
+2023,"Matz, Steven",84.1,CH,Changeup,0.6,13.6
+2023,"Kelly, Kevin",90.6,SI,Sinker,-0.2,17.7
+2023,"Lorenzen, Michael",84.5,CH,Changeup,9.3,15.9
+2023,"Houck, Tanner",93.4,SI,Sinker,-1,15.5
+2023,"Gray, Josiah",88.8,FC,Cutter,8.4,0.8
+2023,"Manoah, Alek",80.8,SL,Slider,0.2,12.5
+2023,"Stroman, Marcus",84.6,SV,Slurve,0.4,13.3
+2023,"Detmers, Reid",74.7,CU,Curveball,-14.8,11.4
+2023,"Carrasco, Carlos",92.7,FF,4-Seam Fastball,12.1,5.5
+2023,"Martinez, Nick",80.7,CH,Changeup,5.1,12.5
+2023,"Gibson, Kyle",89.8,FC,Cutter,10.6,1.3
+2023,"Swanson, Erik",85.1,FS,Split-Finger,5.4,12.3
+2023,"Ramírez, Yohan",95.1,SI,Sinker,2.8,17.7
+2023,"Faedo, Alex",92.9,FF,4-Seam Fastball,16,9.9
+2023,"Thompson, Mason",94.7,SI,Sinker,8,17
+2023,"Keller, Mitch",82.8,ST,Sweeper,-0.4,18.5
+2023,"Merryweather, Julian",98.1,FF,4-Seam Fastball,16.6,6.3
+2023,"Minter, A.J.",95.8,FF,4-Seam Fastball,16.7,6.5
+2023,"Marsh, Alec",94.2,FF,4-Seam Fastball,15.3,8.8
+2023,"Sandlin, Nick",79.1,SL,Slider,7,9.9
+2023,"Wood, Alex",85.2,CH,Changeup,-0.2,14.9
+2023,"Walker, Taijuan",92.8,FF,4-Seam Fastball,16.7,9.1
+2023,"Castillo, Luis",88.3,CH,Changeup,1.4,17.8
+2023,"Corbin, Patrick",91.7,FF,4-Seam Fastball,13.9,8.5
+2023,"Miller, Bobby",99.1,FF,4-Seam Fastball,16.8,8.2
+2023,"Contreras, Roansy",83.6,SL,Slider,-0.3,5.8
+2023,"Romano, Jordan",86.8,SL,Slider,-2.5,4.5
+2023,"Abreu, Bryan",97.6,FF,4-Seam Fastball,16.3,7.4
+2023,"Cease, Dylan",80.2,CU,Curveball,-15.8,3.6
+2023,"Hudson, Dakota",91.6,SI,Sinker,7.1,12.5
+2023,"Cabrera, Edward",96.2,FF,4-Seam Fastball,16.1,9.1
+2023,"King, Michael",81.8,ST,Sweeper,1.7,18
+2023,"Peterson, David",91.5,SI,Sinker,6.8,15.3
+2023,"Payamps, Joel",84.2,SL,Slider,-0.9,11.9
+2023,"Manoah, Alek",92.8,FF,4-Seam Fastball,16.2,6.1
+2023,"Civale, Aaron",78.1,CU,Curveball,-16,10.9
+2023,"Pérez, Martín",89.2,FC,Cutter,12.5,2.5
+2023,"McGough, Scott",85.7,FS,Split-Finger,6.5,6.1
+2023,"Bummer, Aaron",94.3,SI,Sinker,1.9,14.6
+2023,"McHugh, Collin",79.9,ST,Sweeper,-0.6,15.9
+2023,"Walker, Taijuan",87.2,FC,Cutter,10.5,2.8
+2023,"Puk, A.J.",95.9,FF,4-Seam Fastball,12.9,12.1
+2023,"Wentz, Joey",86,FC,Cutter,6,1.4
+2023,"Ginkel, Kevin",95.7,FF,4-Seam Fastball,14.9,9.7
+2023,"Bassitt, Chris",87.8,FC,Cutter,8,2.5
+2023,"Hand, Brad",81,ST,Sweeper,-0.1,14.3
+2023,"Morgan, Eli",92.5,FF,4-Seam Fastball,18.3,7.8
+2023,"Bernardino, Brennan",90.9,SI,Sinker,5.8,15.1
+2023,"Hernandez, Jose E.",82.9,SL,Slider,-1,0.1
+2023,"Santos, Gregory",98.8,SI,Sinker,6.9,11.5
+2023,"Chapman, Aroldis",99,FF,4-Seam Fastball,17.9,4.6
+2023,"Sánchez, Cristopher",81.9,CH,Changeup,-1.8,17.3
+2023,"Ortiz, Luis L.",85.8,SL,Slider,-0.4,4.7
+2023,"Tonkin, Michael",83.1,SL,Slider,-3.2,3.3
+2023,"Gray, Sonny",79.5,CU,Curveball,-14.4,12.9
+2023,"Seabold, Connor",85.3,SL,Slider,3.2,2.4
+2023,"Beck, Tristan",94.7,FF,4-Seam Fastball,16.5,8.4
+2023,"Allen, Logan",78.8,ST,Sweeper,-0.8,15.3
+2023,"Manoah, Alek",92.7,SI,Sinker,10.7,14.9
+2023,"Pérez, Eury",86.4,SL,Slider,6.1,0.2
+2023,"Lugo, Seth",93.2,SI,Sinker,10.1,15.6
+2023,"Carrasco, Carlos",87.2,CH,Changeup,0.8,8.2
+2023,"Brito, Jhony",95.9,SI,Sinker,9.9,17.2
+2023,"Rogers, Taylor",79.4,ST,Sweeper,0.6,14.8
+2023,"Rodriguez, Grayson",83.9,CH,Changeup,2.7,12.4
+2023,"Yates, Kirby",86.1,FS,Split-Finger,-0.7,12.5
+2023,"McClanahan, Shane",86.9,CH,Changeup,6.6,16.2
+2023,"Topa, Justin",95,SI,Sinker,-0.2,17.5
+2023,"McHugh, Collin",89,FC,Cutter,9.2,0.6
+2023,"Assad, Javier",89.1,FC,Cutter,8,3.3
+2023,"Peguero, Elvis",90.6,SL,Slider,0.2,2.5
+2023,"Varland, Louis",95.3,FF,4-Seam Fastball,16.3,7.7
+2023,"Holderman, Colin",97.9,SI,Sinker,8,15.3
+2023,"Megill, Tylor",84.4,SL,Slider,-1.5,4
+2023,"Woodford, Jake",91.9,SI,Sinker,6.1,13.3
+2023,"Valdez, Framber",90.1,CH,Changeup,4.7,15.5
+2023,"Gore, MacKenzie",88.5,SL,Slider,5.6,2.5
+2023,"Miley, Wade",83.7,CH,Changeup,7.4,15.5
+2023,"Marinaccio, Ron",93.8,FF,4-Seam Fastball,16.6,12.1
+2023,"Maeda, Kenta",91,FF,4-Seam Fastball,15.1,6.8
+2023,"Toussaint, Touki",76.1,CU,Curveball,-13,12.3
+2023,"Boyd, Matthew",91.4,FF,4-Seam Fastball,14.9,11.1
+2023,"Contreras, Roansy",94.3,FF,4-Seam Fastball,16.5,5.1
+2023,"Germán, Domingo",92.3,FF,4-Seam Fastball,16.2,10.1
+2023,"Sims, Lucas",94.2,FF,4-Seam Fastball,18.3,6.9
+2023,"Duran, Jhoan",101.8,FF,4-Seam Fastball,13.7,10.7
+2023,"Bradish, Kyle",84.8,CU,Curveball,-12.8,5.5
+2023,"Pearson, Nate",97.9,FF,4-Seam Fastball,17.6,7.5
+2023,"Loup, Aaron",92.1,SI,Sinker,5.2,18.9
+2023,"Medina, Luis",85.3,SL,Slider,0.1,3
+2023,"Webb, Jacob",94.8,FF,4-Seam Fastball,17.5,8.2
+2023,"Quantrill, Cal",93.7,SI,Sinker,14.5,13.5
+2023,"Allen, Logan",82.7,CH,Changeup,2.3,2.3
+2023,"Gray, Josiah",82.2,CU,Curveball,-3.9,1.7
+2023,"Ginkel, Kevin",86.7,SL,Slider,-2.3,3.3
+2023,"Rodriguez, Eduardo",88.8,FC,Cutter,10.1,1.5
+2023,"Gallen, Zac",86.8,CH,Changeup,4.2,12.6
+2023,"Gore, MacKenzie",83.2,CU,Curveball,-7.1,1.3
+2023,"Wheeler, Zack",90.8,FC,Cutter,6,2.5
+2023,"Weaver, Luke",86.1,CH,Changeup,8.2,13.3
+2023,"Gonsolin, Tony",83,FS,Split-Finger,1.5,13.7
+2023,"Gray, Sonny",92.8,SI,Sinker,9.6,10.5
+2023,"Bradley, Taj",88.9,FC,Cutter,5.2,4.4
+2023,"Blackburn, Paul",91.8,SI,Sinker,10,12.8
+2023,"Oviedo, Johan",81,CU,Curveball,-0.9,7
+2023,"Lively, Ben",90.7,FF,4-Seam Fastball,14.7,6.9
+2023,"Kaprielian, James",92.3,FF,4-Seam Fastball,15.6,7.8
+2023,"García, Luis",97.3,SI,Sinker,10.5,14.4
+2023,"Rodriguez, Eduardo",85.9,CH,Changeup,5.5,16.2
+2023,"Peguero, Elvis",96,SI,Sinker,1.9,16.6
+2023,"Alzolay, Adbert",87.6,SL,Slider,3.4,6
+2023,"Grove, Michael",85.6,SL,Slider,-0.1,3.3
+2023,"Williams, Trevor",83.3,CH,Changeup,3,14.4
+2023,"Jackson, Andre",94.9,FF,4-Seam Fastball,17,8.9
+2023,"Wood, Alex",82.4,SL,Slider,-3,6.8
+2023,"Miller, Bobby",98.8,SI,Sinker,14.1,13.3
+2023,"Baker, Bryan",95.7,FF,4-Seam Fastball,18.4,2.8
+2023,"Davies, Zach",89.5,SI,Sinker,8.7,16.8
+2023,"Sewald, Paul",83.8,ST,Sweeper,9.1,11.1
+2023,"Greinke, Zack",79.2,SL,Slider,2.4,13.6
+2023,"Canning, Griffin",90.2,CH,Changeup,4.4,16.3
+2023,"Gallegos, Giovanny",93.7,FF,4-Seam Fastball,16.9,8.6
+2023,"Freeland, Kyle",88.8,FF,4-Seam Fastball,14.2,6.3
+2023,"Houser, Adrian",93.4,FF,4-Seam Fastball,15.5,9.2
+2023,"Kremer, Dean",92,SI,Sinker,10,15.9
+2023,"Lynn, Lance",81.9,CU,Curveball,-1.5,9.2
+2023,"Sears, JP",82.1,SL,Slider,6.7,2.3
+2023,"Weems, Jordan",96.3,FF,4-Seam Fastball,17,7.4
+2023,"Heaney, Andrew",84,CH,Changeup,6,17.7
+2023,"Garrett, Braxton",87.5,FC,Cutter,4.3,2.2
+2023,"Blanco, Ronel",88,SL,Slider,8.3,1.9
+2023,"Graveman, Kendall",95.9,SI,Sinker,10.4,16.3
+2023,"Skubal, Tarik",95.8,FF,4-Seam Fastball,15.8,7.1
+2023,"Brash, Matt",98.1,FF,4-Seam Fastball,13.2,9.7
+2023,"Cosgrove, Tom",76.2,ST,Sweeper,4.6,19.4
+2023,"Winckowski, Josh",89,FC,Cutter,0.6,4.5
+2023,"Kelly, Kevin",76.3,ST,Sweeper,6.6,20.2
+2023,"Pfaadt, Brandon",83.8,ST,Sweeper,6,11.8
+2023,"Sears, JP",84.1,CH,Changeup,3.3,16.7
+2023,"Gomber, Austin",84.8,SL,Slider,4.8,4.7
+2023,"Yarbrough, Ryan",87,FF,4-Seam Fastball,11.3,13.5
+2023,"Smith, Will",81.1,SL,Slider,0.5,7.1
+2023,"Alvarado, José",98.7,SI,Sinker,15,12.7
+2023,"Suárez, Ranger",93.4,FF,4-Seam Fastball,12.8,6.8
+2023,"Gilbert, Logan",85.6,FS,Split-Finger,4,7.3
+2023,"Megill, Trevor",99.1,FF,4-Seam Fastball,18,5.1
+2023,"Hendricks, Kyle",87.8,FF,4-Seam Fastball,14.6,5
+2023,"Woodruff, Brandon",95.8,FF,4-Seam Fastball,18.1,5.5
+2023,"Beck, Tristan",87.7,SL,Slider,3.9,5.6
+2023,"Littell, Zack",88.7,SL,Slider,7.8,0.8
+2023,"Hudson, Dakota",85.1,SL,Slider,1.4,1.4
+2023,"Wesneski, Hayden",94.3,FF,4-Seam Fastball,12.1,6.8
+2023,"Honeywell, Brent",94.8,FF,4-Seam Fastball,16,6.3
+2023,"Freeland, Kyle",80.6,CU,Curveball,-5.3,2.4
+2023,"Bielak, Brandon",92.1,FF,4-Seam Fastball,13.5,3.9
+2023,"Bard, Daniel",87.2,SL,Slider,2.3,6.4
+2023,"Toussaint, Touki",92.8,SI,Sinker,7.2,15.6
+2023,"Waldichuk, Ken",84.2,CH,Changeup,5.5,15.9
+2023,"Dunning, Dane",85.7,CH,Changeup,4.9,16.9
+2023,"Cabrera, Edward",84.6,CU,Curveball,-7.5,10.2
+2023,"France, J.P.",86.9,FC,Cutter,4.9,6.1
+2023,"Castro, Miguel",83.8,SL,Slider,1.9,10.5
+2023,"Ramírez, Erasmo",88.7,FC,Cutter,10.3,1.6
+2023,"Maton, Phil",73.8,CU,Curveball,-10.7,18.5
+2023,"Romano, Jordan",96.7,FF,4-Seam Fastball,17.5,4.1
+2023,"Brito, Jhony",88.8,CH,Changeup,7.4,16.1
+2023,"Teheran, Julio",90,SI,Sinker,1.8,16.1
+2023,"Urquidy, José",93.1,FF,4-Seam Fastball,19.5,8.1
+2023,"Bummer, Aaron",82.5,ST,Sweeper,-2.6,16.6
+2023,"Snell, Blake",88.4,SL,Slider,7.1,3
+2023,"Phillips, Evan",85.4,ST,Sweeper,2.3,14.7
+2023,"Soto, Gregory",98.1,SI,Sinker,9.7,17.4
+2023,"Hoffman, Jeff",87.8,SL,Slider,-1.7,4.7
+2023,"Peralta, Freddy",88.6,CH,Changeup,4.7,14.2
+2023,"Farmer, Buck",83.1,SL,Slider,3,8.3
+2023,"Darvish, Yu",94.3,SI,Sinker,10.1,14.6
+2023,"Scherzer, Max",84,SL,Slider,1.6,3.4
+2023,"Karinchak, James",94.8,FF,4-Seam Fastball,19.3,3.8
+2023,"Littell, Zack",94.1,FF,4-Seam Fastball,17.4,8.2
+2023,"Minter, A.J.",89.4,FC,Cutter,3,5.4
+2023,"Gray, Josiah",93.6,FF,4-Seam Fastball,15.7,11.1
+2023,"Doval, Camilo",88.9,SL,Slider,2.3,2.9
+2023,"Quantrill, Cal",88.1,FC,Cutter,6.8,2.8
+2023,"Darvish, Yu",82.4,ST,Sweeper,0.3,17.2
+2023,"Pressly, Ryan",89.8,SL,Slider,2.8,4.7
+2023,"Ortiz, Luis L.",95.7,SI,Sinker,6.4,15.9
+2023,"Gallegos, Giovanny",85,SL,Slider,1.8,0.3
+2023,"Gibson, Kyle",92.1,FF,4-Seam Fastball,16.6,5.6
+2023,"Barria, Jaime",93,FF,4-Seam Fastball,17.7,2.5
+2023,"DeSclafani, Anthony",93.1,SI,Sinker,10.1,16.1
+2023,"Cobb, Alex",83.6,CU,Curveball,-13,7.8
+2023,"Williams, Trevor",81.7,SL,Slider,3,5.6
+2023,"Muñoz, Andrés",88.4,SL,Slider,4.9,4.1
+2023,"Bieber, Shane",84.6,SL,Slider,0.2,3.2
+2023,"Glasnow, Tyler",83.9,CU,Curveball,-13.3,1
+2023,"Wainwright, Adam",82.8,FC,Cutter,7.6,5.6
+2023,"Graterol, Brusdar",98.6,SI,Sinker,7.6,16.6
+2023,"Lynn, Lance",91.4,SI,Sinker,6.9,11.6
+2023,"Cruz, Fernando",81.4,FS,Split-Finger,3.4,4.8
+2023,"Barlow, Scott",78.6,CU,Curveball,-9.5,15.7
+2023,"Wilson, Bryse",93.1,SI,Sinker,9.9,15.5
+2023,"Stripling, Ross",87.2,SL,Slider,6,4.4
+2023,"Almonte, Yency",83.1,ST,Sweeper,4.3,13.2
+2023,"Vest, Will",95.3,FF,4-Seam Fastball,15.4,9.7
+2023,"Ober, Bailey",80.8,ST,Sweeper,1.2,12.3
+2023,"Fried, Max",94,FF,4-Seam Fastball,13.1,0.7
+2023,"Wilson, Bryse",89.2,FC,Cutter,8.5,2.5
+2023,"Weems, Jordan",87.6,SL,Slider,1.2,5.6
+2023,"Moore, Matt",94,FF,4-Seam Fastball,17.5,9.7
+2023,"Chafin, Andrew",92.3,SI,Sinker,12,15.3
+2023,"Cole, Gerrit",82.9,CU,Curveball,-13.7,10.1
+2023,"Puk, A.J.",84,ST,Sweeper,5,8.7
+2023,"Bassitt, Chris",70.7,CU,Curveball,-14.1,14
+2023,"Miller, Bryce",86.6,SL,Slider,1.7,2.1
+2023,"Clarke, Taylor",88.5,SL,Slider,4.9,4.4
+2023,"Faedo, Alex",82.3,SL,Slider,-0.9,3.2
+2023,"Quintana, Jose",90.4,SI,Sinker,13.4,13.3
+2023,"Okert, Steven",93.8,FF,4-Seam Fastball,14.7,8.9
+2023,"Elder, Bryce",85,CH,Changeup,3.4,11.2
+2023,"Castro, Miguel",96.8,SI,Sinker,4.1,17.7
+2023,"Eovaldi, Nathan",90.6,FC,Cutter,10.1,0.6
+2023,"Gilbert, Logan",80.3,CU,Curveball,-12.6,7.1
+2023,"Cruz, Fernando",94.3,FF,4-Seam Fastball,16.7,7.7
+2023,"Darvish, Yu",85.7,SL,Slider,-1.6,5.6
+2023,"Shaw, Bryan",93.8,FC,Cutter,8.5,3.7
+2023,"King, Michael",94.7,FF,4-Seam Fastball,15.4,6.7
+2023,"Gomber, Austin",81.6,CH,Changeup,10.4,9.5
+2023,"Llovera, Mauricio",94.5,SI,Sinker,7,16.2
+2023,"Liberatore, Matthew",94.2,FF,4-Seam Fastball,16.2,6.8
+2023,"Peterson, David",85.3,SL,Slider,0.1,2.4
+2023,"Bard, Daniel",94.8,SI,Sinker,7.9,12.1
+2023,"Peralta, Wandy",89,CH,Changeup,4.9,16.7
+2023,"Moll, Sam",81.8,ST,Sweeper,-0.5,17.1
+2023,"Wheeler, Zack",84.4,ST,Sweeper,1.9,13.5
+2023,"Bibee, Tanner",83.8,CH,Changeup,13.3,13.4
+2023,"Williams, Trevor",88.2,SI,Sinker,3,15.2
+2023,"Ottavino, Adam",92.5,SI,Sinker,5,16.9
+2023,"Nola, Aaron",85.9,CH,Changeup,4.6,14.8
+2023,"Stripling, Ross",92.4,FF,4-Seam Fastball,17.2,3.9
+2023,"Rea, Colin",93.2,FF,4-Seam Fastball,14.7,7
+2023,"Doval, Camilo",99.8,FC,Cutter,13.2,7.7
+2023,"Martinez, Nick",92.9,SI,Sinker,14.7,14.3
+2023,"Suárez, Ranger",75.8,CU,Curveball,-10.4,11.3
+2023,"Long, Sam",94,FF,4-Seam Fastball,17.4,5
+2023,"Blackburn, Paul",88.9,FC,Cutter,7,4.5
+2023,"Miller, Shelby",93.5,FF,4-Seam Fastball,17.5,9.2
+2023,"Taillon, Jameson",80.9,ST,Sweeper,1.7,14.5
+2023,"Johnson, Pierce",95.9,FF,4-Seam Fastball,14.5,9.7
+2023,"Musgrove, Joe",93.1,FF,4-Seam Fastball,12.8,3.6
+2023,"Gott, Trevor",89.2,FC,Cutter,9.1,2.2
+2023,"Anderson, Chase",89.2,FC,Cutter,6.8,4.2
+2023,"Davies, Zach",89.4,FF,4-Seam Fastball,14.5,12.5
+2023,"Shuster, Jared",91.4,FF,4-Seam Fastball,15,8.2
+2023,"Soto, Gregory",87.9,SL,Slider,3.5,1.9
+2023,"Morgan, Eli",78.6,CH,Changeup,3.8,16.6
+2023,"Toussaint, Touki",93.6,FF,4-Seam Fastball,13.4,9.3
+2023,"Ragans, Cole",86.6,CH,Changeup,10.8,15.6
+2023,"Maeda, Kenta",82.1,SL,Slider,3.3,5.1
+2023,"Lyles, Jordan",90.5,SI,Sinker,11.6,12.7
+2023,"Taillon, Jameson",80.5,CU,Curveball,-9.9,10.4
+2023,"Adon, Joan",94.5,FF,4-Seam Fastball,13.6,9.3
+2023,"Davidson, Tucker",84.8,SL,Slider,-1.3,6.4
+2023,"Wells, Tyler",88.7,FC,Cutter,12,4.2
+2023,"López, Pablo",82.5,CU,Curveball,-10.3,9
+2023,"Manning, Matt",81.9,ST,Sweeper,8.2,9.9
+2023,"Buttó, José",93.8,FF,4-Seam Fastball,15.8,5.8
+2023,"Peterson, David",85.3,CH,Changeup,6.5,15.5
+2023,"Chargois, JT",96.3,SI,Sinker,7.4,18.1
+2023,"Hill, Rich",83.3,FC,Cutter,6.5,3.4
+2023,"Yarbrough, Ryan",71.9,ST,Sweeper,5.6,14
+2023,"Cisnero, José",95.8,FF,4-Seam Fastball,15.5,10.4
+2023,"Darvish, Yu",94.7,FF,4-Seam Fastball,17.3,6.7
+2023,"Civale, Aaron",92.4,SI,Sinker,12.9,14
+2023,"Davies, Zach",80.7,CH,Changeup,6.9,14.7
+2023,"Jackson, Luke",87.2,SL,Slider,-4.6,0.6
+2023,"Lyles, Jordan",79.4,CU,Curveball,-15.3,6.8
+2023,"García, Yimi",96,FF,4-Seam Fastball,13.9,10.7
+2023,"Suárez, Ranger",82.9,CH,Changeup,4.9,13.7
+2023,"Williams, Devin",94.2,FF,4-Seam Fastball,16.7,10.9
+2023,"Musgrove, Joe",81.3,CU,Curveball,-14.4,11.1
+2023,"Gray, Sonny",87.6,FC,Cutter,0.9,5.4
+2023,"Woo, Bryan",95,SI,Sinker,6.6,16.6
+2023,"Bernardino, Brennan",77.6,CU,Curveball,-1.5,16.8
+2023,"Ortiz, Luis L.",96.2,FF,4-Seam Fastball,13.3,11.1
+2023,"Muller, Kyle",87.1,SL,Slider,3.8,0.3
+2023,"Greinke, Zack",86.5,CH,Changeup,4.2,13.3
+2023,"Swanson, Erik",93.7,FF,4-Seam Fastball,17.6,10.4
+2023,"Syndergaard, Noah",92.3,SI,Sinker,11.2,14.5
+2023,"Middleton, Keynan",87.7,CH,Changeup,6.6,14.1
+2023,"Grove, Michael",94.8,FF,4-Seam Fastball,16.6,5.7
+2023,"Fairbanks, Pete",86.8,SL,Slider,-7,4
+2023,"Blanco, Ronel",94.5,FF,4-Seam Fastball,18.9,7.3
+2023,"Junis, Jakob",93.7,SI,Sinker,6.9,13.6
+2023,"Miley, Wade",90.4,FF,4-Seam Fastball,16.6,3
+2023,"Lauer, Eric",90.8,FF,4-Seam Fastball,16.8,10
+2023,"Brebbia, John",82.8,SL,Slider,0.2,8.8
+2023,"Fairbanks, Pete",98.9,FF,4-Seam Fastball,19,0.2
+2023,"Nardi, Andrew",82.7,SL,Slider,2.2,14.7
+2023,"Miller, Bobby",80.6,CU,Curveball,-13.9,9.4
+2023,"Gomber, Austin",77.6,CU,Curveball,-11.1,7.6
+2023,"Edwards Jr., Carl",93.6,FF,4-Seam Fastball,15.4,2.8
+2023,"Wheeler, Zack",81.4,CU,Curveball,-10.3,10
+2023,"Cordero, Jimmy",97.3,SI,Sinker,12,15.6
+2023,"García, Yimi",83.6,CU,Curveball,-2.4,12.2
+2023,"Strahm, Matt",83.2,SL,Slider,4.2,9.2
+2023,"Elder, Bryce",90.8,FF,4-Seam Fastball,15.2,3.8
+2023,"Speier, Gabe",94.4,SI,Sinker,6.7,17.7
+2023,"Leiter Jr., Mark",84.7,FS,Split-Finger,5,6.2
+2023,"Moll, Sam",93.4,SI,Sinker,1.5,16.5
+2023,"Clase, Emmanuel",91.1,SL,Slider,1.4,7.9
+2023,"Kimbrel, Craig",86.2,CU,Curveball,-9.2,9.9
+2023,"Coulombe, Danny",85.9,FC,Cutter,3.2,3.6
+2023,"Hoeing, Bryan",83.2,SL,Slider,-4.4,3.2
+2023,"Soriano, George",94.6,FF,4-Seam Fastball,11.8,7.9
+2023,"Raley, Brooks",81.5,ST,Sweeper,2.4,17.6
+2023,"Harrison, Kyle",93.5,FF,4-Seam Fastball,14.2,13.1
+2023,"Anderson, Chase",93.3,FF,4-Seam Fastball,14.2,6.1
+2023,"Kershaw, Clayton",73.4,CU,Curveball,-15.6,3.9
+2023,"Banks, Tanner",92.6,FF,4-Seam Fastball,15.4,2.2
+2023,"Stripling, Ross",83.7,CH,Changeup,11,8.7
+2023,"López, Reynaldo",87.9,SL,Slider,1.2,5.8
+2023,"Kremer, Dean",85.3,CH,Changeup,5,15.4
+2023,"Morán, Jovani",83.2,CH,Changeup,8.2,13.7
+2023,"Wells, Tyler",85.4,CH,Changeup,13.2,15.5
+2023,"Peralta, Freddy",77,CU,Curveball,-5.4,4.3
+2023,"Yarbrough, Ryan",84.2,FC,Cutter,8.5,1.5
+2023,"Leclerc, José",95.1,FF,4-Seam Fastball,18.1,3.2
+2023,"Devenski, Chris",83.3,CH,Changeup,5.6,15.8
+2023,"Varland, Louis",89.3,SL,Slider,6.1,4.1
+2023,"Manaea, Sean",86.6,CH,Changeup,5.4,12.9
+2023,"Scherzer, Max",83.8,CH,Changeup,2.8,14.4
+2023,"Marte, Yunior",97.6,SI,Sinker,10.2,17
+2023,"Lucchesi, Joey",90,SI,Sinker,10.5,14.5
+2023,"Greinke, Zack",89.8,SI,Sinker,9.6,14.8
+2023,"Kelly, Merrill",92.4,SI,Sinker,6.6,15.3
+2023,"Chirinos, Yonny",88.8,SL,Slider,6.8,0.8
+2023,"Burnes, Corbin",89.3,CH,Changeup,7.1,13.8
+2023,"Law, Derek",92.1,FC,Cutter,8.5,2.4
+2023,"Suter, Brent",86,FF,4-Seam Fastball,11.6,3.8
+2023,"Bielak, Brandon",87,CH,Changeup,5.2,15
+2023,"García, Luis",81.3,ST,Sweeper,2.7,13.6
+2023,"Chirinos, Yonny",85,FS,Split-Finger,3.4,6.1
+2023,"Lynch IV, Daniel",92.6,FF,4-Seam Fastball,16.4,4.8
+2023,"Suter, Brent",88.1,SI,Sinker,11.7,9.3
+2023,"Miller, Mason",98.3,FF,4-Seam Fastball,17.4,7.6
+2023,"Wilson, Steven",94.4,FF,4-Seam Fastball,18.3,7.8
+2023,"Helsley, Ryan",99.7,FF,4-Seam Fastball,18.4,3.5
+2023,"Morán, Jovani",93.3,FF,4-Seam Fastball,17.4,3.6
+2023,"Bido, Osvaldo",84.5,SL,Slider,2.6,7.5
+2023,"Englert, Mason",84.4,SL,Slider,3.6,0.3
+2023,"Germán, Domingo",85.7,CH,Changeup,9.4,17.3
+2023,"Milner, Hoby",79.6,ST,Sweeper,-0.5,14.1
+2023,"Blackburn, Paul",80.8,ST,Sweeper,-6.7,14.9
+2023,"Rogers, Taylor",93.6,SI,Sinker,6.7,16.2
+2023,"Doval, Camilo",97.9,SI,Sinker,2.9,12.6
+2023,"Cabrera, Génesis",95.9,FF,4-Seam Fastball,17,8.7
+2023,"Peralta, Wandy",95.8,SI,Sinker,9.7,16.8
+2023,"Wentz, Joey",85,CH,Changeup,10.8,16.4
+2023,"Smith, Will",92.4,FF,4-Seam Fastball,17,7
+2023,"Hill, Tim",90.6,FF,4-Seam Fastball,3.7,17.7
+2023,"Murphy, Chris",93.9,FF,4-Seam Fastball,15.3,6.3
+2023,"Assad, Javier",93.1,FF,4-Seam Fastball,15.9,5.3
+2023,"Martinez, Nick",81.8,CU,Curveball,-15.4,0.8
+2023,"Fleming, Josh",90.2,SI,Sinker,1.1,17.3
+2023,"Soriano, George",83.3,SL,Slider,-0.2,11
+2023,"Boyd, Matthew",79.6,SL,Slider,-1.7,5
+2023,"Maton, Phil",89,FC,Cutter,10,4.2
+2023,"Holton, Tyler",91.5,FF,4-Seam Fastball,16.5,3.9
+2023,"France, J.P.",81.8,CH,Changeup,10,15.1
+2023,"Paxton, James",81.4,CU,Curveball,-6.7,1.8
+2023,"Leone, Dominic",95.6,FF,4-Seam Fastball,15.7,6.4
+2023,"Marinaccio, Ron",82.9,CH,Changeup,1.8,16.3
+2023,"López, Jorge",96.8,SI,Sinker,8.2,17.1
+2023,"Anderson, Chase",83.9,CH,Changeup,11.3,15.5
+2023,"Abbott, Cory",84.7,CU,Curveball,-7.3,3
+2023,"Kuhl, Chad",85.4,SL,Slider,0,4.5
+2023,"Erceg, Lucas",98,SI,Sinker,11,15.3
+2023,"Bickford, Phil",83.9,SL,Slider,1.4,6.5
+2023,"Brazobán, Huascar",87.4,FC,Cutter,6.3,1.8
+2023,"Pepiot, Ryan",94,FF,4-Seam Fastball,17.6,7.8
+2023,"Domínguez, Seranthony",97.5,FF,4-Seam Fastball,15.2,4
+2023,"Kaprielian, James",80.8,SL,Slider,3.7,9.7
+2023,"Ryan, Joe",79.3,ST,Sweeper,1,12
+2023,"Winn, Keaton",88.7,FS,Split-Finger,-1.2,13
+2023,"May, Trevor",94.7,FF,4-Seam Fastball,16.8,6.5
+2023,"Miller, Bobby",89.9,SL,Slider,0.9,4.7
+2023,"Irvin, Cole",92.2,FF,4-Seam Fastball,16.2,10.1
+2023,"Gibaut, Ian",91.6,FC,Cutter,9.9,4.1
+2023,"Rodón, Carlos",85.4,SL,Slider,-1,8
+2023,"Olson, Reese",94.7,SI,Sinker,9.3,15.9
+2023,"González, Victor",94.6,SI,Sinker,5.5,17.7
+2023,"Brasier, Ryan",95.7,FF,4-Seam Fastball,16.6,7.2
+2023,"Pérez, Cionel",96.3,SI,Sinker,8.1,14.8
+2023,"Kirby, George",81.8,CU,Curveball,-12.8,9.2
+2023,"Poche, Colin",84.5,SL,Slider,4.3,4.1
+2023,"Beeks, Jalen",89.6,CH,Changeup,7.7,17.3
+2023,"Abbott, Andrew",80.9,CU,Curveball,-3.3,8.7
+2023,"VerHagen, Drew",81.3,ST,Sweeper,-2.1,14.7
+2023,"Abbott, Cory",92.3,FF,4-Seam Fastball,16.8,9.8
+2023,"Chafin, Andrew",83.5,SL,Slider,-0.8,0.4
+2023,"Uribe, Abner",99.4,SI,Sinker,6.4,13.8
+2023,"Diekman, Jake",95.2,SI,Sinker,9.9,17.6
+2023,"Ferguson, Caleb",86.6,FC,Cutter,-1,5.3
+2023,"Floro, Dylan",92.7,SI,Sinker,7.4,16.4
+2023,"López, Pablo",94.5,SI,Sinker,8.3,14.2
+2023,"Jackson, Andre",86.9,CH,Changeup,7.6,13.6
+2023,"Williamson, Brandon",84,CH,Changeup,4.5,15.1
+2023,"Lively, Ben",80,ST,Sweeper,3.3,11
+2023,"Pagán, Emilio",87.7,FC,Cutter,5.3,4.2
+2023,"Karinchak, James",82.8,CU,Curveball,-7.2,1.5
+2023,"Thompson, Zack",75.4,CU,Curveball,-18.8,6.6
+2023,"Adam, Jason",89.6,CH,Changeup,3.5,16.1
+2023,"Suter, Brent",76.2,CH,Changeup,10.4,8.5
+2023,"De Los Santos, Enyel",84.1,SL,Slider,0.5,2.3
+2023,"Brasier, Ryan",85,SL,Slider,-0.7,5.6
+2023,"Montgomery, Jordan",93.2,FF,4-Seam Fastball,15.5,5.9
+2023,"Young, Alex",90.5,SI,Sinker,7.2,16.8
+2023,"Milner, Hoby",88.2,SI,Sinker,-0.2,18.4
+2023,"Beeks, Jalen",94.3,FF,4-Seam Fastball,15.7,5.9
+2023,"Stephan, Trevor",86.5,FS,Split-Finger,5,10.2
+2023,"Sborz, Josh",88.6,SL,Slider,2,0.9
+2023,"Palencia, Daniel",98.3,FF,4-Seam Fastball,16.4,9.8
+2023,"Stephenson, Robert",88.7,FC,Cutter,2.8,0.9
+2023,"Silseth, Chase",95,FF,4-Seam Fastball,15.7,6.2
+2023,"Musgrove, Joe",90.1,FC,Cutter,7.9,2.7
+2023,"Young, Alex",85.7,CH,Changeup,1.4,12
+2023,"Saucedo, Tayler",92.3,SI,Sinker,3.7,17.7
+2023,"Miller, Bobby",88.2,CH,Changeup,8.9,17.4
+2023,"Neris, Héctor",82.9,FS,Split-Finger,-0.1,9.5
+2023,"Topa, Justin",82.8,ST,Sweeper,2.6,14
+2023,"Diekman, Jake",95.7,FF,4-Seam Fastball,11.2,17.1
+2023,"Hand, Brad",92.6,FF,4-Seam Fastball,12.4,11.3
+2023,"Megill, Tylor",87.8,CH,Changeup,6.3,14.4
+2023,"Nelson, Ryne",83.3,CH,Changeup,8.5,13.9
+2023,"Greinke, Zack",72.4,CU,Curveball,-10.8,11.5
+2023,"Floro, Dylan",92.3,FF,4-Seam Fastball,13.6,9.8
+2023,"Abbott, Andrew",82.9,ST,Sweeper,6,11.7
+2023,"Gausman, Kevin",84,SL,Slider,4.6,1
+2023,"Barlow, Scott",83.1,SL,Slider,-1.9,9.8
+2023,"Syndergaard, Noah",87.3,CH,Changeup,7.9,15.4
+2023,"Wells, Tyler",84,SL,Slider,2.1,5.9
+2023,"Hill, Tim",88.6,SI,Sinker,-4.2,16.1
+2023,"Abbott, Andrew",86.6,CH,Changeup,10.7,14.6
+2023,"Teheran, Julio",86.4,FC,Cutter,10.9,3.3
+2023,"Brebbia, John",94.5,FF,4-Seam Fastball,17.9,8.1
+2023,"McClanahan, Shane",83.5,CU,Curveball,-8.5,3.8
+2023,"Leclerc, José",82.8,SL,Slider,5.7,7.2
+2023,"Clarke, Taylor",94.8,FF,4-Seam Fastball,17.4,4.9
+2023,"Houser, Adrian",82.3,SL,Slider,2.3,5.9
+2023,"Mlodzinski, Carmen",95.7,FF,4-Seam Fastball,12.3,10.1
+2023,"Bello, Brayan",85,SL,Slider,-6,1.5
+2023,"Cortes, Nestor",86.6,FC,Cutter,8.1,4.6
+2023,"Kelly, Merrill",82.1,CU,Curveball,-10.4,8.9
+2023,"Schreiber, John",80.9,ST,Sweeper,3.7,15.4
+2023,"Sánchez, Cristopher",82.7,SL,Slider,-3.7,1
+2023,"Marte, Yunior",86.9,SL,Slider,2.5,4.6
+2023,"Iglesias, Raisel",89.4,CH,Changeup,4.4,15.1
+2023,"Shreve, Chasen",82,FS,Split-Finger,3.2,10.3
+2023,"Lambert, Peter",88.1,SL,Slider,5.8,3.4
+2023,"Hentges, Sam",79.9,CU,Curveball,-14.4,6.8
+2023,"Lyles, Jordan",85.5,CH,Changeup,6.5,13.3
+2023,"Nogosek, Stephen",94.2,FF,4-Seam Fastball,18.3,2.7
+2023,"Martinez, Seth",91.1,FF,4-Seam Fastball,12.8,9.4
+2023,"Williams, Gavin",84.9,SL,Slider,1.3,3.7
+2023,"Banks, Tanner",86.3,SL,Slider,4.3,5
+2023,"Lange, Alex",95.7,SI,Sinker,8,15.6
+2023,"Alvarado, José",93.1,FC,Cutter,6.5,1.3
+2023,"Scherzer, Max",75.4,CU,Curveball,-9.5,14.8
+2023,"Wentz, Joey",77.5,CU,Curveball,-11.7,8.9
+2023,"Nelson, Ryne",85.7,FC,Cutter,1.2,4.2
+2023,"Gonsolin, Tony",86.8,SL,Slider,6.4,2.8
+2023,"Bradley, Taj",79,CU,Curveball,-16.4,6.6
+2023,"Cabrera, Génesis",89.6,FC,Cutter,5.8,0.4
+2023,"Rodriguez, Grayson",82.3,ST,Sweeper,3.9,11.3
+2023,"Covey, Dylan",95.1,SI,Sinker,9.4,13.7
+2023,"Adam, Jason",94.6,FF,4-Seam Fastball,18,7.4
+2023,"Perdomo, Angel",94,FF,4-Seam Fastball,17.3,3.6
+2023,"Severino, Luis",86.7,CH,Changeup,8.5,13.4
+2023,"France, J.P.",76,CU,Curveball,-18,9.9
+2023,"Morgan, Eli",85.5,SL,Slider,3.8,1.7
+2023,"Iglesias, Raisel",95.1,FF,4-Seam Fastball,14.7,8.3
+2023,"Sborz, Josh",96.9,FF,4-Seam Fastball,18.6,6
+2023,"Davis, Noah",93.5,SI,Sinker,8.9,15.1
+2023,"Quintana, Jose",90.2,FF,4-Seam Fastball,15.9,2.8
+2023,"Eovaldi, Nathan",76,CU,Curveball,-8.6,9.2
+2023,"Toussaint, Touki",87.5,FS,Split-Finger,3.3,11
+2023,"Armstrong, Shawn",91.4,FC,Cutter,10.2,4.6
+2023,"Estévez, Carlos",88.5,SL,Slider,2.8,5.5
+2023,"Bielak, Brandon",92.1,SI,Sinker,7,13.5
+2023,"Lauer, Eric",86.7,FC,Cutter,10,0.7
+2023,"Freeland, Kyle",84.3,CH,Changeup,8.1,11.3
+2023,"Hartwig, Grant",94.7,SI,Sinker,6.8,18.1
+2023,"Gallen, Zac",90.2,FC,Cutter,9,3.3
+2023,"Davidson, Tucker",91.4,FF,4-Seam Fastball,17.1,2.3
+2023,"Lively, Ben",91.5,SI,Sinker,10.5,14.1
+2023,"Anderson, Grant",85.3,SL,Slider,7,2.1
+2023,"Sandoval, Patrick",93.3,SI,Sinker,13.5,13.1
+2023,"Graveman, Kendall",87.1,SL,Slider,1.6,5.2
+2023,"Rom, Drew",90.6,FF,4-Seam Fastball,17,4.7
+2023,"Cueto, Johnny",92.2,FF,4-Seam Fastball,15.8,11.4
+2023,"Hernández, Carlos",88.6,SL,Slider,3.3,1.5
+2023,"Wacha, Michael",91.9,SI,Sinker,15.1,14.2
+2023,"Lambert, Jimmy",94,FF,4-Seam Fastball,18.1,7.3
+2023,"Chavez, Jesse",88.5,FC,Cutter,12.3,0.8
+2023,"Priester, Quinn",93.6,SI,Sinker,6.8,12.5
+2023,"Hudson, Dakota",91.1,FF,4-Seam Fastball,9.5,3.2
+2023,"Skubal, Tarik",84.3,CH,Changeup,4.8,12.9
+2023,"Bassitt, Chris",92.4,FF,4-Seam Fastball,13.2,5.3
+2023,"Abreu, Albert",87.7,SL,Slider,4.9,3.2
+2023,"Leiter Jr., Mark",91.3,SI,Sinker,11.6,14
+2023,"Morton, Charlie",86,CH,Changeup,0.3,17.2
+2023,"Carrasco, Carlos",84.1,SL,Slider,0.8,3.7
+2023,"Falter, Bailey",76.5,CU,Curveball,-7.3,6
+2023,"Chargois, JT",86.3,SL,Slider,1.2,3.6
+2023,"Chapman, Aroldis",88.1,SL,Slider,5.8,8.4
+2023,"Voth, Austin",93.2,FF,4-Seam Fastball,16.9,6.5
+2023,"Irvin, Cole",92,SI,Sinker,11.9,14.5
+2023,"Severino, Luis",84.7,SL,Slider,-1.7,10.1
+2023,"Nelson, Kyle",92,FF,4-Seam Fastball,15.8,4.5
+2023,"Urías, Julio",86.1,CH,Changeup,6,14.7
+2023,"Lambert, Peter",86.2,CH,Changeup,5.5,11.9
+2023,"Englert, Mason",91.1,FF,4-Seam Fastball,15.1,11.8
+2023,"Velasquez, Vince",83.2,SL,Slider,2,7.9
+2023,"Wesneski, Hayden",92.9,SI,Sinker,6.2,15.4
+2023,"Fulmer, Michael",83.2,ST,Sweeper,-1.9,16.4
+2023,"Borucki, Ryan",87.8,SL,Slider,5.4,0.7
+2023,"Lorenzen, Michael",93.6,SI,Sinker,11.6,16
+2023,"Whitlock, Garrett",82.7,CH,Changeup,3.7,17
+2023,"Brazobán, Huascar",89.3,CH,Changeup,1.4,15.4
+2023,"Fried, Max",74.2,CU,Curveball,-16.3,9.3
+2023,"Erceg, Lucas",98,FF,4-Seam Fastball,14.6,8.9
+2023,"Brigham, Jeff",82.4,ST,Sweeper,2.5,14.5
+2023,"Jiménez, Joe",84.3,SL,Slider,0.1,5.3
+2023,"Martinez, Nick",89.5,FC,Cutter,11.5,1.1
+2023,"Manaea, Sean",84.4,SL,Slider,2.2,1.9
+2023,"Smyly, Drew",88.6,FC,Cutter,8.5,3.8
+2023,"King, John",93.7,SI,Sinker,2.1,15.7
+2023,"Hernandez, Jose E.",94.6,FF,4-Seam Fastball,16.2,9.1
+2023,"Manaea, Sean",93.8,FF,4-Seam Fastball,11.1,13.5
+2023,"Ruiz, José",85.7,CU,Curveball,-3.9,0.9
+2023,"Beck, Tristan",82.2,ST,Sweeper,-1.9,16.8
+2023,"Pruitt, Austin",87.7,SL,Slider,2.4,6
+2023,"Cano, Yennier",90.9,CH,Changeup,1.1,18
+2023,"VerHagen, Drew",93.4,FF,4-Seam Fastball,14.2,2.3
+2023,"Ottavino, Adam",79.6,ST,Sweeper,2.3,16.8
+2023,"Shuster, Jared",84.9,SL,Slider,5.3,2.6
+2023,"Rucker, Michael",94.6,FF,4-Seam Fastball,16,5.4
+2023,"Farmer, Buck",87.8,CH,Changeup,1.4,14.5
+2023,"Bassitt, Chris",73.2,ST,Sweeper,-2,18.2
+2023,"Ramírez, Erasmo",91.5,SI,Sinker,7.3,15.9
+2023,"Duran, Jhoan",87.7,CU,Curveball,-8.9,3.7
+2023,"Bednar, David",77.9,CU,Curveball,-8.4,8.1
+2023,"Cox, Austin",91.5,FF,4-Seam Fastball,18.5,3.1
+2023,"Flexen, Chris",81,CH,Changeup,8.5,11
+2023,"Medina, Luis",95.5,SI,Sinker,12.3,15
+2023,"Blach, Ty",79.9,CH,Changeup,-1.2,15
+2023,"Canning, Griffin",81.8,CU,Curveball,-7.3,12
+2023,"McClanahan, Shane",89.3,SL,Slider,4,2.8
+2023,"Leone, Dominic",92,FC,Cutter,7.3,2.5
+2023,"Kluber, Corey",80.5,CU,Curveball,2.9,15.6
+2023,"Duran, Jhoan",98.4,FS,Split-Finger,2.8,12.2
+2023,"Gray, Jon",88.8,CH,Changeup,6.8,14.4
+2023,"Dodd, Dylan",92.1,FF,4-Seam Fastball,16.1,9.6
+2023,"Fujinami, Shintaro",92.8,FS,Split-Finger,3,10.3
+2023,"Winckowski, Josh",85.9,SL,Slider,-2.9,6.3
+2023,"Francis, Bowden",94.4,FF,4-Seam Fastball,17.9,7.3
+2023,"Bird, Jake",81.7,CU,Curveball,-8.1,15.4
+2023,"Headrick, Brent",91.7,FF,4-Seam Fastball,16.3,12.3
+2023,"Finnegan, Kyle",89.6,FS,Split-Finger,2.4,8.7
+2023,"Ureña, José",95,SI,Sinker,9.9,16.2
+2023,"Montero, Rafael",91.5,CH,Changeup,5.8,16.4
+2023,"Lamet, Dinelson",85.9,SL,Slider,2.7,0.8
+2023,"Soriano, José",86.8,CU,Curveball,-8.2,11.3
+2023,"Koch, Matt",89.6,FC,Cutter,5.5,2.9
+2023,"Matz, Steven",78.5,CU,Curveball,-5.4,13.9
+2023,"Murphy, Chris",88,SL,Slider,7.2,4.1
+2023,"Paxton, James",85.8,FC,Cutter,2.7,0.9
+2023,"Holderman, Colin",84.5,ST,Sweeper,6.8,11.2
+2023,"Keller, Brad",93.3,FF,4-Seam Fastball,12,2.1
+2023,"Quantrill, Cal",93.7,FF,4-Seam Fastball,16.8,10.2
+2023,"Anderson, Nick",80.7,CU,Curveball,-2.6,2.4
+2023,"Armstrong, Shawn",94.7,SI,Sinker,10.7,15.9
+2023,"Blackburn, Paul",91.9,FF,4-Seam Fastball,16.1,5.9
+2023,"Gaddis, Hunter",93.4,FF,4-Seam Fastball,16.4,6.4
+2023,"Whitlock, Garrett",79.6,ST,Sweeper,-4,9.4
+2023,"Adam, Jason",79,ST,Sweeper,-2.4,20.4
+2023,"Avila, Pedro",94.1,FF,4-Seam Fastball,13.8,5.4
+2023,"Stephan, Trevor",85.4,SL,Slider,2.7,8.9
+2023,"Baumann, Mike",87.4,CU,Curveball,-7.7,1.6
+2023,"Hjelle, Sean",94.8,SI,Sinker,4.7,17.1
+2023,"Pressly, Ryan",82.1,CU,Curveball,-12.7,14.7
+2023,"Wright, Kyle",84,CU,Curveball,-8,5.9
+2023,"Gott, Trevor",93.8,SI,Sinker,6.7,17
+2023,"Kluber, Corey",86.1,FC,Cutter,8.4,2.3
+2023,"Fulmer, Michael",94.3,FF,4-Seam Fastball,14.4,0.4
+2023,"Bradford, Cody",82.1,CH,Changeup,12,15.1
+2023,"Muñoz, Andrés",99.2,FF,4-Seam Fastball,12.1,11.6
+2023,"Wacha, Michael",87,FC,Cutter,11,0.7
+2023,"Velasquez, Vince",93.2,FF,4-Seam Fastball,17.6,3.2
+2023,"Shreve, Chasen",90.5,FF,4-Seam Fastball,16,11.2
+2023,"Irvin, Cole",84.2,CH,Changeup,7.7,13.6
+2023,"Robertson, David",84.4,CU,Curveball,-11.7,8.5
+2023,"Payamps, Joel",95.3,SI,Sinker,8.4,15.2
+2023,"Holton, Tyler",82.9,CH,Changeup,5.4,14.7
+2023,"Clevinger, Mike",86.1,CH,Changeup,9,13.9
+2023,"Cruz, Fernando",87.9,FC,Cutter,8.3,4.4
+2023,"Henry, Tommy",84,CH,Changeup,1.9,13.6
+2023,"Kuhl, Chad",93.8,FF,4-Seam Fastball,16.1,10.8
+2023,"Ramirez, Nick",89.1,SI,Sinker,3.7,16.4
+2023,"Sandlin, Nick",92.1,FF,4-Seam Fastball,11,12.2
+2023,"Weaver, Luke",81.7,CU,Curveball,-6.3,2.6
+2023,"Hentges, Sam",95.7,FF,4-Seam Fastball,14.2,5.9
+2023,"La Sorsa, Joe",88.1,SI,Sinker,3.8,17.2
+2023,"Brigham, Jeff",93.5,FF,4-Seam Fastball,18.2,9.6
+2023,"Bieber, Shane",82.5,CU,Curveball,-9.8,11.6
+2023,"Moll, Sam",94.1,FF,4-Seam Fastball,11.5,10.1
+2023,"Leone, Dominic",85.3,SL,Slider,-2.9,5.6
+2023,"Henry, Tommy",79.1,CU,Curveball,-8.9,9
+2023,"Middleton, Keynan",85.8,SL,Slider,3,3.4
+2023,"Olson, Reese",87.8,CH,Changeup,0,13.4
+2023,"Pivetta, Nick",86.6,SL,Slider,4,6.3
+2023,"Kluber, Corey",88.2,SI,Sinker,8.7,15.2
+2023,"Stratton, Chris",86.9,SL,Slider,2.5,6.2
+2023,"Pérez, Cionel",83.9,SV,Slurve,-5.3,12.2
+2023,"Bido, Osvaldo",94.7,FF,4-Seam Fastball,15.9,9.2
+2023,"Kremer, Dean",78.1,CU,Curveball,-10.6,10.4
+2023,"Moore, Matt",84.2,CH,Changeup,7.9,16.9
+2023,"Vesia, Alex",85.9,SL,Slider,3.4,7.2
+2023,"Vest, Will",86.1,SL,Slider,-1.7,6.6
+2023,"Yarbrough, Ryan",78.5,CH,Changeup,5.2,15.8
+2023,"Nelson, Ryne",81.9,SL,Slider,-0.8,11.8
+2023,"Darvish, Yu",76.3,CU,Curveball,-13.7,10.8
+2023,"Ruiz, José",96.5,FF,4-Seam Fastball,17,5.7
+2023,"Koch, Matt",93.8,FF,4-Seam Fastball,13.5,9.3
+2023,"Domínguez, Seranthony",98,SI,Sinker,10.1,15.1
+2023,"Valdez, Framber",84.7,SL,Slider,-3.6,2.9
+2023,"Scherzer, Max",88.4,FC,Cutter,7.5,1.5
+2023,"Strahm, Matt",93.2,SI,Sinker,10.7,17.6
+2023,"Frías, Luis",90.5,FC,Cutter,6.2,3.4
+2023,"Kikuchi, Yusei",88.6,CH,Changeup,7.2,9
+2023,"Hernández, Jonathan",97.5,SI,Sinker,6.5,17.5
+2023,"Suárez, Ranger",87.5,FC,Cutter,5,2.4
+2023,"Gibson, Kyle",79.5,CU,Curveball,-7.4,6.4
+2023,"Ward, Thaddeus",93.2,SI,Sinker,8.3,16.9
+2023,"Webb, Jacob",85.9,CH,Changeup,10.4,17.4
+2023,"Barlow, Scott",93,FF,4-Seam Fastball,12.1,4.5
+2023,"Ohtani, Shohei",89.5,FC,Cutter,6.2,3.7
+2023,"Littell, Zack",84.3,FS,Split-Finger,2.3,8.8
+2023,"Englert, Mason",83.6,CH,Changeup,-0.8,13.8
+2023,"Thompson, Mason",84.7,SL,Slider,-0.7,4.4
+2023,"Moreta, Dauri",95.2,FF,4-Seam Fastball,16.9,10.5
+2023,"Garcia, Robert",94.3,FF,4-Seam Fastball,14.3,8.3
+2023,"Wantz, Andrew",94,FF,4-Seam Fastball,18.2,4
+2023,"Syndergaard, Noah",92.2,FF,4-Seam Fastball,15.9,6.6
+2023,"Gibaut, Ian",84.2,ST,Sweeper,3.3,14.5
+2023,"Luzardo, Jesús",96.5,SI,Sinker,11.2,16.8
+2023,"Stratton, Chris",80.8,CU,Curveball,-8.6,16.3
+2023,"Weathers, Ryan",86.8,CH,Changeup,9.9,12.1
+2023,"Ferrer, Jose A.",95.3,SI,Sinker,8.1,17.4
+2023,"Skubal, Tarik",87.6,SL,Slider,5.3,2
+2023,"Gonsolin, Tony",80.9,CU,Curveball,-11,3.7
+2023,"Quintana, Jose",77.1,CU,Curveball,-8.2,7.4
+2023,"Graveman, Kendall",95.9,FF,4-Seam Fastball,16.1,8.9
+2023,"Honeywell, Brent",87.3,CH,Changeup,5.5,13.1
+2023,"Crawford, Kutter",79.4,CU,Curveball,-13,7.9
+2023,"Keller, Mitch",78,CU,Curveball,-14.3,12.5
+2023,"Martin, Chris",92.3,FC,Cutter,8.2,2.1
+2023,"Speier, Gabe",84.4,SL,Slider,-1.2,3.2
+2023,"Weaver, Luke",90.3,FC,Cutter,12.9,1.6
+2023,"Martin, Chris",95.7,FF,4-Seam Fastball,14.8,8.2
+2023,"Civale, Aaron",91.8,FF,4-Seam Fastball,18.3,5
+2023,"Bradley, Taj",89.3,FS,Split-Finger,7.4,9.3
+2023,"Manaea, Sean",79.8,ST,Sweeper,2.5,10.5
+2023,"Brieske, Beau",96.7,FF,4-Seam Fastball,16.7,5.6
+2023,"Ward, Thaddeus",81,ST,Sweeper,-1.8,17.8
+2023,"Gonzales, Marco",79.9,CH,Changeup,5.6,17.6
+2023,"May, Dustin",96.6,SI,Sinker,9.3,18.2
+2023,"Raley, Brooks",89.9,SI,Sinker,4.2,14.8
+2023,"Battenfield, Peyton",90.8,FF,4-Seam Fastball,18.3,3
+2023,"Wacha, Michael",74,CU,Curveball,-12,12
+2023,"Falter, Bailey",84.5,SL,Slider,6.7,3
+2023,"Bautista, Félix",88.6,FS,Split-Finger,7.6,6.8
+2023,"King, Michael",87.2,CH,Changeup,7.3,17.4
+2023,"Severino, Luis",90.8,FC,Cutter,5,4.1
+2023,"Maton, Phil",79.7,ST,Sweeper,2.9,18.9
+2023,"Rasmussen, Drew",88.1,FC,Cutter,-0.6,3.2
+2023,"Lodolo, Nick",93.2,FF,4-Seam Fastball,12.1,16.9
+2023,"Hernández, Jonathan",87.3,SL,Slider,1.2,4.5
+2023,"Hader, Josh",85.7,SL,Slider,1.7,2
+2023,"Taillon, Jameson",94,SI,Sinker,13.9,13.8
+2023,"Alexander, Tyler",86.3,FC,Cutter,9.8,1.8
+2023,"Feltner, Ryan",88.6,SL,Slider,5.8,3
+2023,"Suárez, Andrew",92.3,FF,4-Seam Fastball,14.5,7.9
+2023,"Brito, Jhony",95.8,FF,4-Seam Fastball,14.5,10.3
+2023,"Scholtens, Jesse",74,CU,Curveball,-13.1,8.1
+2023,"Domínguez, Seranthony",90,SL,Slider,5.2,4.1
+2023,"Zerpa, Angel",94.5,FF,4-Seam Fastball,13,10
+2023,"Weaver, Luke",86.5,SL,Slider,6.6,3.1
+2023,"Hoffman, Jeff",97.2,FF,4-Seam Fastball,17.4,11.5
+2023,"Martinez, Nick",93.3,FF,4-Seam Fastball,17.5,6.3
+2023,"Urquidy, José",86.1,CH,Changeup,11.5,17
+2023,"Long, Sam",77.4,CU,Curveball,-14.8,2.7
+2023,"Pressly, Ryan",94.7,FF,4-Seam Fastball,17.8,0.9
+2023,"Liberatore, Matthew",76.5,CU,Curveball,-18.4,11
+2023,"Sandoval, Patrick",76.5,CU,Curveball,-13.1,8.6
+2023,"Burnes, Corbin",95.3,SI,Sinker,10.9,10.7
+2023,"Suarez, José",92.3,FF,4-Seam Fastball,16.6,9.6
+2023,"Jax, Griffin",96.5,FF,4-Seam Fastball,16.1,6.4
+2023,"Machado, Andrés",96.6,FF,4-Seam Fastball,15.6,10
+2023,"Williams, Gavin",76.3,CU,Curveball,-16.2,9.9
+2023,"Schreiber, John",93.2,FF,4-Seam Fastball,8.6,9.1
+2023,"Medina, Luis",79.7,CU,Curveball,-11.8,6.3
+2023,"Rosenberg, Kenny",90.7,FF,4-Seam Fastball,18,8.5
+2023,"Strzelecki, Peter",92,FF,4-Seam Fastball,13.7,9.1
+2023,"Cuas, Jose",92.3,FF,4-Seam Fastball,9.4,11.9
+2023,"Brogdon, Connor",83.2,CH,Changeup,6.1,17
+2023,"Erceg, Lucas",90.3,CH,Changeup,7,16.9
+2023,"Cole, Gerrit",89.1,CH,Changeup,10.1,14.2
+2023,"Holton, Tyler",88,FC,Cutter,7.1,4.7
+2023,"Pérez, Cionel",96.8,FF,4-Seam Fastball,15.5,6.6
+2023,"Mantiply, Joe",89.5,SI,Sinker,1.8,17.7
+2023,"Cole, Gerrit",92.7,FC,Cutter,10.8,2.8
+2023,"Cuas, Jose",82.4,SL,Slider,-2.3,3.9
+2023,"Lodolo, Nick",79.6,CU,Curveball,-1.2,15
+2023,"Hamilton, Ian",95.6,SI,Sinker,9.1,16.3
+2023,"Nola, Aaron",86.3,FC,Cutter,6.4,0.8
+2023,"Anderson, Nick",94.1,FF,4-Seam Fastball,16.6,5.2
+2023,"Avila, Pedro",83.8,CH,Changeup,3.1,2.7
+2023,"Keuchel, Dallas",87.4,SI,Sinker,5.4,15.3
+2023,"Gonzales, Marco",89.2,FF,4-Seam Fastball,15,13.1
+2023,"Ryu, Hyun Jin",88.7,FF,4-Seam Fastball,13.1,11.3
+2023,"Pepiot, Ryan",86.3,CH,Changeup,4.6,15
+2023,"Morton, Charlie",89.1,FC,Cutter,7,0.6
+2023,"Fujinami, Shintaro",88.3,FC,Cutter,2.2,0.7
+2023,"Woodruff, Brandon",94.9,SI,Sinker,13,14.1
+2023,"Baker, Bryan",86.1,SL,Slider,3.9,7.1
+2023,"Lynch IV, Daniel",84.1,CH,Changeup,8.9,11.9
+2023,"Rodriguez, Eduardo",92.3,SI,Sinker,10.8,13.4
+2023,"Raley, Brooks",86.8,FC,Cutter,6.2,4.2
+2023,"Battenfield, Peyton",87.3,FC,Cutter,7.5,3
+2023,"Turnbull, Spencer",92.9,FF,4-Seam Fastball,11,1.7
+2023,"Graterol, Brusdar",88.7,SL,Slider,-0.4,5
+2023,"Brazobán, Huascar",96,SI,Sinker,7.3,17.3
+2023,"Strider, Spencer",87,CH,Changeup,12.5,14.5
+2023,"Middleton, Keynan",95.5,FF,4-Seam Fastball,16.8,8.1
+2023,"Smith, Drew",84.3,SL,Slider,2.3,8.3
+2023,"Harris, Hogan",80.1,CH,Changeup,8.4,16.8
+2023,"Kelly, Joe",98.9,SI,Sinker,8,17.2
+2023,"Payamps, Joel",95.4,FF,4-Seam Fastball,14.8,8.6
+2023,"Hjelle, Sean",85.6,CU,Curveball,-2.9,1.9
+2023,"Quintana, Jose",85.8,CH,Changeup,6.6,13.2
+2023,"Machado, Andrés",96,SI,Sinker,10,16.9
+2023,"Ashcraft, Graham",96.5,SI,Sinker,7.4,6.7
+2023,"Musgrove, Joe",82.2,SL,Slider,-5.3,11.7
+2023,"Helsley, Ryan",89,SL,Slider,2.1,4.7
+2023,"Baumann, Mike",91.7,SL,Slider,6.8,1.3
+2023,"Bido, Osvaldo",94.6,SI,Sinker,10.3,15.4
+2023,"Rea, Colin",83.2,ST,Sweeper,0.4,10.1
+2023,"Martínez, Adrián",82.7,CH,Changeup,-4.6,13.6
+2023,"Hicks, Jordan",86.8,ST,Sweeper,0.4,12.4
+2023,"Fleming, Josh",82.9,CH,Changeup,-2.2,14.1
+2023,"Lynn, Lance",84.9,CH,Changeup,6.2,14.1
+2023,"Boyd, Matthew",80.2,CH,Changeup,5,13.8
+2023,"Garrett, Braxton",84.1,CH,Changeup,1.9,14.4
+2023,"Sale, Chris",86.1,CH,Changeup,3.6,18.4
+2023,"Woo, Bryan",87.6,SL,Slider,4.1,4.1
+2023,"Flaherty, Jack",88.7,FC,Cutter,6.2,4.8
+2023,"Phillips, Evan",93.1,FC,Cutter,9.8,0.8
+2023,"Blackburn, Paul",79.1,CU,Curveball,-16.1,6.7
+2023,"Weathers, Ryan",80.8,ST,Sweeper,-0.5,13.4
+2023,"Manoah, Alek",86.3,CH,Changeup,8.9,16.3
+2023,"Webb, Jacob",84,ST,Sweeper,-1.4,13.6
+2023,"Leiter Jr., Mark",88.7,FC,Cutter,7,2.2
+2023,"Gaddis, Hunter",85.3,SL,Slider,2.4,6.4
+2023,"DeSclafani, Anthony",93.2,FF,4-Seam Fastball,15.5,10.8
+2023,"Javier, Cristian",76.6,CU,Curveball,-10.3,12.2
+2023,"Hamilton, Ian",96.2,FF,4-Seam Fastball,15.5,8.7
+2023,"Gott, Trevor",93.3,FF,4-Seam Fastball,14.8,8.8
+2023,"Muller, Kyle",81.2,CU,Curveball,-9.5,3.8
+2023,"Kowar, Jackson",96.9,FF,4-Seam Fastball,14.6,10.9
+2023,"Bibee, Tanner",78.4,CU,Curveball,-11.5,10.3
+2023,"Sborz, Josh",85.2,CU,Curveball,-11.3,11.7
+2023,"Lyles, Jordan",86.8,FC,Cutter,6.7,3.8
+2023,"Pérez, Eury",81.2,CU,Curveball,0.7,3.9
+2023,"Holmes, Clay",87.5,SL,Slider,-3.7,2.3
+2023,"Marsh, Alec",85.4,ST,Sweeper,-1.6,8.8
+2023,"Schreiber, John",92.7,SI,Sinker,-0.7,14.7
+2023,"Almonte, Yency",95.8,SI,Sinker,7.6,17.6
+2023,"Floro, Dylan",84.1,SL,Slider,3.1,1.6
+2023,"Robertson, David",85.1,SL,Slider,0.2,7.8
+2023,"Young, Alex",81.5,CU,Curveball,0.9,8.8
+2023,"Machado, Andrés",89.7,CH,Changeup,4.8,14.4
+2023,"Stroman, Marcus",89.7,FC,Cutter,4.3,1.4
+2023,"Ragans, Cole",91.8,FC,Cutter,6.2,2.1
+2023,"White, Brendan",94.4,FF,4-Seam Fastball,10.1,3.1
+2023,"López, Jorge",84.1,CU,Curveball,-10.7,8.4
+2023,"Liberatore, Matthew",94.3,SI,Sinker,14.1,12.8
+2023,"Llovera, Mauricio",82.7,SL,Slider,1.2,15.3
+2023,"Keller, Brad",84.3,SL,Slider,-1.5,11.4
+2023,"Quantrill, Cal",86.8,FS,Split-Finger,4.4,11
+2023,"Herrin, Tim",96.6,FF,4-Seam Fastball,13,7
+2023,"Harris, Hogan",90.5,FC,Cutter,12.1,1.8
+2023,"Hollowell, Gavin",93.4,FF,4-Seam Fastball,11.8,8.5
+2023,"Garrett, Braxton",77.7,CU,Curveball,-7.9,10.3
+2023,"Blach, Ty",83.7,FC,Cutter,4.4,2.5
+2023,"Fulmer, Michael",89.6,FC,Cutter,4.3,5.9
+2023,"Blackburn, Paul",86,CH,Changeup,6.6,12.3
+2023,"Feltner, Ryan",94.8,FF,4-Seam Fastball,14.4,7.1
+2023,"Seabold, Connor",80.6,CH,Changeup,2.3,13.2
+2023,"Lugo, Seth",85.9,SL,Slider,3,4.9
+2023,"Lambert, Jimmy",85.6,SL,Slider,0.7,2.4
+2023,"La Sorsa, Joe",74.8,ST,Sweeper,2.3,13.4
+2023,"Avila, Pedro",93.3,SI,Sinker,9,14.4
+2023,"Urquidy, José",80.6,ST,Sweeper,2,14.5
+2023,"Fried, Max",86.2,CH,Changeup,4.7,12.5
+2023,"Woodruff, Brandon",85.8,CH,Changeup,8.8,15.8
+2023,"Frías, Luis",96.1,FF,4-Seam Fastball,16.4,5.1
+2023,"Martinez, Seth",79.3,ST,Sweeper,7.9,12.9
+2023,"Cueto, Johnny",86.1,SL,Slider,8.2,0.8
+2023,"Bassitt, Chris",84.1,CH,Changeup,8.2,17.2
+2023,"Manning, Matt",79.5,CU,Curveball,-11.7,9.3
+2023,"Rosenberg, Kenny",80.6,CH,Changeup,11.1,10
+2023,"Saucedo, Tayler",86,CH,Changeup,2.6,18.2
+2023,"Herrin, Tim",88.1,SL,Slider,2.7,3.9
+2023,"Irvin, Cole",85.5,FC,Cutter,3.5,2.5
+2023,"White, Brendan",86.7,SL,Slider,3,7.2
+2023,"Woodford, Jake",81.7,ST,Sweeper,-2.6,12.5
+2023,"Jameson, Drey",95,SI,Sinker,5.7,16
+2023,"Graterol, Brusdar",95.6,FC,Cutter,11.3,1.4
+2023,"May, Dustin",97.3,FF,4-Seam Fastball,15.5,9.7
+2023,"Cisnero, José",95.6,SI,Sinker,9,17
+2023,"Kowar, Jackson",86.6,CH,Changeup,3.5,16.5
+2023,"Priester, Quinn",85.3,SL,Slider,-2.4,4.6
+2023,"May, Trevor",84.4,SL,Slider,-1.8,5
+2023,"Cosgrove, Tom",92,FF,4-Seam Fastball,11.2,9.1
+2023,"Anderson, Chase",92.9,SI,Sinker,11.9,11.5
+2023,"Hartwig, Grant",82.5,ST,Sweeper,0.2,13.8
+2023,"Ortiz, Luis L.",89.7,CH,Changeup,5.6,15.6
+2023,"Marsh, Alec",81.1,CU,Curveball,-9.4,9
+2023,"Pallante, Andre",87.6,SL,Slider,-3,4.1
+2023,"France, J.P.",80.1,ST,Sweeper,-0.5,15.4
+2023,"Marsh, Alec",87,CH,Changeup,4.8,14.4
+2023,"Clarke, Taylor",83.9,ST,Sweeper,-2.5,11.2
+2023,"Hollowell, Gavin",82.4,ST,Sweeper,2.2,13
+2023,"Shuster, Jared",82.2,CH,Changeup,10.1,9.9
+2023,"Devenski, Chris",94,FF,4-Seam Fastball,16.3,10
+2023,"Darvish, Yu",90.9,FC,Cutter,9.5,2.1
+2023,"Syndergaard, Noah",77.9,CU,Curveball,0.2,10.8
+2023,"Houck, Tanner",87.7,FS,Split-Finger,1.3,14.2
+2023,"Thompson, Zack",85.7,SL,Slider,4.8,1.6
+2023,"Rasmussen, Drew",95.7,FF,4-Seam Fastball,17.6,0.1
+2023,"Kauffmann, Karl",90.1,SI,Sinker,8.6,13.4
+2023,"Ragans, Cole",81.8,CU,Curveball,-11.4,10.3
+2023,"Covey, Dylan",92.4,FC,Cutter,9.4,1.8
+2023,"Pfaadt, Brandon",86.7,CH,Changeup,3.2,15.8
+2023,"Cosgrove, Tom",91.1,SI,Sinker,2.3,13.8
+2023,"King, John",84.1,CH,Changeup,0.7,16
+2023,"Herget, Jimmy",77.2,CU,Curveball,5.2,16.7
+2023,"Gonzales, Marco",79.3,CU,Curveball,-9.9,2.1
+2023,"Sandlin, Nick",92.4,SI,Sinker,2.3,16
+2023,"Ureña, José",86.2,SL,Slider,8,0.6
+2023,"Cisnero, José",84.7,SL,Slider,-2.6,5.4
+2023,"Sheehan, Emmet",87.1,SL,Slider,4.1,2.5
+2023,"Grove, Michael",78.3,CU,Curveball,-13.4,8.6
+2023,"Topa, Justin",92.4,FC,Cutter,8,2.7
+2023,"Alzolay, Adbert",95.3,SI,Sinker,12.1,14.8
+2023,"Houck, Tanner",91.2,FC,Cutter,7.1,3.2
+2023,"Alzolay, Adbert",95.3,FF,4-Seam Fastball,16.7,8.8
+2023,"Megill, Tylor",77.2,CU,Curveball,-13.6,8
+2023,"Chafin, Andrew",92.1,FF,4-Seam Fastball,15.7,9.3
+2023,"Wilson, Bryse",93.6,FF,4-Seam Fastball,16.1,6.1
+2023,"Allen, Logan",86.4,FC,Cutter,7,4.1
+2023,"Milner, Hoby",89,FF,4-Seam Fastball,6.6,16.3
+2023,"Soriano, George",88.9,CH,Changeup,2.9,17.9
+2023,"Alexander, Tyler",89.9,FF,4-Seam Fastball,18.2,7.8
+2023,"Barria, Jaime",84.6,CH,Changeup,9.9,14.1
+2023,"Rucker, Michael",89.5,FC,Cutter,4.4,2.8
+2023,"Mayza, Tim",86.2,SL,Slider,-1.1,1.4
+2023,"Criswell, Cooper",88.4,SI,Sinker,2.1,18.1
+2023,"Swanson, Erik",86.6,SL,Slider,9.9,5.1
+2023,"Adon, Joan",80.8,CU,Curveball,-7.4,6.6
+2023,"Headrick, Brent",80,SL,Slider,4.3,1.8
+2023,"Holderman, Colin",92.3,FC,Cutter,6.4,2
+2023,"Ryu, Hyun Jin",78.1,CH,Changeup,6.2,13.8
+2023,"Wantz, Andrew",89.4,FC,Cutter,6.8,5
+2023,"Gray, Sonny",87.9,CH,Changeup,5.7,13.6
+2023,"Quantrill, Cal",82,CU,Curveball,-3.3,2.8
+2023,"Stone, Gavin",85.8,CH,Changeup,5.8,14
+2023,"Ureña, José",87.4,CH,Changeup,9.7,13.9
+2023,"VerHagen, Drew",92.6,SI,Sinker,11.3,12.1
+2023,"Pivetta, Nick",88.4,FC,Cutter,4.2,5.5
+2023,"Law, Derek",95.5,FF,4-Seam Fastball,16.1,4.7
+2023,"Ramírez, Yohan",82.8,ST,Sweeper,4.8,15.3
+2023,"Corbin, Patrick",81.1,CH,Changeup,8.8,12.7
+2023,"Loup, Aaron",83.5,FC,Cutter,0.7,0.8
+2023,"Winder, Josh",85.1,SL,Slider,0.7,1.8
+2023,"Pruitt, Austin",91.8,FF,4-Seam Fastball,15.1,3.1
+2023,"Kelly, Joe",91.6,SL,Slider,-0.5,6.3
+2023,"Montero, Rafael",95.4,SI,Sinker,8.5,16.2
+2023,"Ramirez, Nick",79.1,CH,Changeup,6.5,16
+2023,"White, Brendan",83.1,ST,Sweeper,-3.7,13.3
+2023,"Bird, Jake",89.7,FC,Cutter,6.4,3.8
+2023,"Stephenson, Robert",84.8,SL,Slider,-1.2,3.9
+2023,"Garrett, Braxton",90.8,FF,4-Seam Fastball,15,7.5
+2023,"Bednar, David",91.6,FS,Split-Finger,4,7.3
+2023,"Voth, Austin",77.3,CU,Curveball,-9.5,16.5
+2023,"Hollowell, Gavin",94.1,SI,Sinker,4.1,15.6
+2023,"Francis, Bowden",74.3,CU,Curveball,-10.9,16.2
+2023,"Romero, JoJo",94.7,SI,Sinker,5.8,17
+2023,"Jameson, Drey",97,FF,4-Seam Fastball,15.7,6.7
+2023,"Stroman, Marcus",91.9,FF,4-Seam Fastball,15.2,6.7
+2023,"Foley, Jason",88.9,SL,Slider,1.8,3.6
+2023,"Phillips, Evan",96.3,FF,4-Seam Fastball,14.6,10.8
+2023,"Irvin, Cole",77.2,CU,Curveball,-5.2,15.2
+2023,"Williamson, Brandon",81.6,ST,Sweeper,2.2,14
+2023,"Assad, Javier",80.2,ST,Sweeper,0.3,14.3
+2023,"Stephenson, Robert",96.8,FF,4-Seam Fastball,16.8,11.6
+2023,"Waldron, Matt",76.6,KN,Knuckleball,-2.7,3.6
+2023,"Ramirez, Nick",79.2,ST,Sweeper,-1.5,16.7
+2023,"Avila, Pedro",77.4,CU,Curveball,-14.5,9.3
+2023,"Harvey, Hunter",89.5,FS,Split-Finger,2.5,10.4
+2023,"Williams, Trevor",76.7,CU,Curveball,-2.5,8.6
+2023,"Germán, Domingo",92.3,SI,Sinker,7.9,17.1
+2023,"Miller, Bryce",81.2,ST,Sweeper,-5.8,14.9
+2023,"Milner, Hoby",81.1,CH,Changeup,2.2,15.7
+2023,"Keuchel, Dallas",80.3,CH,Changeup,3.7,14.2
+2023,"Diekman, Jake",83.7,ST,Sweeper,3.3,12.4
+2023,"Wainwright, Adam",85.7,FF,4-Seam Fastball,14.8,1.8
+2023,"Silseth, Chase",81.6,ST,Sweeper,-8,13.9
+2023,"Brogdon, Connor",94.7,FF,4-Seam Fastball,16,11
+2023,"Houck, Tanner",93.9,FF,4-Seam Fastball,8.7,8.3
+2023,"Sheehan, Emmet",82.9,CH,Changeup,4.3,16.9
+2023,"Vásquez, Randy",94.4,FF,4-Seam Fastball,14.7,7.5
+2023,"Henry, Tommy",83.1,SL,Slider,6.1,5.3
+2023,"Pearson, Nate",87.4,SL,Slider,0,7.1
+2023,"Jameson, Drey",85.4,SL,Slider,0,8.8
+2023,"Musgrove, Joe",87.1,CH,Changeup,4.2,13
+2023,"Cabrera, Edward",96.1,SI,Sinker,10.8,15.3
+2023,"Syndergaard, Noah",89.5,FC,Cutter,9.4,1.4
+2023,"Montero, Rafael",88.3,SL,Slider,4.2,5.3
+2023,"Morton, Charlie",94.2,SI,Sinker,4.7,17.9
+2023,"Hill, Rich",69.4,ST,Sweeper,0.6,21.3
+2023,"Miller, Shelby",85.6,FS,Split-Finger,5.9,15.1
+2023,"Quantrill, Cal",86.1,CH,Changeup,8,12.8
+2023,"Peterson, David",78.6,CU,Curveball,-8.2,5
+2023,"Curry, Xzavion",75.1,CU,Curveball,-12,9.5
+2023,"Keller, Brad",85.1,CU,Curveball,-7.2,4.3
+2023,"May, Trevor",87.8,CH,Changeup,8.9,15.8
+2023,"Bradish, Kyle",90.8,CH,Changeup,7.6,12.5
+2023,"Wantz, Andrew",83.8,ST,Sweeper,5.8,12.1
+2023,"Wicks, Jordan",81.3,CH,Changeup,5.5,11.6
+2023,"Soroka, Michael",93.2,FF,4-Seam Fastball,14.7,6.3
+2023,"Lucchesi, Joey",77.9,CU,Curveball,-1.8,2.5
+2023,"Hand, Brad",92.7,SI,Sinker,8.1,15.3
+2023,"Chavez, Jesse",90.9,SI,Sinker,7.4,16.6
+2023,"Moore, Matt",84.3,CU,Curveball,-9.2,2.4
+2023,"Clevinger, Mike",84.9,FC,Cutter,1.2,4.5
+2023,"Mikolas, Miles",84.4,CH,Changeup,8.6,14
+2023,"Burke, Brock",87.3,SL,Slider,4.5,0
+2023,"Kirby, George",84.9,FS,Split-Finger,0.4,10.3
+2023,"Soto, Gregory",98.8,FF,4-Seam Fastball,14.1,11
+2023,"Urías, Julio",87.1,FC,Cutter,5.4,5.8
+2023,"Rodriguez, Eduardo",84.5,SL,Slider,1.3,2.2
+2023,"Darvish, Yu",89.2,FS,Split-Finger,4.6,6.9
+2023,"Medina, Luis",87.3,CH,Changeup,5.8,14.5
+2023,"Jackson, Andre",87.1,SL,Slider,4.3,3.8
+2023,"Wright, Kyle",92.7,SI,Sinker,4.5,14.6
+2023,"Rodriguez, Grayson",79.9,CU,Curveball,-12.7,9.1
+2023,"Holton, Tyler",81.8,ST,Sweeper,1.8,12.3
+2023,"Law, Derek",86.6,SL,Slider,-1,3.6
+2023,"García, Yimi",95.4,SI,Sinker,7.4,17.6
+2023,"Zerpa, Angel",86.2,SL,Slider,0.4,5.3
+2023,"Cueto, Johnny",92.2,SI,Sinker,9.8,17.4
+2023,"Davies, Zach",87.5,FC,Cutter,11.4,2.6
+2023,"Carrasco, Carlos",91.5,SI,Sinker,5.7,15.1
+2023,"Strzelecki, Peter",80.8,ST,Sweeper,3.3,18
+2023,"Buttó, José",85.5,CH,Changeup,2.8,10.4
+2023,"Fleming, Josh",76.5,CU,Curveball,1.1,14.7
+2023,"Neris, Héctor",92.9,SI,Sinker,12.5,15.8
+2023,"Lucchesi, Joey",90.4,FF,4-Seam Fastball,14.6,4.7
+2023,"Stroman, Marcus",86.6,FS,Split-Finger,1.7,13.8
+2023,"Brazobán, Huascar",96.6,FF,4-Seam Fastball,14.5,10.3
+2023,"Anderson, Grant",92.9,SI,Sinker,0.2,17.9
+2023,"Keuchel, Dallas",84.8,FC,Cutter,7.6,1.4
+2023,"Megill, Trevor",85.8,CU,Curveball,-9.8,5.9
+2023,"Uribe, Abner",89.4,SL,Slider,2,8.6
+2023,"Cueto, Johnny",84.1,CH,Changeup,4.6,12
+2023,"Banks, Tanner",86.3,CH,Changeup,5.8,11.5
+2023,"Wicks, Jordan",92.1,FF,4-Seam Fastball,15.7,4.6
+2023,"Kopech, Michael",88.7,CH,Changeup,7.6,14.6
+2023,"Honeywell, Brent",81.5,ST,Sweeper,4.7,12.3
+2023,"Suarez, José",82,CH,Changeup,5.8,13
+2023,"Lamet, Dinelson",94.9,SI,Sinker,11.7,12.2
+2023,"Chapman, Aroldis",101.1,SI,Sinker,15.5,12.4
+2023,"Senga, Kodai",80.8,ST,Sweeper,-3.1,12.3
+2023,"Ragans, Cole",86.6,SL,Slider,0.3,2
+2023,"Armstrong, Shawn",94.5,FF,4-Seam Fastball,16.6,6.4
+2023,"Bielak, Brandon",82,ST,Sweeper,-5.3,12
+2023,"Ruiz, José",96.2,SI,Sinker,11.3,13.2
+2023,"Singer, Brady",87.7,CH,Changeup,7.3,15.1
+2023,"Duarte, Daniel",94.2,SI,Sinker,9.5,16.8
+2023,"Soriano, José",98.9,FF,4-Seam Fastball,11.6,11.6
+2023,"Ryan, Joe",83.3,SL,Slider,3.2,1
+2023,"Priester, Quinn",92.7,FF,4-Seam Fastball,12.7,1.9
+2023,"Clarke, Taylor",89.1,CH,Changeup,6.3,15.2
+2023,"Martínez, Adrián",83.2,SL,Slider,1.9,1.7
+2023,"Zerpa, Angel",94.6,SI,Sinker,5.5,16.2
+2023,"Faucher, Calvin",91.1,FC,Cutter,4.7,4
+2023,"Walker, Taijuan",74.8,CU,Curveball,-11.2,7.8
+2023,"Rom, Drew",87.4,SI,Sinker,1.7,15.6
+2023,"Dodd, Dylan",81.8,SL,Slider,4.5,1.6
+2023,"Lambert, Peter",82.6,ST,Sweeper,-0.3,13.4
+2023,"Crawford, Kutter",82.4,FS,Split-Finger,6.2,8.5
+2023,"Senga, Kodai",84.6,SL,Slider,1.4,1.7
+2023,"Speier, Gabe",95.1,FF,4-Seam Fastball,15.3,9.8
+2023,"Pfaadt, Brandon",93.1,SI,Sinker,7.2,15.5
+2023,"Fried, Max",93.5,SI,Sinker,10.6,9.8
+2023,"Muñoz, Andrés",98.4,SI,Sinker,2.9,17.3
+2023,"Murphy, Chris",75.8,CU,Curveball,-14,14.2
+2023,"Rea, Colin",78.8,CU,Curveball,-11.1,9.1
+2023,"Covey, Dylan",87.7,SL,Slider,1,4.6
+2023,"Miller, Bryce",95.1,SI,Sinker,12.3,14.1
+2023,"Rom, Drew",79.4,ST,Sweeper,-2,12.9
+2023,"Mantiply, Joe",80.3,CU,Curveball,-2.8,8.2
+2023,"Herget, Jimmy",85.2,SL,Slider,4.8,1.7
+2023,"Winn, Keaton",96,FF,4-Seam Fastball,14.3,10.7
+2023,"Castro, Miguel",91.4,CH,Changeup,2,16.8
+2023,"Kluber, Corey",82.1,CH,Changeup,3.6,14.5
+2023,"López, Jorge",88.5,SL,Slider,2.2,5.3
+2023,"Stanek, Ryne",89.2,FS,Split-Finger,5.2,12.1
+2023,"Shreve, Chasen",83,ST,Sweeper,2.2,5
+2023,"Ryu, Hyun Jin",85.1,FC,Cutter,8.5,0.4
+2023,"Houser, Adrian",79.4,CU,Curveball,-11.7,7.7
+2023,"Gray, Josiah",81.9,ST,Sweeper,1.8,9
+2023,"Greinke, Zack",85.2,FC,Cutter,4.2,6.9
+2023,"Leclerc, José",90.2,FC,Cutter,6.5,4.7
+2023,"Harrison, Kyle",82.2,SV,Slurve,-4.6,9.8
+2023,"Shaw, Bryan",83.5,ST,Sweeper,1.2,14.4
+2023,"Ober, Bailey",77.5,CU,Curveball,-9.4,8.8
+2023,"Oviedo, Johan",95.7,SI,Sinker,9,15.2
+2023,"Wilson, Bryse",79.6,CU,Curveball,-4.8,16.7
+2023,"Hoffman, Jeff",90.5,FS,Split-Finger,5.4,15.4
+2023,"Erceg, Lucas",86.2,SL,Slider,-1.1,0.5
+2023,"Kelly, Merrill",85.4,SL,Slider,3.2,1.6
+2023,"Waldron, Matt",91.3,SI,Sinker,8.4,16.1
+2023,"Criswell, Cooper",76.2,ST,Sweeper,4.1,20.1
+2023,"Bello, Brayan",85.9,ST,Sweeper,-2.1,7.9
+2023,"Ottavino, Adam",87.8,FC,Cutter,4.8,5.7
+2023,"Hentges, Sam",95.3,SI,Sinker,11.2,11.8
+2023,"Kaprielian, James",91.9,SI,Sinker,9,16.8
+2023,"López, Jorge",96.9,FF,4-Seam Fastball,14.1,11.6
+2023,"Bielak, Brandon",79.5,CU,Curveball,-15.1,5.8
+2023,"Romero, JoJo",85.9,CH,Changeup,4.6,15.3
+2023,"Perdomo, Angel",83.9,SL,Slider,4.6,6.2
+2023,"Pallante, Andre",76.9,CU,Curveball,-19.8,5.9
+2023,"Wesneski, Hayden",88.6,FC,Cutter,3.6,5.1
+2023,"Faucher, Calvin",87.2,ST,Sweeper,-0.6,10.8
+2023,"Stanek, Ryne",88.6,SL,Slider,-0.4,2.6
+2023,"DeSclafani, Anthony",86.4,CH,Changeup,3.5,15.5
+2023,"Gray, Jon",83.3,ST,Sweeper,4.3,11.5
+2023,"González, Victor",86.1,SL,Slider,2.3,1.1
+2023,"Banks, Tanner",80.9,ST,Sweeper,4.8,13.1
+2023,"Lorenzen, Michael",83,ST,Sweeper,-0.1,10.6
+2023,"Brito, Jhony",80.4,CU,Curveball,-3.2,7
+2023,"Duarte, Daniel",95.6,FF,4-Seam Fastball,16,8
+2023,"Lynch IV, Daniel",87.6,SL,Slider,6,2.1
+2023,"Stone, Gavin",94,FF,4-Seam Fastball,16.1,8
+2023,"Pérez, Eury",89.7,CH,Changeup,10.4,14.1
+2023,"Abreu, Albert",88.3,CH,Changeup,10,16.8
+2023,"Coulombe, Danny",91.1,SI,Sinker,12.1,10.1
+2023,"Ferrer, Jose A.",95.8,FF,4-Seam Fastball,10.2,14.9
+2023,"Eflin, Zach",93.1,FF,4-Seam Fastball,14.3,7.6
+2023,"Brieske, Beau",88.8,CH,Changeup,5.9,16
+2023,"Kowar, Jackson",86,SL,Slider,-1.1,2
+2023,"Miller, Mason",86,SL,Slider,-1.7,8.3
+2023,"Wells, Tyler",74.1,CU,Curveball,-12.8,10.5
+2023,"Gray, Jon",78.2,CU,Curveball,-8.8,12.2
+2023,"Minter, A.J.",86.7,CH,Changeup,5.1,15.3
+2023,"Silseth, Chase",87.2,FS,Split-Finger,3.3,5.3
+2023,"Cortes, Nestor",76.2,ST,Sweeper,1.9,17
+2023,"Faucher, Calvin",95,FF,4-Seam Fastball,17.7,6.7
+2023,"Raley, Brooks",84.8,CH,Changeup,1.2,17.1
+2023,"Winans, Allan",82.9,CH,Changeup,2.3,14.7
+2023,"Skubal, Tarik",95.8,SI,Sinker,11.2,14.9
+2023,"Holton, Tyler",91.2,SI,Sinker,10.4,14.9
+2023,"Loup, Aaron",79.7,CH,Changeup,-2,17.4
+2023,"Vásquez, Randy",94.2,SI,Sinker,11.6,15.1
+2023,"Coulombe, Danny",82,ST,Sweeper,-6.9,11.5
+2023,"Cabrera, Edward",88.2,SL,Slider,1.7,2.7
+2023,"Diekman, Jake",87.9,CH,Changeup,4.7,16.2
+2023,"Maeda, Kenta",80.3,ST,Sweeper,1.3,13.7
+2023,"Stripling, Ross",75.9,CU,Curveball,-12.3,6.1
+2023,"Lamet, Dinelson",94.8,FF,4-Seam Fastball,12.4,5.5
+2023,"Varland, Louis",83.8,ST,Sweeper,-0.7,10.2
+2023,"Cordero, Jimmy",86.8,SL,Slider,-0.3,7.2
+2023,"Ryu, Hyun Jin",68.9,CU,Curveball,-13.9,13.3
+2023,"Garcia, Robert",88.1,CH,Changeup,1,14.6
+2023,"Waldron, Matt",91.3,FF,4-Seam Fastball,15.3,7.7
+2023,"Ottavino, Adam",87.6,CH,Changeup,1.4,12.9
+2023,"Jackson, Luke",94.4,FF,4-Seam Fastball,17.3,5
+2023,"Feltner, Ryan",94.3,SI,Sinker,7.2,13.7
+2023,"Crawford, Kutter",82.2,ST,Sweeper,3.3,12.5
+2023,"Lively, Ben",84.4,CH,Changeup,7.1,15.4
+2023,"Detmers, Reid",84.8,CH,Changeup,8,12.7
+2023,"Hernández, Carlos",89,FS,Split-Finger,8.8,10.7
+2023,"Foley, Jason",91.6,CH,Changeup,3.7,15.3
+2023,"Adon, Joan",88.1,CH,Changeup,4.6,15.9
+2023,"Soroka, Michael",83.2,SL,Slider,-3,4.9
+2023,"Brito, Jhony",82.4,ST,Sweeper,-1.2,13.9
+2023,"Winder, Josh",89,CH,Changeup,4.6,11.9
+2023,"Carrasco, Carlos",80,CU,Curveball,-6,9.2
+2023,"Cabrera, Génesis",95.3,SI,Sinker,12.5,15.1
+2023,"Faedo, Alex",85.9,CH,Changeup,6.4,16.8
+2023,"Mantiply, Joe",81.9,CH,Changeup,-3.5,15.4
+2023,"Junis, Jakob",87.1,CH,Changeup,2.6,12.2
+2023,"Payamps, Joel",89.1,CH,Changeup,2.3,15.2
+2023,"Winder, Josh",94.5,FF,4-Seam Fastball,15.4,8.2
+2023,"Palencia, Daniel",89.6,SL,Slider,3.1,3.4
+2023,"Ohtani, Shohei",94.4,SI,Sinker,5.7,14.7
+2023,"Cano, Yennier",87.5,SL,Slider,0.4,6.4
+2023,"Zerpa, Angel",86.9,CH,Changeup,7,12.5
+2023,"Ward, Thaddeus",87.6,FC,Cutter,4.9,2.7
+2023,"Mlodzinski, Carmen",84,ST,Sweeper,-2.5,14.5
+2023,"Brasier, Ryan",96.1,SI,Sinker,11.7,15
+2023,"Anderson, Tyler",88.5,SI,Sinker,7,17.8
+2023,"Jax, Griffin",96.5,SI,Sinker,11.4,14.5
+2023,"Winans, Allan",89.6,SI,Sinker,7.2,16.4
+2023,"Littell, Zack",92.9,SI,Sinker,13,15
+2023,"Liberatore, Matthew",86.7,SL,Slider,0.6,3.9
+2023,"Iglesias, Raisel",84.6,SL,Slider,4.9,8.9
+2023,"Harvey, Hunter",86.6,SL,Slider,0.3,2.6
+2023,"Barlow, Scott",82.7,ST,Sweeper,5.9,13.2
+2023,"Brogdon, Connor",87.5,FC,Cutter,10.8,3.8
+2023,"Contreras, Roansy",76.8,CU,Curveball,-13.3,10.1
+2023,"Ferrer, Jose A.",85.4,CH,Changeup,4.5,17.5
+2023,"Crawford, Kutter",82.9,SL,Slider,4.8,6.1
+2023,"Edwards Jr., Carl",89.9,CH,Changeup,9.1,12.8
+2023,"Lugo, Seth",86.3,CH,Changeup,5.5,10.2
+2023,"Marsh, Alec",87.3,SL,Slider,3.3,0.2
+2023,"Winans, Allan",78.8,ST,Sweeper,-3.6,13.4
+2023,"Eflin, Zach",86.4,CH,Changeup,4.7,15.8
+2023,"VerHagen, Drew",88.2,FC,Cutter,1.9,5.5
+2023,"Pagán, Emilio",85.9,FS,Split-Finger,8.5,13.5
+2023,"Leclerc, José",88.3,CH,Changeup,12.4,13
+2023,"Bradford, Cody",86.6,FC,Cutter,5.7,0.4
+2023,"García, Luis",96.9,FF,4-Seam Fastball,12.8,7.7
+2023,"Martinez, Seth",90.2,SI,Sinker,1.9,14.2
+2023,"Stripling, Ross",90.4,SI,Sinker,12.6,12.2
+2023,"Pivetta, Nick",84.2,ST,Sweeper,4.8,14.1
+2023,"Woo, Bryan",83.2,ST,Sweeper,5.8,13.7
+2023,"Almonte, Yency",96,FF,4-Seam Fastball,14.7,8.5
+2023,"Cobb, Alex",86.2,SL,Slider,-3.3,11
+2023,"Teheran, Julio",83.4,CH,Changeup,3.1,16.2
+2023,"Brigham, Jeff",89.9,FC,Cutter,10.8,0
+2023,"Urquidy, José",79.6,CU,Curveball,-12.2,9
+2023,"Strzelecki, Peter",91.1,SI,Sinker,4.3,16.5
+2023,"Strahm, Matt",87.7,FC,Cutter,8.9,1.8
+2023,"Iglesias, Raisel",94.7,SI,Sinker,8.7,16.5
+2023,"Silseth, Chase",94.3,SI,Sinker,9.2,12.9
+2023,"Cabrera, Génesis",79.5,CU,Curveball,-7,8.8
+2023,"Garcia, Robert",83.9,SL,Slider,-0.5,5.3
+2023,"Rucker, Michael",85.9,SL,Slider,-2.7,3.8
+2023,"Hentges, Sam",87.8,SL,Slider,2.6,3.3
+2023,"Romero, JoJo",84.3,SL,Slider,2.6,10
+2023,"Brieske, Beau",95.9,SI,Sinker,14.1,13.8
+2023,"Gaddis, Hunter",81.2,CH,Changeup,12.2,15
+2023,"Teheran, Julio",77.4,CU,Curveball,0.3,9.4
+2023,"Turnbull, Spencer",83.8,SL,Slider,-1.5,8
+2023,"Varland, Louis",85.9,CH,Changeup,6.7,14.3
+2023,"Martinez, Seth",86.2,CH,Changeup,0.1,15.4
+2023,"Soroka, Michael",92.4,SI,Sinker,10.4,14.9
+2023,"Nelson, Ryne",76.4,CU,Curveball,-11.1,6.5
+2023,"Williamson, Brandon",73.1,CU,Curveball,-14.2,11.8
+2023,"Suter, Brent",76.7,SL,Slider,-3.5,5.4
+2023,"Pruitt, Austin",81.2,CU,Curveball,-10.6,7.7
+2023,"Brasier, Ryan",92,FC,Cutter,10.7,3.2
+2023,"Kelly, Joe",89.4,CU,Curveball,-8.3,5
+2023,"Ohtani, Shohei",88.2,FS,Split-Finger,3.7,7.6
+2023,"Cisnero, José",89,FC,Cutter,6,3
+2023,"Muller, Kyle",88,CH,Changeup,6.4,12.8
+2023,"Winans, Allan",90,FF,4-Seam Fastball,13.8,9.9
+2023,"Hicks, Jordan",100.3,FF,4-Seam Fastball,16,6.5
+2023,"Kahnle, Tommy",95.3,FF,4-Seam Fastball,15.3,5.7
+2023,"Suárez, Andrew",84.5,SL,Slider,-1.8,4
+2023,"VerHagen, Drew",88.5,CH,Changeup,5.2,6.8
+2023,"Kauffmann, Karl",85,CH,Changeup,1.8,10
+2023,"Flexen, Chris",81.5,SL,Slider,-5.1,3
+2023,"Harris, Hogan",77,ST,Sweeper,-9.7,10.6
+2023,"Pruitt, Austin",91.3,SI,Sinker,10.9,11.7
+2023,"Adon, Joan",94.2,SI,Sinker,10.6,15.2
+2023,"Alexander, Tyler",82.7,CH,Changeup,7.7,13.4
+2023,"García, Yimi",89.9,SL,Slider,6.7,3.2
+2023,"Bummer, Aaron",87.2,FC,Cutter,0.8,3
+2023,"Ginkel, Kevin",94.8,SI,Sinker,10.7,16
+2023,"Strzelecki, Peter",83.8,CH,Changeup,-1.6,16.8
+2023,"Lange, Alex",89.5,CH,Changeup,2.5,15.4
+2023,"Maeda, Kenta",90.3,SI,Sinker,9.4,13.9
+2023,"Civale, Aaron",82.5,SL,Slider,2,11.5
+2023,"Feltner, Ryan",84.1,CH,Changeup,4.4,6.6
+2023,"Peralta, Wandy",88.7,SL,Slider,5.3,0.6
+2023,"Hernández, Carlos",84.1,CU,Curveball,-4.5,2.8
+2023,"Floro, Dylan",85.6,CH,Changeup,1.2,16.5
+2023,"Ryu, Hyun Jin",87.7,SI,Sinker,9.6,15.4
+2023,"Voth, Austin",82.7,ST,Sweeper,3.9,13.5
+2023,"Wicks, Jordan",91.3,SI,Sinker,10,13.8
+2023,"McGough, Scott",86.7,SL,Slider,2.8,5.5
+2023,"Paxton, James",84.4,CH,Changeup,6.2,14.9
+2023,"Priester, Quinn",80.6,CU,Curveball,-11,5.6
+2023,"Baker, Bryan",79.8,CH,Changeup,11.2,13.5
+2023,"Stroman, Marcus",86.1,SL,Slider,-4.5,4.6
+2023,"Duarte, Daniel",91.4,FC,Cutter,9.5,4.2
+2023,"Anderson, Chase",80.5,ST,Sweeper,-1.4,13.6
+2023,"Hartwig, Grant",93.3,FC,Cutter,7.4,4.3
+2023,"Law, Derek",95.1,SI,Sinker,12.6,12.7
+2023,"Rea, Colin",86,FS,Split-Finger,5.9,14.6
+2023,"Cox, Austin",86.7,FC,Cutter,3.9,4.5
+2023,"López, Jorge",88.9,CH,Changeup,3.8,15.7
+2023,"Ureña, José",95.6,FF,4-Seam Fastball,13.5,10.5
+2023,"Pérez, Martín",91.6,FF,4-Seam Fastball,14.8,11.6
+2023,"Vásquez, Randy",87.7,FC,Cutter,4.9,3.7
+2023,"Irvin, Jake",87.8,CH,Changeup,7.1,15.9
+2023,"Alexander, Scott",83,SL,Slider,-4,3.8
+2023,"Buttó, José",86.2,SL,Slider,3.8,2.6
+2023,"Miller, Bryce",85,CH,Changeup,8.4,15.7
+2023,"Saucedo, Tayler",82.6,SL,Slider,-1.7,6.1
+2023,"Brash, Matt",85.8,CU,Curveball,-5.4,13.6
+2023,"Urquidy, José",93.7,SI,Sinker,13.6,14.8
+2023,"Martin, Chris",94.9,SI,Sinker,10,15.1
+2023,"Keller, Brad",90.8,CH,Changeup,3.8,9.4
+2023,"Waldron, Matt",79.8,ST,Sweeper,3.8,15.4
+2023,"Shaw, Bryan",81.7,CU,Curveball,-13.2,7.2
+2023,"Kelly, Joe",99,FF,4-Seam Fastball,13.5,12.3
+2023,"Lambert, Jimmy",76.1,CU,Curveball,-18.3,5.8
+2023,"Ruiz, José",89.6,CH,Changeup,9.5,14.8
+2023,"Borucki, Ryan",94,SI,Sinker,7.4,17.3
+2023,"May, Dustin",92.9,FC,Cutter,7.5,0.3
+2023,"Miller, Shelby",82.1,ST,Sweeper,2.5,14.4
+2023,"Turnbull, Spencer",93.4,SI,Sinker,6.9,14
+2023,"Kauffmann, Karl",90.3,FF,4-Seam Fastball,13.3,7.6
+2023,"Fulmer, Michael",94.9,SI,Sinker,10.1,13.3
+2023,"Kelly, Kevin",86.9,FC,Cutter,7.4,1.2
+2023,"Pearson, Nate",80.4,CU,Curveball,-11.9,12
+2023,"Lauer, Eric",75.3,CU,Curveball,-7.3,6.5
+2023,"Duarte, Daniel",83.5,SL,Slider,3.8,14.5
+2023,"Anderson, Grant",93,FF,4-Seam Fastball,11.5,12.6
+2023,"Adon, Joan",87.3,SL,Slider,6,3.3
+2023,"Beck, Tristan",79.2,CU,Curveball,-15.5,8.5
+2023,"Sale, Chris",93.2,SI,Sinker,3.3,19.9
+2023,"Brieske, Beau",87.3,SL,Slider,2.9,4.2
+2023,"Woodruff, Brandon",86.8,SL,Slider,3.7,3.2
+2023,"Machado, Andrés",88.4,SL,Slider,5.3,4.3
+2023,"Hoeing, Bryan",93.9,FF,4-Seam Fastball,12.1,12.5
+2023,"Burke, Brock",88.2,CH,Changeup,6.9,15.5
+2023,"Teheran, Julio",89.2,FF,4-Seam Fastball,12,8.3
+2023,"Rasmussen, Drew",84.5,ST,Sweeper,-3.4,14.7
+2023,"Olson, Reese",78.8,CU,Curveball,-15.2,11.6
+2023,"Dodd, Dylan",82.9,CH,Changeup,10.3,11.2
+2023,"Smith, Drew",85.4,CH,Changeup,9.9,14.5
+2023,"Graveman, Kendall",88.4,CH,Changeup,5.6,14.2
+2023,"Law, Derek",78.7,CU,Curveball,-7.2,1
+2023,"Davis, Noah",88.4,FC,Cutter,7.2,1.3
+2023,"Marinaccio, Ron",81.4,ST,Sweeper,5.5,10.8
+2023,"Soriano, José",95.6,FS,Split-Finger,2,14.9
+2023,"Bird, Jake",86.3,SL,Slider,2.2,6.6
+2023,"Littell, Zack",80.5,ST,Sweeper,-1.9,13
+2023,"Herget, Jimmy",91.7,SI,Sinker,-0.5,17.7
+2023,"Criswell, Cooper",84,FC,Cutter,6.7,1.8
+2023,"Graterol, Brusdar",98.3,FF,4-Seam Fastball,13.1,7.9
+2023,"Gibaut, Ian",86,CH,Changeup,6,15.9
+2023,"Kauffmann, Karl",83.8,SL,Slider,2.5,4
+2023,"Holmes, Clay",83.9,ST,Sweeper,-3.7,16.2
+2023,"Phillips, Evan",95.6,SI,Sinker,7.1,16.6
+2023,"Soroka, Michael",82,CH,Changeup,13.8,15.7
+2023,"Shaw, Bryan",93.9,SI,Sinker,6.9,12
+2023,"Soriano, José",97.7,SI,Sinker,7.1,16.6
+2023,"Cisnero, José",88.8,CH,Changeup,0.4,12.3
+2023,"Saucedo, Tayler",82.6,ST,Sweeper,4.3,9.4
+2023,"Stratton, Chris",86.8,CH,Changeup,2.7,13.1
+2023,"Pepiot, Ryan",88.8,SL,Slider,7.1,6.2
+2023,"Long, Sam",84.8,SL,Slider,0.9,0.9
+2023,"Marsh, Alec",94.1,SI,Sinker,7.1,16.9
+2023,"Vest, Will",87.3,CH,Changeup,4,15.4
+2023,"Leiter Jr., Mark",73.4,CU,Curveball,-17,8.6
+2023,"Syndergaard, Noah",85,SL,Slider,3,4.3
+2023,"May, Dustin",86.8,SL,Slider,-0.5,13.3
+2023,"Suárez, Andrew",83.6,CH,Changeup,12.5,14.1
+2023,"Barlow, Scott",93.2,SI,Sinker,8.3,14.1
+2023,"De Los Santos, Enyel",87.8,CH,Changeup,7.3,17
+2023,"Hernandez, Jose E.",88.7,CH,Changeup,10.9,12.7
+2023,"Davidson, Tucker",79.6,ST,Sweeper,-2.9,17.1
+2023,"Davies, Zach",77.1,CU,Curveball,-9.5,9.3
+2023,"Bido, Osvaldo",89.1,CH,Changeup,9.9,15.9
+2023,"Jax, Griffin",91.1,CH,Changeup,4.8,14.3
+2023,"Merryweather, Julian",81.5,CH,Changeup,9.7,11.4
+2023,"Woodford, Jake",76.3,CU,Curveball,-14.1,10.9
+2023,"Stone, Gavin",90.5,FC,Cutter,8.2,2.9
+2023,"Smith, Drew",76.7,CU,Curveball,-8.8,14.9
+2023,"Priester, Quinn",89.2,CH,Changeup,5.2,13.9
+2023,"Lodolo, Nick",93.4,SI,Sinker,8.8,18.8
+2023,"Leiter Jr., Mark",91.1,FF,4-Seam Fastball,16.4,7
+2023,"Pressly, Ryan",89.9,CH,Changeup,4.2,13.1
+2023,"Mlodzinski, Carmen",89.4,CH,Changeup,0.8,17.1
+2023,"Lively, Ben",76.3,CU,Curveball,-5.8,9.4
+2023,"Keller, Brad",92.5,SI,Sinker,6.3,10.2
+2023,"Bard, Daniel",94.6,FF,4-Seam Fastball,8.1,4.6
+2023,"Wright, Kyle",93.2,FF,4-Seam Fastball,10.2,9
+2023,"Pfaadt, Brandon",78.8,CU,Curveball,-7.7,13.2
+2023,"Coulombe, Danny",80.1,CU,Curveball,-19.9,4.8
+2023,"Jameson, Drey",89.1,CH,Changeup,1.4,15
+2023,"Waldron, Matt",86.7,FC,Cutter,8.5,3
+2023,"Cox, Austin",77.8,CU,Curveball,-11.9,3.2
+2023,"Davis, Noah",83.8,SL,Slider,6,4.6
+2023,"Cox, Austin",82.9,CH,Changeup,10.9,9.5
+2023,"Kaprielian, James",83.2,CH,Changeup,2.5,10.4
+2023,"Johnson, Pierce",88.1,SL,Slider,0.2,7.6
+2023,"Winn, Keaton",95.5,SI,Sinker,8.2,14.8
+2023,"Boyd, Matthew",73.8,CU,Curveball,-9.8,17.2
+2023,"Falter, Bailey",90.7,SI,Sinker,16.7,7.9
+2023,"Romero, JoJo",95.1,FF,4-Seam Fastball,13,8.6
+2023,"Jansen, Kenley",84.1,SL,Slider,-3.8,7.2
+2023,"Fujinami, Shintaro",84.3,ST,Sweeper,2.8,11
+2023,"Assad, Javier",76.5,CU,Curveball,-9.4,9.4
+2023,"Liberatore, Matthew",87.2,CH,Changeup,10.7,12.2
+2023,"Devenski, Chris",81.8,SL,Slider,-0.1,5.4
+2023,"Moreta, Dauri",85.8,CH,Changeup,12.6,13.5
+2023,"Vásquez, Randy",80.9,ST,Sweeper,2.7,14.5
+2023,"Keuchel, Dallas",78.3,SL,Slider,1.2,8.2
+2023,"Suarez, José",78,ST,Sweeper,2.9,13.1
+2023,"Rasmussen, Drew",95.1,SI,Sinker,14.2,13.3
+2023,"Nogosek, Stephen",78.8,ST,Sweeper,2.7,16.7
+2023,"Skubal, Tarik",76.4,CU,Curveball,-11,7.1
+2023,"Suarez, José",85.1,SL,Slider,5.6,4.8
+2023,"García, Luis",88.2,FS,Split-Finger,5.4,10.8
+2023,"Cuas, Jose",82.8,ST,Sweeper,-0.4,6.9
+2023,"Musgrove, Joe",92.8,SI,Sinker,6.3,10.5
+2023,"Blanco, Ronel",85.5,CH,Changeup,6.8,13
+2023,"Velasquez, Vince",88.6,CH,Changeup,6.5,11.7
+2023,"Blach, Ty",78.9,CU,Curveball,-4,3.2
+2023,"Stephenson, Robert",88.8,FS,Split-Finger,9,12.4
+2023,"Lodolo, Nick",87.3,CH,Changeup,2.3,18.8
+2023,"Mlodzinski, Carmen",91.9,FC,Cutter,6.5,0.9
+2023,"Alzolay, Adbert",91.2,FC,Cutter,8.4,3.5
+2023,"Stone, Gavin",94.6,SI,Sinker,12.1,14.4
+2023,"Beeks, Jalen",85.6,FC,Cutter,4.6,2.5
+2023,"García, Yimi",88.5,CH,Changeup,4.9,18.4
+2023,"Vásquez, Randy",87.8,CH,Changeup,4.5,18.2
+2023,"Fried, Max",85,SL,Slider,2.3,5.1
+2023,"DeSclafani, Anthony",82.2,CU,Curveball,-5.4,9.7
+2023,"Woodruff, Brandon",82.9,CU,Curveball,-6.8,2
+2023,"Chavez, Jesse",84.8,CH,Changeup,2.1,15.9
+2023,"Ramírez, Erasmo",80,CU,Curveball,-3.4,6.2
+2023,"Jansen, Kenley",95.2,SI,Sinker,17.7,9.2
+2023,"Boyd, Matthew",90.7,SI,Sinker,7.4,16.5
+2023,"Martin, Chris",88.2,FS,Split-Finger,1.5,10.5
+2023,"Francis, Bowden",85,SL,Slider,3.3,5.3
+2023,"Williams, Gavin",88.4,CH,Changeup,8.9,15.8
+2023,"Grove, Michael",89.3,FC,Cutter,6.9,4.5
+2023,"Kelly, Joe",89.2,CH,Changeup,6.5,18.1
+2023,"Thompson, Mason",80.5,CU,Curveball,-11.8,12
+2023,"Alexander, Tyler",89.8,SI,Sinker,12.4,15.6
+2023,"Silseth, Chase",90.3,FC,Cutter,7,2.7
+2023,"Voth, Austin",89,FC,Cutter,7.1,3
+2023,"Blach, Ty",90.2,FF,4-Seam Fastball,7.6,12.7
+2023,"Miller, Mason",94.4,FC,Cutter,8.1,1.9
+2023,"Honeywell, Brent",80.2,SC,Screwball,-4.5,9
+2023,"Rucker, Michael",80.8,CU,Curveball,-9.5,14.3
+2023,"Ramírez, Erasmo",84.3,CH,Changeup,6.9,13.8
+2023,"Weems, Jordan",89.2,FS,Split-Finger,7.5,12.1
+2023,"Fulmer, Michael",89.9,CH,Changeup,4,11.9
+2023,"Rodón, Carlos",79.7,CU,Curveball,-11.8,6.7
+2023,"Borucki, Ryan",82.4,ST,Sweeper,1.5,12.2
+2023,"May, Trevor",81.5,ST,Sweeper,-2,16.1
+2023,"Criswell, Cooper",83.5,CH,Changeup,-4.7,14.5
+2023,"Winckowski, Josh",92.7,CH,Changeup,3.4,16.4
+2023,"Coulombe, Danny",91.4,FF,4-Seam Fastball,15.1,1.1
+2023,"Bummer, Aaron",94.6,FF,4-Seam Fastball,10.9,11
+2023,"Topa, Justin",86.8,CH,Changeup,-1.5,17.9
+2023,"Nogosek, Stephen",88.3,FC,Cutter,7.8,3.5
+2023,"Harvey, Hunter",83.1,CU,Curveball,-11.4,7.3
+2023,"Chapman, Aroldis",90.5,FS,Split-Finger,2.6,2.7
+2023,"Gonzales, Marco",85.9,FC,Cutter,9.8,1.7
+2023,"Gonzales, Marco",88.7,SI,Sinker,14.4,14.3
+2023,"Estévez, Carlos",89.5,CH,Changeup,9.2,11.6
+2023,"Winckowski, Josh",96,FF,4-Seam Fastball,15.2,3.3
+2023,"Edwards Jr., Carl",79.5,CU,Curveball,-12,7.5
+2023,"Vásquez, Randy",79.7,CU,Curveball,-3.1,15.9
+2023,"Lauer, Eric",82.6,SL,Slider,1.6,3.7
+2023,"Hudson, Dakota",81.3,CU,Curveball,-4.4,8.4
+2023,"Gott, Trevor",80.7,CU,Curveball,-9.4,9.8
+2023,"Smith, Will",77,CU,Curveball,-9.2,8.4
+2023,"Feltner, Ryan",79.7,CU,Curveball,-5.5,10.5
+2023,"Lynch IV, Daniel",80.7,CU,Curveball,-0.7,7.4
+2023,"Lambert, Jimmy",85.5,CH,Changeup,7.1,14.7
+2023,"Kuhl, Chad",78.8,CU,Curveball,-10.7,9.7
+2023,"Barria, Jaime",92.3,SI,Sinker,16.5,11
+2023,"Nelson, Kyle",88.1,FC,Cutter,7,2.7
+2023,"Kaprielian, James",75.9,CU,Curveball,-8.9,9.2
+2023,"Jiménez, Joe",89.8,CH,Changeup,8.4,15.9
+2023,"Jackson, Andre",81.5,CU,Curveball,-15.8,6.5
+2023,"Herrin, Tim",83.6,CU,Curveball,-3.3,11.3
+2023,"López, Reynaldo",88.5,CH,Changeup,10.6,12.6
+2023,"Schreiber, John",88.1,CH,Changeup,-4.3,13.9
+2023,"Englert, Mason",81,SV,Slurve,-5.2,2.6
+2023,"Kauffmann, Karl",88.2,FC,Cutter,9.4,0.2
+2023,"Harrison, Kyle",86.6,CH,Changeup,3.9,17.6
+2023,"Whitlock, Garrett",94.1,FF,4-Seam Fastball,13.6,13.8
+2023,"Davidson, Tucker",82.6,FS,Split-Finger,5.1,7.4
+2023,"Sims, Lucas",78.1,CU,Curveball,-12.9,14.1
+2023,"Abreu, Albert",96.8,FF,4-Seam Fastball,15.2,11.4
+2023,"Thompson, Mason",94.6,FF,4-Seam Fastball,15.3,8.8
+2023,"Vasquez, Andrew",89.1,FF,4-Seam Fastball,12.2,9.7
+2023,"Frías, Luis",83.8,SL,Slider,-4.9,4.2
+2023,"Turnbull, Spencer",87.5,CH,Changeup,0.4,18.5
+2023,"Rosenberg, Kenny",83.7,FC,Cutter,0.9,2.9
+2023,"Kuhl, Chad",93.2,SI,Sinker,12.3,15.1
+2023,"Hoffman, Jeff",96.9,SI,Sinker,14.8,14.1
+2023,"Borucki, Ryan",84.6,CH,Changeup,7.4,14.7
+2023,"Armstrong, Shawn",85.2,SV,Slurve,-1.4,11.3
+2023,"Battenfield, Peyton",79.7,CU,Curveball,-8,2.8
+2023,"Alexander, Scott",85.9,CH,Changeup,3.2,10.9
+2023,"Wicks, Jordan",89,FC,Cutter,7.5,0.9
+2023,"Pérez, Cionel",83.4,CU,Curveball,-13.8,9.9
+2023,"Alexander, Tyler",81.3,SL,Slider,-1.4,5.3
+2023,"Ottavino, Adam",93.2,FF,4-Seam Fastball,13.4,7.6
+2023,"Suárez, Andrew",74.5,CU,Curveball,-10.2,9.9
+2023,"Woodford, Jake",92.5,FF,4-Seam Fastball,13.9,5.7
+2023,"Murphy, Chris",84.9,CH,Changeup,8.3,14.2
+2023,"Davis, Noah",84.7,CH,Changeup,4,15.9
+2023,"May, Dustin",85.3,ST,Sweeper,-7.1,16.5
+2023,"Morán, Jovani",81.8,SL,Slider,3.6,8.7
+2023,"Hernández, Jonathan",90,CH,Changeup,5,19.2
+2023,"Rom, Drew",83.6,FS,Split-Finger,3.4,6.5
+2023,"Winder, Josh",80,CU,Curveball,-9.5,4.7
+2023,"Ramírez, Erasmo",81.3,SL,Slider,4.8,3.6
+2023,"Almonte, Yency",88.9,CH,Changeup,4.8,17.1
+2023,"Faucher, Calvin",84.6,CU,Curveball,-14,6.6
+2023,"Burke, Brock",92.9,SI,Sinker,8.8,15.5
+2023,"Woodford, Jake",89.8,FC,Cutter,8.1,0.9
+2023,"Koch, Matt",82.4,SL,Slider,-0.1,10.1
+2023,"Rasmussen, Drew",80,CU,Curveball,-15.6,4.6
+2023,"Wicks, Jordan",78.2,CU,Curveball,-13.1,7.2
+2023,"White, Brendan",93,SI,Sinker,3.2,10.3
+2023,"Abbott, Cory",87,SL,Slider,4.4,8.9
+2023,"Pruitt, Austin",87.1,CH,Changeup,7.5,12.6
+2023,"Devenski, Chris",79.1,ST,Sweeper,-0.8,13
+2023,"Gaddis, Hunter",75.5,CU,Curveball,-13.5,10.6
+2023,"Anderson, Nick",94.8,SI,Sinker,17.3,9.1
+2023,"Davis, Noah",78.4,CU,Curveball,-8.3,14.4
+2023,"Saucedo, Tayler",77.1,CU,Curveball,-9,11.9
+2023,"Miller, Mason",91.3,CH,Changeup,7,8.5
+2023,"Marte, Yunior",98.4,FF,4-Seam Fastball,12.4,12.3
+2023,"Mantiply, Joe",89.9,FF,4-Seam Fastball,10.1,13.6
+2023,"Vasquez, Andrew",76.1,CU,Curveball,6.4,18.1
+2023,"King, John",85.1,SL,Slider,-1,0.8
+2023,"Helsley, Ryan",82.1,CU,Curveball,-9.5,4.2
+2023,"Long, Sam",87,FS,Split-Finger,7.4,11.4
+2023,"Suarez, José",91.1,SI,Sinker,12.2,14.6
+2023,"Wantz, Andrew",87.7,CH,Changeup,2.7,12.7
+2023,"Buttó, José",92.7,SI,Sinker,11.1,15.3
+2023,"Buttó, José",80,CU,Curveball,-7.5,3
+2023,"Chargois, JT",95.5,FF,4-Seam Fastball,12.4,12.6
+2023,"Criswell, Cooper",82,SL,Slider,5.2,7.3
+2023,"Duarte, Daniel",90,CH,Changeup,5.7,15.6
+2023,"Hill, Tim",83.3,SL,Slider,3.2,3.7
+2023,"Covey, Dylan",86.7,FS,Split-Finger,3.4,7
+2023,"La Sorsa, Joe",75.5,FC,Cutter,8.8,7.3
+2023,"Turnbull, Spencer",78.6,CU,Curveball,-12.5,12
+2023,"Rosenberg, Kenny",77.5,CU,Curveball,-11.3,2.8
+2023,"Wright, Kyle",88.3,CH,Changeup,0.8,13.6
+2023,"Stone, Gavin",85.8,SL,Slider,-0.1,6.6
+2023,"Perdomo, Angel",90.6,CH,Changeup,9.2,15.6
+2023,"Chavez, Jesse",75.9,CU,Curveball,-7.2,16
+2023,"Winder, Josh",94.8,SI,Sinker,10.3,15.1
+2023,"González, Victor",87.1,CH,Changeup,2.6,14.4
+2023,"Herrin, Tim",96.2,SI,Sinker,5.2,13.5
+2023,"Herget, Jimmy",85.7,CH,Changeup,-2.2,8.8
+2023,"Uribe, Abner",100.9,FF,4-Seam Fastball,12.9,5.6
+2023,"Headrick, Brent",82,FS,Split-Finger,5.3,12.6
+2023,"Herget, Jimmy",92.6,FF,4-Seam Fastball,7.9,15.2
