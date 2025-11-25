@@ -224,7 +224,9 @@ master_data <- pitching_clean %>%
     playerID, yearID,
     all_of(pitch_vars),
     pointsWon, Vote_Flag
-  )
+  ) %>%
+  mutate(delta_FF_CH = FF_vel - CH_vel,
+            delta_FF_CU = FF_vel - CU_vel)
 
 
 
