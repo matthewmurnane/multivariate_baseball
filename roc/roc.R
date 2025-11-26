@@ -134,3 +134,4 @@ model$lev
 # prior = c(1-p, p) means:
 # First value (1-p = 0.48) goes to model$lev[1]
 # Second value (p = 0.52) goes to model$lev[2]
+
